@@ -1,5 +1,5 @@
 """This script generate json file which includes all papers information of the selected conference.
-The code estimates Computer Vision Foundation(CVF) supported conferences such as CVPR and ICCV.
+This code is for Neurlips.
 
 """
 
