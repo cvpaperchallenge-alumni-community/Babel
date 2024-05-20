@@ -125,7 +125,7 @@ def parse_paper_page(page_url: str) -> Paper:
     print(conference_path)
     # paper_name is like: 0001ca33ba34ce0351e4612b744b3936-Abstract-Conference
     # or 01726ae05d72ddba3ac784a5944fa1ef-Abstract-Datasets_and_Benchmarks
-    paper_name: Final[str] = page_url.rsplit("/", 1)[1].removesuffix(".html")
+    paper_name: str = page_url.rsplit("/", 1)[1].removesuffix(".html")
     # Abstruct-Conference -> Paper-Conference.
     if "Abstract" in paper_name:
         paper_name = paper_name.replace("Abstract", "Paper")
