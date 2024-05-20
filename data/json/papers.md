@@ -31,3 +31,14 @@
 | ---- | ---- | ---- | ---- |
 | 2022 | https://www.ecva.net/papers.php | <ここ埋める> |
 | 2020 | https://www.ecva.net/papers.php | <ここ埋める> | - アイテム1<br>- アイテム2<br>- アイテム3
+
+## NeurIPS
+
+|  年  | ソース | 論文数（スクレイプ結果）| メモ |
+| ---- | ---- | ---- | ---- |
+| 2023 | https://papers.nips.cc/paper_files/paper/2023 | 3218 |
+| 2022 | https://papers.nips.cc/paper_files/paper/2022 | <ここ埋める> | - アイテム1<br>- アイテム2<br>- アイテム3
+| 2021 | https://papers.nips.cc/paper_files/paper/2021 | <ここ埋める> |
+| 2020 | https://papers.nips.cc/paper_files/paper/2020 | <ここ埋める> |
+| 2019 | https://papers.nips.cc/paper_files/paper/2019 | <ここ埋める> |
+| 2018 | https://papers.nips.cc/paper_files/paper/2018 | <ここ埋める> |
