@@ -39,6 +39,6 @@
 | 2023 | https://papers.nips.cc/paper_files/paper/2023 | 3218 |
 | 2022 | https://papers.nips.cc/paper_files/paper/2022 | 2671 | 
 | 2021 | https://papers.nips.cc/paper_files/paper/2021 | 2334 |
-| 2020 | https://papers.nips.cc/paper_files/paper/2020 | <ここ埋める> |
+| 2020 | https://papers.nips.cc/paper_files/paper/2020 | 1898 |
 | 2019 | https://papers.nips.cc/paper_files/paper/2019 | <ここ埋める> |
 | 2018 | https://papers.nips.cc/paper_files/paper/2018 | <ここ埋める> |
