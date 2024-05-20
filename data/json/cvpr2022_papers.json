@@ -679,13 +679,6 @@
         "pdf": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Cerberus_Transformer_Joint_Semantic_Affordance_and_Attribute_Parsing_CVPR_2022_paper.pdf"
     },
     {
-        "title": "",
-        "author": "",
-        "abstract": "",
-        "page": "https://openaccess.thecvf.com/content/CVPR2022/html/Kim_E2V-SDE_From_Asynchronous_Events_to_Fast_and_Continuous_Video_Reconstruction_CVPR_2022_paper.html",
-        "pdf": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_E2V-SDE_From_Asynchronous_Events_to_Fast_and_Continuous_Video_Reconstruction_CVPR_2022_paper.pdf"
-    },
-    {
         "title": "CoSSL: Co-Learning of Representation and Classifier for Imbalanced Semi-Supervised Learning",
         "author": "Yue Fan, Dengxin Dai, Anna Kukleva, Bernt Schiele",
         "abstract": "Standard semi-supervised learning (SSL) using class-balanced datasets has shown great progress to leverage unlabeled data effectively. However, the more realistic setting of class-imbalanced data - called imbalanced SSL - is largely underexplored and standard SSL tends to underperform. In this paper, we propose a novel co-learning framework (CoSSL), which decouples representation and classifier learning while coupling them closely. To handle the data imbalance, we devise Tail-class Feature Enhancement (TFE) for classifier learning. Furthermore, the current evaluation protocol for imbalanced SSL focuses only on balanced test sets, which has limited practicality in real-world scenarios. Therefore, we further conduct a comprehensive evaluation under various shifted test distributions. In experiments, we show that our approach outperforms other methods over a large range of shifted distributions, achieving state-of-the-art performance on benchmark datasets ranging from CIFAR-10, CIFAR-100, ImageNet, to Food-101. Our code will be made publicly available.",
@@ -3869,13 +3862,6 @@
         "abstract": "Clustering is a popular approach to detecting patterns in unlabeled data. Existing clustering methods typically treat samples in a dataset as points in a metric space and compute distances to group together similar points. In this paper, we present a different way of clustering points in 2-dimensional space, inspired by how humans cluster data: by training neural networks to perform instance segmentation on plotted data. Our approach, Visual Clustering, has several advantages over traditional clustering algorithms: it is much faster than most existing clustering algorithms (making it suitable for very large datasets), it agrees strongly with human intuition for clusters, and it is by default hyperparameter free (although additional steps with hyperparameters can be introduced for more control of the algorithm). We describe the method and compare it to ten other clustering methods on synthetic data to illustrate its advantages and disadvantages. We then demonstrate how our approach can be extended to higher-dimensional data and illustrate its performance on real-world data. Our implementation of Visual Clustering is publicly available as a python package that can be installed and used on any dataset in a few lines of code. A demo on synthetic datasets is provided.",
         "page": "https://openaccess.thecvf.com/content/CVPR2022/html/Naous_Clustering_Plotted_Data_by_Image_Segmentation_CVPR_2022_paper.html",
         "pdf": "https://openaccess.thecvf.com/content/CVPR2022/papers/Naous_Clustering_Plotted_Data_by_Image_Segmentation_CVPR_2022_paper.pdf"
-    },
-    {
-        "title": "",
-        "author": "",
-        "abstract": "",
-        "page": "https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Accelerating_Neural_Network_Optimization_Through_an_Automated_Control_Theory_Lens_CVPR_2022_paper.html",
-        "pdf": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Accelerating_Neural_Network_Optimization_Through_an_Automated_Control_Theory_Lens_CVPR_2022_paper.pdf"
     },
     {
         "title": "Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding",
@@ -11898,13 +11884,6 @@
         "abstract": "Referring image segmentation is an advanced semantic segmentation task where target is not a predefined class but is described in natural language. Most of existing methods for this task rely heavily on convolutional neural networks, which however have trouble capturing long-range dependencies between entities in the language expression and are not flexible enough for modeling interactions between the two different modalities. To address these issues, we present the first convolution-free model for referring image segmentation using transformers, dubbed ReSTR. Since it extracts features of both modalities through transformer encoders, it can capture long-range dependencies between entities within each modality. Also, ReSTR fuses features of the two modalities by a self-attention encoder, which enables flexible and adaptive interactions between the two modalities in the fusion process. The fused features are fed to a segmentation module, which works adaptively according to the image and language expression in hand. ReSTR is evaluated and compared with previous work on all public benchmarks, where it outperforms all existing models.",
         "page": "https://openaccess.thecvf.com/content/CVPR2022/html/Kim_ReSTR_Convolution-Free_Referring_Image_Segmentation_Using_Transformers_CVPR_2022_paper.html",
         "pdf": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_ReSTR_Convolution-Free_Referring_Image_Segmentation_Using_Transformers_CVPR_2022_paper.pdf"
-    },
-    {
-        "title": "",
-        "author": "",
-        "abstract": "",
-        "page": "https://openaccess.thecvf.com/content/CVPR2022/html/Qin_A_Graph_Matching_Perspective_With_Transformers_on_Video_Instance_Segmentation_CVPR_2022_paper.html",
-        "pdf": "https://openaccess.thecvf.com/content/CVPR2022/papers/Qin_A_Graph_Matching_Perspective_With_Transformers_on_Video_Instance_Segmentation_CVPR_2022_paper.pdf"
     },
     {
         "title": "TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing",
