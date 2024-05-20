@@ -27,7 +27,6 @@ def get_papers(conference: str, year: int) -> list[dict]:
 
     """
     urls: Final[list[str]] = get_paper_page_urls(conference=conference, year=year)
-    print(f"urls:{urls}")
 
     papers: list[dict] = list()
     for i, url in enumerate(urls):
@@ -49,9 +48,7 @@ def get_paper_page_urls(conference: str, year: int) -> list[str]:
         list[str]: A list of CC page URL of each paper.
     """
     cc_root_url: Final[str] = "https://papers.nips.cc"
-    print(f"cc_root_url:{cc_root_url}")
     cc_all_paper_url: Final = cc_root_url + f"/paper_files/paper/{year}"
-    print(f"cc_all_paper_url:{cc_all_paper_url}")
 
     html: Final = requests.get(cc_all_paper_url).text
     bs: Final = BeautifulSoup(html, "html.parser")
@@ -61,7 +58,6 @@ def get_paper_page_urls(conference: str, year: int) -> list[str]:
         )
     else:
         parsed_tags = bs.select("div.container-fluid div.col ul.paper-list li a")
-    print(f"parsed_tags:{parsed_tags}")
     return [cc_root_url + parsed_tag.get("href") for parsed_tag in parsed_tags]
 
 
@@ -122,7 +118,6 @@ def parse_paper_page(page_url: str) -> Paper:
 
     # conference_path is like: https://papers.nips.cc/paper_files/paper/<year>/hash/<paper_name>.html
     conference_path: Final[str] = "/".join(page_url.split("/", 6)[:6])
-    print(conference_path)
     # paper_name is like: 0001ca33ba34ce0351e4612b744b3936-Abstract-Conference
     # or 01726ae05d72ddba3ac784a5944fa1ef-Abstract-Datasets_and_Benchmarks
     paper_name: str = page_url.rsplit("/", 1)[1].removesuffix(".html")
