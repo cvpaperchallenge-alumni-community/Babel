@@ -37,7 +37,7 @@
 |  年  | ソース | 論文数（スクレイプ結果）| メモ |
 | ---- | ---- | ---- | ---- |
 | 2023 | https://papers.nips.cc/paper_files/paper/2023 | 3218 |
-| 2022 | https://papers.nips.cc/paper_files/paper/2022 | <ここ埋める> | - アイテム1<br>- アイテム2<br>- アイテム3
+| 2022 | https://papers.nips.cc/paper_files/paper/2022 | 2671 | - アイテム1<br>- アイテム2<br>- アイテム3
 | 2021 | https://papers.nips.cc/paper_files/paper/2021 | <ここ埋める> |
 | 2020 | https://papers.nips.cc/paper_files/paper/2020 | <ここ埋める> |
 | 2019 | https://papers.nips.cc/paper_files/paper/2019 | <ここ埋める> |
