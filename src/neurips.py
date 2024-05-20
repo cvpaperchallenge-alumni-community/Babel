@@ -1,5 +1,5 @@
 """This script generate json file which includes all papers information of the selected conference.
-This code is for Neurlips.
+This code is for NeurIPS.
 
 """
 
