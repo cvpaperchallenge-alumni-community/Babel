@@ -55,9 +55,7 @@ def get_paper_page_urls(conference: str, year: int) -> list[str]:
     conference_name: Final[str] = validate_conference(conference, year)
 
     # 発表日ごとの表示しか出来ない場合
-    if (conference == "cvpr" and year == 2020) or (
-        conference == "iccv" and year == 2019
-    ):
+    if int(year) <= 2000:
         cvf_all_paper_url = cvf_root_url + f"/{conference_name}"
 
         html = requests.get(cvf_all_paper_url).text
