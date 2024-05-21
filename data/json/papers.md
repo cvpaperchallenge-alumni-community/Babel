@@ -42,3 +42,13 @@
 | 2020 | https://papers.nips.cc/paper_files/paper/2020 | 1898 |
 | 2019 | https://papers.nips.cc/paper_files/paper/2019 | 1428 |
 | 2018 | https://papers.nips.cc/paper_files/paper/2018 | 1009 | - A loss framework for calibrated anomaly detectionのauthorは手動で入力 |
+
+## CVPR
+
+|  年  | ソース | 論文数（スクレイプ結果）| メモ |
+| ---- | ---- | ---- | ---- |
+| 2023 | https://openaccess.thecvf.com/CVPR2023_workshops/menu | 697 |
+| 2022 | https://openaccess.thecvf.com/CVPR2022_workshops/menu |  | 
+| 2021 | https://openaccess.thecvf.com/CVPR2021_workshops/menu |  | 
+| 2020 | https://openaccess.thecvf.com/CVPR2020_workshops/menu |  |
+| 2019 | https://openaccess.thecvf.com/CVPR2019_workshops/menu |  |
