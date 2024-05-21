@@ -53,12 +53,40 @@ def get_paper_page_urls(conference: str, year: int) -> list[str]:
     """
     cvf_root_url: Final[str] = "https://openaccess.thecvf.com"
     conference_name: Final[str] = validate_conference(conference, year)
-    cvf_all_paper_url: Final = cvf_root_url + f"/{conference_name}?day=all"
 
-    html: Final = requests.get(cvf_all_paper_url).text
-    bs: Final = BeautifulSoup(html, "html.parser")
-    parsed_tags = bs.select(".ptitle > a")
-    return [cvf_root_url + parsed_tag.get("href") for parsed_tag in parsed_tags]
+    # 発表日ごとの表示しか出来ない場合
+    if (conference == "cvpr" and year == 2020) or (
+        conference == "iccv" and year == 2019
+    ):
+        cvf_all_paper_url = cvf_root_url + f"/{conference_name}"
+
+        html = requests.get(cvf_all_paper_url).text
+        bs = BeautifulSoup(html, "html.parser")
+        parsed_tags = bs.select("#content a")
+        day_cvf_url_list = [
+            cvf_root_url + f"/{parsed_tag.get("href")}" for parsed_tag in parsed_tags
+        ]
+
+        all_day_cvf_url_list = []
+        for day_cvf_url in day_cvf_url_list:
+            html = requests.get(day_cvf_url).text
+            bs = BeautifulSoup(html, "html.parser")
+            parsed_tags = bs.select(".ptitle > a")
+            all_day_cvf_url_list.extend(
+                [
+                    cvf_root_url + f"/{parsed_tag.get("href")}"
+                    for parsed_tag in parsed_tags
+                ]
+            )
+        return all_day_cvf_url_list
+
+    else:
+        cvf_all_paper_url = cvf_root_url + f"/{conference_name}?day=all"
+
+        html = requests.get(cvf_all_paper_url).text
+        bs = BeautifulSoup(html, "html.parser")
+        parsed_tags = bs.select(".ptitle > a")
+        return [cvf_root_url + parsed_tag.get("href") for parsed_tag in parsed_tags]
 
 
 def validate_conference(conference: str, year: int) -> str:
@@ -106,9 +134,21 @@ def parse_paper_page(page_url: str) -> Paper:
     html: Final[str] = requests.get(page_url).text
     bs: Final = BeautifulSoup(html, "html.parser")
 
-    title: Final[str] = bs.select_one("#papertitle").text.strip()
-    author: Final[str] = bs.select_one("#authors b").text.strip()
-    abstract: Final[str] = bs.select_one("#abstract").text.strip()
+    title: Final[str] = (
+        bs.select_one("#papertitle").text.strip()
+        if bs.select_one("#papertitle") is not None
+        else ""
+    )
+    author: Final[str] = (
+        bs.select_one("#authors b").text.strip()
+        if bs.select_one("#authors b") is not None
+        else ""
+    )
+    abstract: Final[str] = (
+        bs.select_one("#abstract").text.strip()
+        if bs.select_one("#abstract") is not None
+        else ""
+    )
     page: Final[str] = page_url
 
     # conference_path is like: https://openaccess.thecvf.com/content/<conference_name><year>
