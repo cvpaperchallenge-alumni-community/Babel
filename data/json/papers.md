@@ -21,9 +21,9 @@
 
 |  年  | ソース | 論文数（スクレイプ結果）| メモ |
 | ---- | ---- | ---- | ---- |
-| 2023 | https://openaccess.thecvf.com/ICCV2023?day=all | 2156 | - アイテム1<br>- アイテム2<br>- アイテム3
+| 2023 | https://openaccess.thecvf.com/ICCV2023?day=all | 2156 | 
 | 2021 | https://openaccess.thecvf.com/ICCV2021?day=all | 1612 |
-| 2019 | https://openaccess.thecvf.com/ICCV2019 | <ここ埋める> |
+| 2019 | https://openaccess.thecvf.com/ICCV2019 | 1075 |
 
 ## ECCV
 
