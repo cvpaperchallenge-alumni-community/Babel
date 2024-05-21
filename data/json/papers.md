@@ -51,4 +51,4 @@
 | 2022 | https://openaccess.thecvf.com/CVPR2022_workshops/menu | 561 | 
 | 2021 | https://openaccess.thecvf.com/CVPR2021_workshops/menu | 517 | 
 | 2020 | https://openaccess.thecvf.com/CVPR2020_workshops/menu | 522 |
-| 2019 | https://openaccess.thecvf.com/CVPR2019_workshops/menu |  |
+| 2019 | https://openaccess.thecvf.com/CVPR2019_workshops/menu | 614 | - Sight and Sound という名前のWSでは全てページにabstractの掲載が無かったため、空欄としている
