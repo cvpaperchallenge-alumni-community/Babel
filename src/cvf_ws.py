@@ -96,7 +96,7 @@ def get_paper_page_urls(conference: str, year: int) -> list[str]:
         url_to_remove = cvf_root_url + f"/{conference_name}_workshops/../menu"
 
         # Remove the URL from the list
-        while url_to_remove in ws_root_list:
+        if url_to_remove in ws_root_list:
             ws_root_list.remove(url_to_remove)
 
         ws_all_paper_url_list = []
