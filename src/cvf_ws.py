@@ -61,19 +61,56 @@ def get_paper_page_urls(conference: str, year: int) -> list[str]:
     html: Final = requests.get(ws_root_url).text
     bs: Final = BeautifulSoup(html, "html.parser")
     parsed_tags = bs.select("#content a")
-    # workshopごとのページに遷移するためのURLを取得する
-    # https://openaccess.thecvf.com/CVPR2023_workshops/TCV
-    ws_root_list = [cvf_root_url + parsed_tag.get("href") for parsed_tag in parsed_tags]
-    ws_all_paper_url_list = []
-    for ws_root in ws_root_list:
-        ws_html = requests.get(ws_root).text
-        ws_bs = BeautifulSoup(ws_html, "html.parser")
-        ws_parsed_tags = ws_bs.select(".ptitle > a")
-        a = [
-            cvf_root_url + ws_parsed_tag.get("href") for ws_parsed_tag in ws_parsed_tags
+
+    # 2023~2021までは同じ形式
+    if year == 2023 or year == 2022 or year == 2021:
+        # workshopごとのページに遷移するためのURLを取得する
+        # https://openaccess.thecvf.com/CVPR2023_workshops/TCV
+        ws_root_list = [
+            cvf_root_url + parsed_tag.get("href") for parsed_tag in parsed_tags
         ]
-        ws_all_paper_url_list.extend(a)
-    return ws_all_paper_url_list
+
+        ws_all_paper_url_list = []
+        for ws_root in ws_root_list:
+            ws_html = requests.get(ws_root).text
+            ws_bs = BeautifulSoup(ws_html, "html.parser")
+            ws_parsed_tags = ws_bs.select(".ptitle > a")
+            ws_all_paper_url_list.extend(
+                [
+                    cvf_root_url + ws_parsed_tag.get("href")
+                    for ws_parsed_tag in ws_parsed_tags
+                ]
+            )
+        return ws_all_paper_url_list
+
+    # 2020以前のデータは parsed_tagsで取れるものは"CVPR2020_w42.py"のような形式
+    else:
+        ws_root_list = [
+            cvf_root_url
+            + f"/{conference_name}_workshops/"
+            + parsed_tag.get("href").removesuffix(".py")
+            for parsed_tag in parsed_tags
+        ]
+        # The URL to be removed
+        # https://openaccess.thecvf.com/CVPR2020_workshops/../menuが最後にはいってしまう
+        url_to_remove = cvf_root_url + f"/{conference_name}_workshops/../menu"
+
+        # Remove the URL from the list
+        while url_to_remove in ws_root_list:
+            ws_root_list.remove(url_to_remove)
+
+        ws_all_paper_url_list = []
+        for ws_root in ws_root_list:
+            ws_html = requests.get(ws_root).text
+            ws_bs = BeautifulSoup(ws_html, "html.parser")
+            ws_parsed_tags = ws_bs.select(".ptitle > a")
+            ws_all_paper_url_list.extend(
+                [
+                    cvf_root_url + ws_parsed_tag.get("href").replace("..", "")
+                    for ws_parsed_tag in ws_parsed_tags
+                ]
+            )
+        return ws_all_paper_url_list
 
 
 def validate_conference(conference: str, year: int) -> str:
@@ -88,7 +125,7 @@ def validate_conference(conference: str, year: int) -> str:
         str: The unique conference name with year.
     """
     if conference == "cvprw":
-        if year not in range(2019, 2023):
+        if year not in range(2018, 2024):
             raise ValueError(
                 "CVPRWS conference is held from 2019 to 2023. \
                 Please specify the year in the range."
@@ -150,6 +187,6 @@ def parse_paper_page(page_url: str) -> Paper:
 
 if __name__ == "__main__":
     paper = parse_paper_page(
-        "https://openaccess.thecvf.com/content/CVPR2023W/TCV/html/Gowda_Synthetic_Sample_Selection_for_Generalized_Zero-Shot_Learning_CVPRW_2023_paper.html"
+        "https://openaccess.thecvf.com/content_CVPRW_2020/html/w42/Abhishek_Illumination-Based_Transformations_Improve_Skin_Lesion_Segmentation_in_Dermoscopic_Images_CVPRW_2020_paper.html"
     )
     print(paper.json())
