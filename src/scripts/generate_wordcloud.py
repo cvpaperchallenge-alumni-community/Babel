@@ -65,7 +65,7 @@ if __name__ == "__main__":
         "--output-dir",
         "-o",
         type=pathlib.Path,
-        default="./output/wordcloud",
+        default="./outputs/wordcloud",
         help="Output directory to save generated wordcloud image.",
     )
     parser.add_argument(
