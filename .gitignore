@@ -1,5 +1,4 @@
 models/*
-outputs/*
 __pycache__
 .coverage
 .mypy_cache
