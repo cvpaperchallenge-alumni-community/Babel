@@ -15,13 +15,13 @@ if __name__ == "__main__":
     parser.add_argument(
         "--script-path",
         type=pathlib.Path,
-        default="./src/scripts/adjusted_frequency_analysis_result.py",
-        help="A path to the script to run. Default is `./src/scripts/adjusted_frequency_analysis_result.py`.",
+        default="./src/scripts/adjust_frequency_analysis_result.py",
+        help="A path to the script to run. Default is `./src/scripts/adjust_frequency_analysis_result.py`.",
     )
     args = parser.parse_args()
 
     # Glob JSON files in the input directory.
-    csv_paths = args.input_dir.glob("*.csv")
+    csv_paths = args.input_dir.glob("*/*.csv")
     for csv_path in csv_paths:
         print(f"{csv_path} is being processed...")
 
@@ -42,4 +42,4 @@ if __name__ == "__main__":
             print("Standard Output:\n", e.stdout)
             print("Standard Error:\n", e.stderr)
 
-    print("All JSON files have been processed.")
+    print("All CSV files have been processed.")
