@@ -8,9 +8,13 @@ if __name__ == "__main__":
     from typing import Final
 
     import nltk
+    from nltk.corpus import wordnet
+    from nltk.stem import WordNetLemmatizer
 
     from src.frequencies import get_ngrams, remove_stopwords, sort_frequency_dict
     from src.utils import Paper
+
+    nltk.download("wordnet")
 
     # Parse command line arguments.
     parser: Final = argparse.ArgumentParser()
@@ -65,9 +69,17 @@ if __name__ == "__main__":
     all_abstract = " ".join([paper.abstract for paper in papers])
     source_text = all_title + " " + all_abstract if args.use_abstract else all_title
 
-    # Tokenize source text.
-    tokens = nltk.word_tokenize(source_text)
-    filtered_tokens = remove_stopwords(tokens)
+    # Tokenize source text. Lowercase all tokens for lemmatization.
+    tokens: Final = [token.lower() for token in nltk.word_tokenize(source_text)]
+
+    # Lemmatize tokens. Only nouns are considered.
+    lemmatizer: Final = WordNetLemmatizer()
+    lemmatized_tokens: Final = [
+        lemmatizer.lemmatize(token, pos=wordnet.NOUN) for token in tokens
+    ]
+
+    # Remove stopwords.
+    filtered_tokens = remove_stopwords(lemmatized_tokens)
 
     # Calculate word frequency.
     frequency_dict: dict[str, int] = {}
