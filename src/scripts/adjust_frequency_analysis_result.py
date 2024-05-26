@@ -65,7 +65,7 @@ if __name__ == "__main__":
 
     # Remove stopwords from frequency data.
     adjusted_frequency_dict = {
-        k: v for k, v in adjusted_frequency_dict.items() if k not in stopwords
+        k: v for k, v in adjusted_frequency_dict.items() if k.lower() not in stopwords
     }
 
     # Save word frequency as CSV file.
