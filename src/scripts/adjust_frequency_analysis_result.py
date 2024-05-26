@@ -19,10 +19,16 @@ if __name__ == "__main__":
         help="Output directory to save generated wordcloud image.",
     )
     parser.add_argument(
-        "--stopwords-path",
+        "--exact-match-stopwords-path",
         type=pathlib.Path,
         default="./data/exact_match_stopwords.txt",
         help="A txt file which includes exact match stopwords.",
+    )
+    parser.add_argument(
+        "--partial-match-stopwords-path",
+        type=pathlib.Path,
+        default="./data/partial_match_stopwords.txt",
+        help="A txt file which includes partial match stopwords.",
     )
     parser.add_argument(
         "--minimum-count",
@@ -33,11 +39,17 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    # Load stopwords.
-    stopwords = set()
-    with args.stopwords_path.open("r") as f:
+    # Load exact match stopwords.
+    exact_match_stopwords = set()
+    with args.exact_match_stopwords_path.open("r") as f:
         for line in f:
-            stopwords.add(line.strip())
+            exact_match_stopwords.add(line.strip())
+
+    # Patial exact match stopwords.
+    partial_match_stopwords = set()
+    with args.partial_match_stopwords_path.open("r") as f:
+        for line in f:
+            partial_match_stopwords.add(line.strip())
 
     # Check if input file exists.
     if not args.input_path.exists():
@@ -63,9 +75,24 @@ if __name__ == "__main__":
         k: v for k, v in frequency_dict.items() if v >= args.minimum_count
     }
 
-    # Remove stopwords from frequency data.
+    # Remove exact match stopwords from frequency data.
     adjusted_frequency_dict = {
-        k: v for k, v in adjusted_frequency_dict.items() if k.lower() not in stopwords
+        k: v
+        for k, v in adjusted_frequency_dict.items()
+        if k.lower() not in exact_match_stopwords
+    }
+
+    # Remove partial match stopwords from frequency data.
+    keys_to_remove = [
+        key
+        for key in adjusted_frequency_dict
+        if any(
+            splited_key.lower() in partial_match_stopwords
+            for splited_key in key.split()
+        )
+    ]
+    adjusted_frequency_dict = {
+        k: v for k, v in adjusted_frequency_dict.items() if k not in keys_to_remove
     }
 
     # Save word frequency as CSV file.
