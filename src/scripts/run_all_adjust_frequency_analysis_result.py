@@ -9,26 +9,26 @@ if __name__ == "__main__":
         "--input-dir",
         "-i",
         type=pathlib.Path,
-        default="./data/json",
-        help="An input diectory path where JSON files are placed.",
+        default="./outputs/raw_frequency",
+        help="An input diectory path where CSV files are placed.",
     )
     parser.add_argument(
         "--script-path",
         type=pathlib.Path,
-        default="./src/scripts/adjusted_frequency_analysis_result.py",
-        help="A path to the script to run. Default is `./src/scripts/adjusted_frequency_analysis_result.py`.",
+        default="./src/scripts/adjust_frequency_analysis_result.py",
+        help="A path to the script to run. Default is `./src/scripts/adjust_frequency_analysis_result.py`.",
     )
     args = parser.parse_args()
 
     # Glob JSON files in the input directory.
-    json_paths = args.input_dir.glob("*.json")
-    for json_path in json_paths:
-        print(f"{json_path} is being processed...")
+    csv_paths = args.input_dir.glob("*/*.csv")
+    for csv_path in csv_paths:
+        print(f"{csv_path} is being processed...")
 
         try:
             # Run the script with the specified arguments.
             result = subprocess.run(
-                ["poetry", "run", "python3", args.script_path, "-i", json_path],
+                ["poetry", "run", "python3", args.script_path, "-i", csv_path],
                 check=True,
                 capture_output=True,
                 text=True,
@@ -42,4 +42,4 @@ if __name__ == "__main__":
             print("Standard Output:\n", e.stdout)
             print("Standard Error:\n", e.stderr)
 
-    print("All JSON files have been processed.")
+    print("All CSV files have been processed.")
