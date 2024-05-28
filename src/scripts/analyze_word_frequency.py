@@ -33,7 +33,7 @@ if __name__ == "__main__":
         "--until-ngram",
         "-n",
         type=int,
-        default=2,
+        default=3,
         help="Calculate word frequency up to n-gram. Default is 2-gram.",
     )
     args = parser.parse_args()
