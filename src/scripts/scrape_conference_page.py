@@ -8,7 +8,7 @@ import logging
 import pathlib
 from typing import Final, Iterable
 
-from src import cvf, cvf_ws, neurips
+from src import cvf, cvf_ws, cvpr, neurips
 from src.utils import serialize_for_json_dump
 
 logger: Final = logging.getLogger(__name__)
@@ -27,9 +27,17 @@ def scrape_conference_page(
         year (int): The year of the conference.
 
     """
+    # Define output path.
+    output_path: Final = output_dir / f"{conference}{year}_papers.json"
+
     # Specify conference name and year.
     papers: Iterable[dict] = list()
-    if conference in ["cvpr", "iccv"]:
+    if conference == "cvpr" and year == 2024:
+        # This is for CVPR specific accepted papers page like
+        # https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
+        # This is used until Open Access repository is available.
+        papers = cvpr.get_papers(year=year, output_path=output_path)
+    elif conference in ["cvpr", "iccv"]:
         papers = cvf.get_papers(conference=conference, year=year)
     elif conference == "eccv":
         raise NotImplementedError("Not implemented yet.")
@@ -41,7 +49,6 @@ def scrape_conference_page(
         raise ValueError(f"Conference {conference} is not supported.")
 
     output_dir.mkdir(parents=True, exist_ok=True)
-    output_path: Final = output_dir / f"{conference}{year}_papers.json"
     with output_path.open("w") as f:
         json.dump(papers, f, indent=4, default=serialize_for_json_dump)
 
