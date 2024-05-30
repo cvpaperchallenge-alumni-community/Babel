@@ -12,7 +12,7 @@ if __name__ == "__main__":
     from nltk.stem import WordNetLemmatizer
 
     from src.frequencies import get_ngrams, remove_stopwords, sort_frequency_dict
-    from src.utils import Paper
+    from src.utils import PartialPaper
 
     nltk.download("wordnet")
 
@@ -62,11 +62,15 @@ if __name__ == "__main__":
 
     # Load papers from JSON file.
     with args.input_path.open("r") as f:
-        papers: list[Paper] = [Paper.model_validate(p) for p in json.load(f)]
+        papers: list[PartialPaper] = [
+            PartialPaper.model_validate(p) for p in json.load(f)
+        ]
 
     # Concat all titles and abstructs.
     all_title = " ".join([paper.title for paper in papers])
-    all_abstract = " ".join([paper.abstract for paper in papers])
+    all_abstract = " ".join(
+        [paper.abstract if paper.abstract else "" for paper in papers]
+    )
     source_text = all_title + " " + all_abstract if args.use_abstract else all_title
 
     # Tokenize source text. Lowercase all tokens for lemmatization.
