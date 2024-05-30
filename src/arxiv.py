@@ -3,19 +3,23 @@ from typing import Final
 from xml.etree import ElementTree
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 from src.utils import Paper
 
 
 def get_arxiv_papers(
     query: str,
-    max_results: int = 3,
+    max_results: int = 2,
+    timeout: int = 10,
 ) -> list[Paper]:
     """Get papers from arXiv API.
 
     Args:
         query (str): The query to search papers.
-        max_results (int): The maximum number of papers to get. Defaults to 3.
+        max_results (int): The maximum number of papers to get. Defaults to 1.
+        timeout (int): The timeout for the request. Defaults to 10.
 
     Returns:
         list[Paper]: A list of Paper objects.
@@ -26,14 +30,21 @@ def get_arxiv_papers(
     search_query: Final = f"search_query={query}&start=0&max_results={max_results}"
     url: Final = f"{base_url}?{search_query}"
 
-    # Get the response from the URL.
-    response: Final = requests.get(url)
+    session: Final = create_session_with_retries()
+    try:
+        response = session.get(url, timeout=timeout)
+        response.raise_for_status()  # Raise an exception for 4xx or 5xx status codes.
+    except requests.exceptions.RequestException as e:
+        raise ValueError(f"Failed to get the response from {url}. {e}") from e
 
-    # Check the response status code.
-    if response.status_code != 200:
-        raise ValueError(
-            f"Failed to get the response from {url}. The status code is {response.status_code}."
-        )
+    # # Get the response from the URL.
+    # response: Final = requests.get(url)
+
+    # # Check the response status code.
+    # if response.status_code != 200:
+    #     raise ValueError(
+    #         f"Failed to get the response from {url}. The status code is {response.status_code}."
+    #     )
 
     # Parse the response content.
     root: Final = ElementTree.fromstring(response.content)
@@ -68,6 +79,21 @@ def get_arxiv_papers(
         papers.append(paper)
 
     return papers
+
+
+def create_session_with_retries() -> requests.Session:
+    """Create a session with retries."""
+    retry_strategy = Retry(
+        total=5,  # How many times to retry.
+        status_forcelist=[429, 500, 502, 503, 504],  # HTTP status codes to retry.
+        # method_whitelist=["HEAD", "GET", "OPTIONS"],  # HTTP methods to retry.
+        backoff_factor=1,  # A backoff factor to apply between attempts after the second try.
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session = requests.Session()
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
 
 
 def clean_text(text: str) -> str:
