@@ -14,6 +14,16 @@ class Paper(BaseModel):
     pdf: HttpUrl
 
 
+class PartialPaper(BaseModel):
+    """Pydantic model which stores partial paper information."""
+
+    title: str
+    author: str
+    abstract: str | None = None
+    page: HttpUrl | None = None
+    pdf: HttpUrl | None = None
+
+
 def serialize_for_json_dump(object: Any) -> str:
     """Serialize object for JSON dump.
 
