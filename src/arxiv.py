@@ -1,3 +1,4 @@
+import re
 from typing import Final
 from xml.etree import ElementTree
 
@@ -6,15 +7,15 @@ import requests
 from src.utils import Paper
 
 
-def get_arxiv_paeprs(
+def get_arxiv_papers(
     query: str,
-    max_results: int = 5,
+    max_results: int = 3,
 ) -> list[Paper]:
     """Get papers from arXiv API.
 
     Args:
         query (str): The query to search papers.
-        max_results (int): The maximum number of papers to get. Defaults to 5.
+        max_results (int): The maximum number of papers to get. Defaults to 3.
 
     Returns:
         list[Paper]: A list of Paper objects.
@@ -39,13 +40,16 @@ def get_arxiv_paeprs(
 
     papers: list[Paper] = []
     for entry in root.findall("{http://www.w3.org/2005/Atom}entry"):
-        title: str = entry.find("{http://www.w3.org/2005/Atom}title").text  # type: ignore
-        summary: str = entry.find("{http://www.w3.org/2005/Atom}summary").text  # type: ignore
-        page_url: str = entry.find("{http://www.w3.org/2005/Atom}id").text  # type: ignore
+        title: str = clean_text(entry.find("{http://www.w3.org/2005/Atom}title").text)  # type: ignore
+        summary: str = clean_text(
+            entry.find("{http://www.w3.org/2005/Atom}summary").text  # type: ignore
+        )
+        id_url: str = entry.find("{http://www.w3.org/2005/Atom}id").text  # type: ignore
 
         # page_url is url like "http://arxiv.org/abs/2305.11288v2".
         # We need to extract the id like "2305.11288".
-        arxiv_id: str = page_url.split("/")[-1].split("v")[0]
+        arxiv_id: str = id_url.split("/")[-1].split("v")[0]
+        arxiv_url: str = f"http://arxiv.org/abs/{arxiv_id}"
         pdf_url: str = f"http://arxiv.org/pdf/{arxiv_id}.pdf"
 
         # Get authors.
@@ -58,12 +62,29 @@ def get_arxiv_paeprs(
             title=title,
             author=", ".join(authors),
             abstract=summary,
-            page=page_url,  # type: ignore
+            page=arxiv_url,  # type: ignore
             pdf=pdf_url,  # type: ignore
         )
         papers.append(paper)
 
     return papers
+
+
+def clean_text(text: str) -> str:
+    """Remove newline or extra spaces from the text.
+
+    Args:
+        text (str): The text to clean.
+
+    Returns:
+        str: The cleaned text.
+
+    """
+    # Remove \n from the text.
+    text = re.sub(r"\n", " ", text)
+    # Remove extra spaces from the text.
+    cleaned_text = re.sub(r"\s+", " ", text).strip()
+    return cleaned_text
 
 
 if __name__ == "__main__":
@@ -78,5 +99,5 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    papers = get_arxiv_paeprs(args.query)
+    papers = get_arxiv_papers(args.query)
     print(papers)
