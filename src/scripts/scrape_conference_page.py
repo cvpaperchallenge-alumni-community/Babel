@@ -8,7 +8,7 @@ import logging
 import pathlib
 from typing import Final, Iterable
 
-from src import cvf, cvf_ws, cvpr, neurips
+from src import cvf, cvf_ws, cvpr, eccv, neurips
 from src.utils import serialize_for_json_dump
 
 logger: Final = logging.getLogger(__name__)
@@ -40,7 +40,7 @@ def scrape_conference_page(
     elif conference in ["cvpr", "iccv"]:
         papers = cvf.get_papers(conference=conference, year=year)
     elif conference == "eccv":
-        raise NotImplementedError("Not implemented yet.")
+        papers = eccv.get_papers(year=year)
     elif conference == "neurips":
         papers = neurips.get_papers(conference=conference, year=year)
     elif conference == "cvprw":
