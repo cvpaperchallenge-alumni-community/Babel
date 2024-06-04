@@ -15,6 +15,7 @@ if __name__ == "__main__":
     from src.utils import PartialPaper
 
     nltk.download("wordnet")
+    nltk.download("punkt")
 
     # Parse command line arguments.
     parser: Final = argparse.ArgumentParser()
