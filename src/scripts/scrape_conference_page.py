@@ -8,7 +8,7 @@ import logging
 import pathlib
 from typing import Final, Iterable
 
-from src import cvf, cvf_ws, cvpr, eccv, neurips
+from src import cvf, cvf_ws, eccv, neurips
 from src.utils import serialize_for_json_dump
 
 logger: Final = logging.getLogger(__name__)
@@ -32,12 +32,16 @@ def scrape_conference_page(
 
     # Specify conference name and year.
     papers: Iterable[dict] = list()
-    if conference == "cvpr" and year == 2024:
-        # This is for CVPR specific accepted papers page like
-        # https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
-        # This is used until Open Access repository is available.
-        papers = cvpr.get_papers(year=year, output_path=output_path)
-    elif conference in ["cvpr", "iccv"]:
+
+    # NOTE: Following code is example of how to scrape CVPR specific
+    # accepted papers page.
+    # if conference == "cvpr" and year == 2024:
+    # This is for CVPR specific accepted papers page like
+    # https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
+    # This is used until Open Access repository is available.
+    # papers = cvpr.get_papers(year=year, output_path=output_path)
+
+    if conference in ["cvpr", "iccv"]:
         papers = cvf.get_papers(conference=conference, year=year)
     elif conference == "eccv":
         papers = eccv.get_papers(year=year)
