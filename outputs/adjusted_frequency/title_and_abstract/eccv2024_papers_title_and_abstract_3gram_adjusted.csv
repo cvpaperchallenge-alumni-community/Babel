@@ -1,0 +1,9406 @@
+word,count
+model,5266
+image,3590
+3d,2106
+object,1750
+data,1726
+propose,1694
+feature,1633
+performance,1622
+learning,1620
+video,1464
+training,1395
+diffusion,1238
+representation,1227
+scene,1163
+generation,1143
+datasets,1133
+existing,1128
+code,1088
+dataset,1047
+visual,1017
+state-of-the-art,993
+available,990
+framework,987
+result,987
+experiment,984
+however,974
+demonstrate,970
+introduce,962
+segmentation,885
+motion,855
+paper,841
+network,836
+benchmark,832
+diffusion model,826
+human,799
+detection,796
+extensive,791
+challenge,766
+semantic,765
+work,744
+’,739
+address,712
+domain,712
+prompt,709
+point,706
+proposed,703
+across,698
+text,678
+show,672
+different,653
+ha,639
+pose,617
+first,607
+module,605
+also,602
+process,601
+various,598
+neural,592
+input,588
+large,575
+code available,561
+knowledge,558
+prediction,546
+present,544
+reconstruction,544
+space,542
+quality,536
+extensive experiment,531
+achieves,524
+language,524
+camera,509
+due,506
+multiple,500
+vision,496
+strategy,494
+recent,492
+specifically,486
+significantly,474
+significant,468
+attention,465
+dynamic,463
+scenario,463
+previous,459
+design,457
+issue,450
+temporal,450
+field,448
+effectiveness,437
+loss,434
+transformer,433
+efficient,430
+distribution,425
+sample,423
+challenging,421
+latent,421
+estimation,417
+capability,416
+generate,412
+map,410
+accuracy,408
+diverse,408
+outperforms,408
+real-world,405
+action,401
+application,401
+achieve,395
+often,395
+within,395
+effectively,393
+rendering,393
+label,390
+2d,389
+architecture,388
+alignment,385
+leverage,381
+pre-trained,380
+generative,378
+editing,375
+time,374
+cloud,373
+point cloud,361
+technique,359
+depth,356
+compared,351
+generalization,345
+consistency,343
+learn,342
+annotation,339
+parameter,339
+shape,338
+local,336
+classification,333
+effective,330
+study,330
+source,329
+ability,327
+adaptation,326
+gaussian,326
+synthesis,326
+clip,325
+including,325
+spatial,325
+limited,324
+optimization,324
+trained,324
+robust,318
+token,318
+high-quality,317
+modality,316
+region,315
+current,314
+improvement,314
+recognition,314
+better,307
+designed,305
+interaction,304
+large-scale,304
+propose novel,303
+concept,297
+query,295
+use,295
+multimodal,294
+project,294
+structure,294
+face,292
+synthetic,292
+enhance,291
+noise,291
+generated,290
+modeling,290
+key,288
+computational,287
+efficiency,287
+complex,284
+experimental,283
+leveraging,282
+content,281
+additionally,280
+aim,279
+global,278
+distillation,277
+improve,277
+potential,277
+superior,277
+real,276
+instance,275
+object detection,275
+zero-shot,275
+attack,274
+furthermore,273
+moreover,271
+system,271
+deep,269
+cost,268
+robustness,268
+adversarial,266
+mechanism,266
+focus,264
+setting,263
+used,263
+mask,262
+context,261
+three,261
+geometry,260
+given,260
+multi-view,259
+condition,258
+yet,258
+capture,257
+gap,257
+sampling,257
+control,256
+algorithm,253
+vision-language,251
+comprehensive,248
+existing method,248
+generating,246
+language model,246
+text-to-image,246
+experimental result,245
+self-supervised,245
+matching,242
+function,241
+simple,241
+downstream,239
+enables,238
+experiment demonstrate,238
+achieving,231
+baseline,231
+user,231
+limitation,230
+fine-tuning,226
+reasoning,226
+scale,226
+detail,224
+texture,224
+employ,223
+research,223
+style,223
+fine-grained,222
+graph,221
+unsupervised,221
+appearance,218
+bias,218
+”,218
+adaptive,216
+step,216
+paper propose,215
+several,214
+even,213
+perception,213
+state-of-the-art performance,213
+encoder,212
+metric,211
+semantic segmentation,211
+tackle,211
+well,211
+component,210
+directly,210
+driving,210
+need,210
+pipeline,209
+denoising,208
+enhancing,208
+memory,208
+score,208
+solution,206
+additional,205
+implicit,205
+pair,205
+number,204
+sparse,204
+specific,202
+leading,201
+neural network,201
+contrastive,200
+llm,200
+page,200
+3d object,199
+category,199
+despite,199
+supervision,199
+error,198
+guidance,197
+geometric,196
+textual,195
+trajectory,195
+resulting,194
+“,194
+hand,193
+learned,193
+provide,193
+pre-training,192
+project page,192
+retrieval,192
+transfer,192
+dense,191
+proposed method,191
+thus,191
+original,190
+state-of-the-art method,190
+consistent,189
+lack,188
+environment,187
+like,187
+localization,187
+paradigm,187
+sequence,187
+term,187
+train,187
+unseen,186
+allows,185
+output,185
+large language,184
+multi-modal,184
+detector,183
+mesh,183
+supervised,183
+enabling,182
+remains,182
+surface,182
+pixel,181
+correspondence,180
+crucial,180
+description,179
+make,179
+fusion,178
+improves,178
+instruction,178
+natural,177
+relationship,177
+produce,176
+large language model,175
+address issue,173
+nerf,172
+introduces,171
+radiance,170
+traditional,170
+achieves state-of-the-art,169
+constraint,169
+embedding,169
+recently,169
+standard,168
+strong,168
+anomaly,167
+corresponding,167
+evaluate,167
+require,167
+signal,167
+teacher,167
+foundation,166
+restoration,166
+advancement,165
+thereby,164
+future,163
+promising,163
+property,163
+validate,163
+many,162
+autonomous,160
+introduce novel,160
+small,160
+splatting,160
+stage,159
+tracking,159
+agent,158
+example,158
+identify,158
+joint,157
+size,157
+sota,157
+demonstrates,156
+diversity,155
+exhibit,155
+inherent,155
+lead,155
+training data,155
+efficiently,154
+still,154
+vision-language model,154
+among,153
+generative model,153
+rely,153
+3d scene,152
+embeddings,152
+gradient,152
+shown,152
+offer,151
+pose estimation,151
+radiance field,151
+computer,150
+degradation,150
+distance,150
+realistic,150
+gaussian splatting,149
+head,149
+manner,149
+perform,149
+perspective,149
+called,148
+extensive experiment demonstrate,148
+superior performance,148
+augmentation,147
+complexity,147
+model ’,146
+segment,146
+enable,145
+fully,145
+grounding,145
+typically,145
+utilizing,145
+background,143
+second,143
+type,143
+world,143
+achieved,142
+develop,142
+attribute,141
+change,141
+few-shot,141
+finally,141
+result demonstrate,141
+compression,140
+imaging,140
+masked,140
+real-time,140
+resolution,140
+e.g.,139
+objective,139
+especially,138
+estimate,138
+fast,138
+may,138
+noisy,138
+lidar,137
+named,137
+construct,136
+enhancement,136
+observation,136
+scheme,136
+shift,136
+facial,135
+find,135
+speed,135
+superiority,135
+addition,134
+improved,134
+test,134
+color,133
+demonstrate effectiveness,133
+remarkable,133
+way,133
+classifier,132
+detailed,132
+practical,132
+struggle,132
+enhances,131
+highly,131
+latent space,131
+pattern,131
+foundation model,130
+open-vocabulary,130
+particularly,130
+state,130
+caption,129
+general,129
+relation,129
+volume,129
+3d gaussian,128
+end-to-end,128
+hierarchical,128
+individual,128
+learns,128
+negative,128
+semantics,128
+computer vision,127
+image generation,127
+common,126
+mitigate,126
+ood,126
+reference,126
+requires,126
+student,126
+enhanced,125
+online,125
+provides,125
+area,124
+correlation,124
+predict,124
+similar,124
+text prompt,124
+flow,123
+sensor,123
+address challenge,122
+gaussians,122
+obtain,122
+selection,122
+vlms,122
+conduct,121
+continual,121
+novel view,121
+question,121
+advantage,120
+autonomous driving,120
+either,120
+precise,120
+success,120
+utilizes,120
+making,119
+simultaneously,119
+backbone,118
+extract,118
+fidelity,118
+monocular,118
+quantization,118
+reducing,118
+respectively,118
+source code,118
+unlabeled,118
+best,117
+datasets demonstrate,117
+preserving,117
+progress,117
+similarity,117
+utilize,117
+critical,116
+demonstrated,116
+experiment show,116
+representation learning,116
+effect,115
+insight,115
+variation,115
+accurately,114
+conditional,114
+instead,114
+layout,114
+mapping,114
+novel approach,114
+support,114
+decoder,113
+facilitate,113
+high-resolution,113
+maintaining,113
+method achieves,113
+tuning,113
+avatar,112
+guide,112
+reduce,112
+competitive,111
+explore,111
+expression,111
+handle,111
+i.e.,111
+publicly,111
+view synthesis,111
+rgb,110
+search,110
+uncertainty,110
+discriminative,109
+generates,109
+overcome,108
+semi-supervised,108
+super-resolution,108
+achieves state-of-the-art performance,107
+efficacy,107
+labeled,107
+public,107
+cross-modal,106
+explicit,106
+lightweight,106
+requiring,106
+resource,106
+rich,106
+stable,106
+transformation,106
+across various,105
+regularization,105
+box,104
+doe,104
+egocentric,104
+however existing,104
+issue propose,104
+learnable,104
+open,104
+rate,104
+applied,103
+computation,103
+notably,103
+position,103
+substantial,103
+advance,102
+average,102
+four,102
+identity,102
+medical,102
+released,102
+adapt,101
+cue,101
+demonstrate method,101
+encoding,101
+involves,101
+powerful,101
+consistently,100
+direction,100
+distinct,100
+ensure,100
+integrating,100
+pre-trained model,100
+tailored,100
+wide,100
+arbitrary,99
+contrast,99
+experimental result demonstrate,99
+important,99
+response,99
+sam,99
+since,99
+conventional,98
+incorporating,98
+integrates,98
+model trained,98
+paper present,98
+patch,98
+previous method,98
+quantitative,98
+block,97
+faster,97
+le,97
+overall,97
+translation,97
+u,97
+vector,97
+edge,96
+exploit,96
+paper introduce,96
+publicly available,96
+reduces,96
+align,95
+capturing,95
+contrastive learning,95
+demonstrating,94
+ground,94
+linear,94
+outperforms existing,94
+take,94
+bridge,93
+characteristic,93
+continuous,93
+location,93
+optimal,93
+pretrained,93
+refinement,93
+widely,93
+3d gaussian splatting,92
+addressing,92
+benchmark datasets,92
+physical,92
+suffer,92
+unique,92
+benefit,91
+combination,91
+completion,91
+guided,91
+introducing,91
+long,91
+made,91
+manipulation,91
+normal,91
+planning,91
+reliable,91
+unlike,91
+consists,90
+human motion,90
+mllms,90
+neural radiance,90
+outperforms state-of-the-art,90
+positive,90
+processing,90
+work propose,90
+along,89
+boundary,89
+capable,89
+easily,89
+explicitly,89
+forgetting,89
+neural radiance field,89
+phase,89
+registration,89
+us,89
+aggregation,88
+annotated,88
+behavior,88
+controllable,88
+high-fidelity,88
+particular,88
+transformer-based,88
+3d human,87
+adapter,87
+artifact,87
+bev,87
+form,87
+found,87
+surpasses,87
+text-to-image diffusion,87
+build,86
+finding,86
+generator,86
+incorporate,86
+providing,86
+represent,86
+variety,86
+vision transformer,86
+higher,85
+impact,85
+integration,85
+jointly,85
+pseudo,85
+requirement,85
+self-attention,85
+viewpoint,85
+yield,85
+boost,84
+comparable,84
+distortion,84
+frequency,84
+importance,84
+projection,84
+qualitative,84
+regression,84
+static,84
+text-to-image diffusion model,84
+although,83
+essential,83
+incorporates,83
+order,83
+result show,83
+therefore,83
+anomaly detection,82
+calibration,82
+combine,82
+contribution,82
+difference,82
+help,82
+initial,82
+input image,82
+light,82
+popular,82
+value,82
+3d object detection,81
+audio-visual,81
+building,81
+device,81
+domain adaptation,81
+extraction,81
+increase,81
+introduced,81
+operation,81
+perturbation,81
+solve,81
+subject,81
+test-time,81
+allowing,80
+animation,80
+audio,80
+beyond,80
+computational cost,80
+conducted,80
+development,80
+full,80
+learning-based,80
+nature,80
+novel framework,80
+reconstruct,80
+blur,79
+fail,79
+image editing,79
+iterative,79
+known,79
+preserve,79
+short,79
+associated,78
+create,78
+employing,78
+establish,78
+generalizable,78
+innovative,78
+integrate,78
+inversion,78
+novel view synthesis,78
+discovery,77
+effort,77
+inspired,77
+minimal,77
+occupancy,77
+termed,77
+vehicle,77
+ambiguity,76
+deployment,76
+explanation,76
+flexible,76
+following,76
+great,76
+impressive,76
+interest,76
+margin,76
+occlusion,76
+relying,76
+role,76
+tool,76
+upon,76
+vit,76
+case,75
+deep learning,75
+diffusion-based,75
+image restoration,75
+increasing,75
+inpainting,75
+method outperforms,75
+present novel,75
+reduction,75
+scalable,75
+solely,75
+state-of-the-art result,75
+subsequently,75
+3dgs,74
+able,74
+across different,74
+action recognition,74
+advanced,74
+ensuring,74
+facilitating,74
+factor,74
+indoor,74
+inverse,74
+knowledge distillation,74
+learning method,74
+outperforming,74
+primarily,74
+prompting,74
+usually,74
+weather,74
+aspect,73
+client,73
+comparison,73
+continual learning,73
+density,73
+material,73
+overhead,73
+paper introduces,73
+pruning,73
+3d point,72
+aligning,72
+alleviate,72
+challenge propose,72
+deformation,72
+direct,72
+main,72
+pseudo-labels,72
+random,72
+testing,72
+varying,72
+4d,71
+art,71
+assessment,71
+core,71
+element,71
+existing approach,71
+integrated,71
+methodology,71
+missing,71
+pixel-level,71
+real-world scenario,71
+relative,71
+auxiliary,70
+backdoor,70
+branch,70
+entire,70
+expert,70
+gain,70
+generalized,70
+idea,70
+model llm,70
+show method,70
+stereo,70
+synthetic data,70
+collection,69
+convolution,69
+empirical,69
+facilitates,69
+generalize,69
+image-text,69
+out-of-distribution,69
+target domain,69
+universal,69
+update,69
+virtual,69
+coordinate,68
+difficulty,68
+federated,68
+handling,68
+optimize,68
+overfitting,68
+predicted,68
+refine,68
+significantly outperforms,68
+simple yet,68
+spectral,68
+structural,68
+capacity,67
+captured,67
+compositional,67
+hard,67
+image classification,67
+masking,67
+matrix,67
+offering,67
+paired,67
+proposes,67
+reveal,67
+yet effective,67
+activation,66
+active,66
+address issue propose,66
+amount,66
+base,66
+demand,66
+expensive,66
+language model llm,66
+latent diffusion,66
+observe,66
+scene representation,66
+separate,66
+year,66
+3d shape,65
+camera pose,65
+commonly,65
+defense,65
+dynamically,65
+gaze,65
+incremental,65
+measure,65
+method often,65
+performs,65
+reconstructing,65
+shared,65
+automatically,64
+become,64
+conditioned,64
+conditioning,64
+consider,64
+differentiable,64
+goal,64
+keypoint,64
+limit,64
+natural language,64
+open-set,64
+paper propose novel,64
+raw,64
+stream,64
+structured,64
+unknown,64
+3d reconstruction,63
+code model,63
+considering,63
+effectiveness proposed,63
+emerged,63
+fixed,63
+grid,63
+mainly,63
+novel method,63
+nuscenes,63
+relevant,63
+source code available,63
+ssl,63
+compact,62
+detect,62
+mean,62
+method code,62
+proposal,62
+t2i,62
+understand,62
+applicability,61
+decomposition,61
+depth estimation,61
+generalization ability,61
+generated image,61
+imagenet,61
+investigate,61
+low-light,61
+person,61
+pretraining,61
+privacy,61
+skeleton,61
+topology,61
+wide range,61
+3d gaussians,60
+bounding,60
+caused,60
+clustering,60
+correction,60
+could,60
+desired,60
+exploration,60
+fundamental,60
+heterogeneous,60
+human pose,60
+image quality,60
+image segmentation,60
+intermediate,60
+kernel,60
+keypoints,60
+lighting,60
+mutual,60
+power,60
+previous work,60
+significant challenge,60
+surpassing,60
+apply,59
+catastrophic,59
+composition,59
+contains,59
+dimension,59
+extracted,59
+interpolation,59
+larger,59
+machine,59
+personalized,59
+removal,59
+robot,59
+self-supervised learning,59
+showcase,59
+sign,59
+simple yet effective,59
+synthesize,59
+text-to-image generation,59
+underlying,59
+across diverse,58
+adaptively,58
+alternative,58
+ass,58
+captioning,58
+certain,58
+cross-attention,58
+final,58
+initialization,58
+intricate,58
+match,58
+measurement,58
+path,58
+plug-and-play,58
+residual,58
+seamlessly,58
+segmentation model,58
+spatio-temporal,58
+–,58
+3d point cloud,57
+across multiple,57
+besides,57
+consequently,57
+flexibility,57
+high-frequency,57
+ii,57
+image text,57
+informative,57
+interactive,57
+loss function,57
+mitigating,57
+notable,57
+precision,57
+provided,57
+scaling,57
+weakly,57
+applying,56
+code released,56
+complete,56
+defect,56
+difficult,56
+discrepancy,56
+effectiveness method,56
+encode,56
+good,56
+id,56
+illumination,56
+much,56
+parametric,56
+rather,56
+smaller,56
+spatial-temporal,56
+together,56
+two-stage,56
+video generation,56
+activity,55
+ai,55
+combining,55
+contextual,55
+cross-domain,55
+decoding,55
+demonstrate proposed,55
+dependency,55
+estimating,55
+event-based,55
+extend,55
+extra,55
+forward,55
+grasp,55
+multi-task,55
+possible,55
+potentially,55
+recent advancement,55
+recent year,55
+synthesizing,55
+text-to-3d,55
+trade-off,55
+anchor,54
+balance,54
+bottleneck,54
+bounding box,54
+clean,54
+coco,54
+connection,54
+derived,54
+domain gap,54
+learning framework,54
+limiting,54
+movement,54
+old,54
+optical,54
+referring,54
+scalability,54
+adverse,53
+autoencoder,53
+community,53
+complementary,53
+confidence,53
+creating,53
+discrete,53
+employed,53
+explored,53
+firstly,53
+high-level,53
+hybrid,53
+intensity,53
+largely,53
+line,53
+long-term,53
+manual,53
+obtained,53
+preference,53
+related,53
+relies,53
+series,53
+significant improvement,53
+truth,53
+versatile,53
+weakly supervised,53
+adapting,52
+adjustment,52
+aiming,52
+answer,52
+anything,52
+cluster,52
+convolutional,52
+data augmentation,52
+deep neural,52
+feature representation,52
+image synthesis,52
+meanwhile,52
+medical image,52
+namely,52
+navigation,52
+nerfs,52
+optimized,52
+outdoor,52
+procedure,52
+progressive,52
+rotation,52
+seen,52
+simulation,52
+stable diffusion,52
+assumption,51
+deep neural network,51
+developed,51
+disentangled,51
+evaluated,51
+ground truth,51
+importantly,51
+lower,51
+method achieves state-of-the-art,51
+model available,51
+partial,51
+previously,51
+semantic information,51
+training-free,51
+variant,51
+address limitation,50
+aligned,50
+answering,50
+code dataset,50
+comprehensive experiment,50
+identifying,50
+inaccurate,50
+mixture,50
+prompt learning,50
+proxy,50
+recovery,50
+risk,50
+scene graph,50
+significantly improves,50
+storage,50
+temporally,50
+visible,50
+vocabulary,50
+ablation,49
+adversarial attack,49
+association,49
+catastrophic forgetting,49
+datasets code,49
+diffusion process,49
+experiment conducted,49
+external,49
+hallucination,49
+influence,49
+miou,49
+misalignment,49
+multi-scale,49
+poor,49
+state-of-the-art sota,49
+template,49
+utilized,49
+valuable,49
+cause,48
+coarse,48
+comprises,48
+convergence,48
+dataset available,48
+encoders,48
+feature space,48
+foreground,48
+generic,48
+independent,48
+intrinsic,48
+labeled data,48
+motivated,48
+object detector,48
+optimizing,48
+performance across,48
+photorealistic,48
+policy,48
+reason,48
+semantically,48
+showing,48
+video understanding,48
+word,48
+access,47
+around,47
+channel,47
+combined,47
+deblurring,47
+depth map,47
+detecting,47
+existing work,47
+five,47
+garment,47
+inconsistency,47
+instance segmentation,47
+motion generation,47
+observed,47
+outperforms previous,47
+play,47
+representing,47
+scene understanding,47
+setup,47
+solver,47
+solving,47
+subset,47
+transform,47
+analyze,46
+augmented,46
+automatic,46
+bridge gap,46
+construction,46
+consumption,46
+data distribution,46
+formulation,46
+generalization capability,46
+learning model,46
+outperform,46
+performance improvement,46
+prior work,46
+probabilistic,46
+sensing,46
+state-of-the-art approach,46
+successfully,46
+theoretical,46
+‘,46
+3d representation,45
+built,45
+contain,45
+current state-of-the-art,45
+demonstrate superiority,45
+domain shift,45
+embodied,45
+extensive experiment show,45
+generation model,45
+heavily,45
+highlight,45
+includes,45
+maintain,45
+problem propose,45
+promising result,45
+reward,45
+sequential,45
+urban,45
+vision model,45
+2d image,44
+3d model,44
+attempt,44
+attention mechanism,44
+collaborative,44
+compared existing,44
+compared state-of-the-art,44
+degree,44
+diffusion prior,44
+ensures,44
+established,44
+evaluating,44
+experimental result show,44
+focused,44
+granularity,44
+lvlms,44
+panoptic,44
+positional,44
+primitive,44
+radar,44
+reduced,44
+required,44
+scarcity,44
+sparsity,44
+substantially,44
+tackle challenge,44
+text image,44
+variable,44
+visual feature,44
+widely used,44
+3d-aware,43
+absence,43
+address problem,43
+allow,43
+boosting,43
+carefully,43
+correct,43
+datasets show,43
+decision,43
+disentanglement,43
+domain generalization,43
+dubbed,43
+dynamic scene,43
+feedback,43
+generalizability,43
+in-the-wild,43
+method code available,43
+model vlms,43
+newly,43
+probability,43
+question answering,43
+real image,43
+reinforcement,43
+reliance,43
+rendered,43
+serve,43
+sketch,43
+specialized,43
+spectrum,43
+task-specific,43
+tracker,43
+validate effectiveness,43
+vqa,43
+window,43
+adaptability,42
+adopt,42
+compared previous,42
+comprehension,42
+computing,42
+configuration,42
+creation,42
+cross-view,42
+however method,42
+image super-resolution,42
+independently,42
+inherently,42
+modification,42
+moving,42
+multimodal large,42
+multimodal large language,42
+numerous,42
+object segmentation,42
+object-centric,42
+overlook,42
+practice,42
+prior knowledge,42
+recent work,42
+remarkably,42
+rgb image,42
+score distillation,42
+select,42
+shadow,42
+traffic,42
+vision language,42
+work introduce,42
+address challenge propose,41
+allows u,41
+coherent,41
+counterpart,41
+detection method,41
+discover,41
+dual,41
+fall,41
+frozen,41
+graphic,41
+implementation,41
+iteratively,41
+major,41
+multi-view image,41
+naturally,41
+parallel,41
+parameter-efficient,41
+past,41
+perceptual,41
+remain,41
+spurious,41
+synthesized,41
+time-consuming,41
+variational,41
+visual representation,41
+watermarking,41
+ablation study,40
+aggregate,40
+aligns,40
+applicable,40
+benchmark demonstrate,40
+broad,40
+code publicly,40
+collect,40
+constrained,40
+containing,40
+cross-modality,40
+devise,40
+emerging,40
+estimated,40
+existing state-of-the-art,40
+extremely,40
+fewer,40
+fine-tuned,40
+fl,40
+forecasting,40
+grounded,40
+indicate,40
+infrared,40
+inr,40
+large margin,40
+method significantly,40
+model generate,40
+optical flow,40
+per,40
+performance compared,40
+producing,40
+proposed approach,40
+pseudo label,40
+real data,40
+recognizing,40
+reinforcement learning,40
+serf,40
+track,40
+visual grounding,40
+avoid,39
+coarse-to-fine,39
+code data,39
+concern,39
+conduct extensive,39
+contribute,39
+e.g,39
+edit,39
+entity,39
+exploiting,39
+feature extraction,39
+fine,39
+formulate,39
+ground-truth,39
+highlighting,39
+hoi,39
+invariant,39
+latent diffusion model,39
+length,39
+model performance,39
+model training,39
+nevertheless,39
+outlier,39
+panoramic,39
+performing,39
+preservation,39
+previous state-of-the-art,39
+propagation,39
+ratio,39
+recent advance,39
+recover,39
+release,39
+render,39
+represents,39
+show proposed,39
+simulated,39
+suffers,39
+temporal consistency,39
+training process,39
+unexplored,39
+useful,39
+verify,39
+version,39
+website,39
+whole,39
+according,38
+bidirectional,38
+causal,38
+center,38
+choice,38
+code publicly available,38
+coding,38
+coherence,38
+counterfactual,38
+demonstrate approach,38
+demonstrate superior,38
+descriptor,38
+embedding space,38
+entropy,38
+failure,38
+fall short,38
+fuse,38
+harness,38
+identification,38
+inference time,38
+involving,38
+labeling,38
+lie,38
+lmms,38
+long-range,38
+low-resolution,38
+magnitude,38
+mobile,38
+predicts,38
+primary,38
+real-world application,38
+redundancy,38
+safety,38
+simulator,38
+sota method,38
+suboptimal,38
+talking,38
+text-to-image model,38
+unlabeled data,38
+video frame,38
+vulnerability,38
+3d generation,37
+another,37
+appropriate,37
+awareness,37
+binary,37
+clear,37
+comprising,37
+consisting,37
+dataset code,37
+easy,37
+energy,37
+experiment demonstrate method,37
+extensive evaluation,37
+federated learning,37
+field nerf,37
+fine-tune,37
+generation process,37
+gpu,37
+image feature,37
+improve performance,37
+industrial,37
+initially,37
+million,37
+minimizing,37
+monocular depth,37
+multi-level,37
+radiance field nerf,37
+ray,37
+reveals,37
+secondly,37
+segmentation mask,37
+sign language,37
+specifically first,37
+specifically propose,37
+stability,37
+text-guided,37
+trigger,37
+visual quality,37
+best knowledge,36
+competitive performance,36
+conflict,36
+curated,36
+filtering,36
+gained,36
+image-based,36
+insufficient,36
+issue introduce,36
+latency,36
+manifold,36
+modern,36
+object-level,36
+off-the-shelf,36
+open-world,36
+performance degradation,36
+prevent,36
+propose simple,36
+real-world datasets,36
+recent study,36
+recognize,36
+simply,36
+slow,36
+subsequent,36
+textual description,36
+trained model,36
+unlearning,36
+visually,36
+account,35
+approximation,35
+author,35
+bridging,35
+close,35
+communication,35
+conduct extensive experiment,35
+considerable,35
+costly,35
+current method,35
+derive,35
+developing,35
+disparity,35
+dm,35
+extensive experimental,35
+extractor,35
+featuring,35
+fps,35
+generation method,35
+greatly,35
+hence,35
+implement,35
+implicit representation,35
+in-context,35
+infer,35
+inference speed,35
+maintains,35
+model code,35
+open-source,35
+paper proposes,35
+pivotal,35
+plane,35
+precisely,35
+public datasets,35
+real-time rendering,35
+reference image,35
+remove,35
+report,35
+representative,35
+retraining,35
+sensitivity,35
+separately,35
+smooth,35
+sr,35
+training strategy,35
+treat,35
+usage,35
+video editing,35
+vision-language model vlms,35
+wild,35
+achieves superior,34
+aerial,34
+balanced,34
+code dataset available,34
+collected,34
+database,34
+datasets code available,34
+distribution shift,34
+due lack,34
+effectiveness approach,34
+effectiveness proposed method,34
+empirically,34
+experiment validate,34
+face challenge,34
+fid,34
+focusing,34
+holistic,34
+interpretable,34
+inverse problem,34
+involve,34
+kd,34
+kitti,34
+meaningful,34
+mllm,34
+model ha,34
+neighbor,34
+normalization,34
+place,34
+pre-trained diffusion,34
+previous approach,34
+progressively,34
+quantitatively,34
+r,34
+realism,34
+reconstruction quality,34
+segment anything,34
+selected,34
+state art,34
+stochastic,34
+straightforward,34
+strength,34
+student model,34
+subtle,34
+tackle issue,34
+test-time adaptation,34
+tiny,34
+transition,34
+tta,34
+volume rendering,34
+achieving state-of-the-art,33
+benchmarking,33
+blind,33
+canonical,33
+computational efficiency,33
+computationally,33
+controlling,33
+deal,33
+denoising process,33
+digital,33
+eliminating,33
+evaluation metric,33
+experience,33
+extended,33
+gait,33
+gan,33
+guarantee,33
+ha become,33
+ha emerged,33
+ha shown,33
+human body,33
+image-level,33
+implicit neural,33
+increasingly,33
+intention,33
+low-rank,33
+natural image,33
+neural representation,33
+open vocabulary,33
+overcome limitation,33
+photometric,33
+pre-trained diffusion model,33
+qualitatively,33
+ranking,33
+rapid,33
+remains challenging,33
+rendering quality,33
+severe,33
+significant advancement,33
+significant performance,33
+significant progress,33
+slam,33
+spatially,33
+spatiotemporal,33
+tend,33
+text description,33
+uda,33
+utilization,33
+volumetric,33
+weakly-supervised,33
+work present,33
+achieve state-of-the-art,32
+acquisition,32
+animal,32
+argue,32
+batch,32
+benchmark code,32
+biased,32
+convert,32
+covering,32
+dense prediction,32
+describe,32
+establishing,32
+extensive experiment conducted,32
+extracting,32
+false,32
+first propose,32
+high-quality 3d,32
+however current,32
+however existing method,32
+large vision-language,32
+localize,32
+localized,32
+method leverage,32
+method rely,32
+model architecture,32
+multi-label,32
+next,32
+obtaining,32
+out-of-distribution ood,32
+outperforms state-of-the-art method,32
+plausible,32
+point-based,32
+portrait,32
+predominantly,32
+presence,32
+quantitative qualitative,32
+reality,32
+realm,32
+relatively,32
+represented,32
+rigid,32
+robotic,32
+room,32
+seek,32
+sensitive,32
+slide,32
+specifically designed,32
+statistic,32
+suitable,32
+surface reconstruction,32
+synthetic real-world,32
+t2i model,32
+throughout,32
+topological,32
+training time,32
+transport,32
+typical,32
+vits,32
+watermark,32
+whether,32
+adopted,31
+adverse weather,31
+aimed,31
+anticipation,31
+availability,31
+blurry,31
+camouflaged,31
+clip model,31
+clip ’,31
+closely,31
+contact,31
+controllability,31
+datasets including,31
+demonstrate proposed method,31
+dnns,31
+embedded,31
+encoded,31
+every,31
+experiment demonstrate effectiveness,31
+fashion,31
+filter,31
+forgery,31
+historical,31
+hold,31
+identifies,31
+introduces novel,31
+lidar point,31
+model 3d,31
+model achieve,31
+model parameter,31
+moment,31
+optimizes,31
+orientation,31
+outcome,31
+phenomenon,31
+promise,31
+proposed framework,31
+qualitative quantitative,31
+readily,31
+reconstructed,31
+sd,31
+seamless,31
+see,31
+selective,31
+sharing,31
+six,31
+snns,31
+tackle problem,31
+unified framework,31
+unit,31
+validation,31
+video-text,31
+vlm,31
+2d 3d,30
+adding,30
+adjacent,30
+angle,30
+approach significantly,30
+augment,30
+available paper,30
+bird,30
+call,30
+cl,30
+composed,30
+comprehensive evaluation,30
+computational overhead,30
+computational resource,30
+data available,30
+demonstrate effectiveness method,30
+edited,30
+emotion,30
+equal,30
+excels,30
+extensively,30
+feature map,30
+first time,30
+fitting,30
+framework designed,30
+generalizes,30
+hand-object,30
+high-quality image,30
+hope,30
+human pose estimation,30
+image compression,30
+iteration,30
+knowledge first,30
+local feature,30
+lora,30
+low-level,30
+method term,30
+mlp,30
+model however,30
+motion blur,30
+object pose,30
+paper introduce novel,30
+presented,30
+project website,30
+purpose,30
+resolve,30
+semi-supervised learning,30
+showcasing,30
+statistical,30
+teacher model,30
+trajectory prediction,30
+variance,30
+wa,30
+x-ray,30
+acceleration,29
+also propose,29
+anything model,29
+architectural,29
+asset,29
+becomes,29
+broader,29
+considers,29
+crowd,29
+designing,29
+distributed,29
+drop,29
+early,29
+exceptional,29
+extending,29
+gans,29
+generally,29
+grasping,29
+image however,29
+incremental learning,29
+merging,29
+method achieve,29
+method across,29
+method typically,29
+occluded,29
+ood detection,29
+operates,29
+original image,29
+outperforms existing method,29
+paper address,29
+performance existing,29
+photo-realistic,29
+pixel-wise,29
+posed,29
+practical application,29
+real world,29
+redundant,29
+refines,29
+reflection,29
+situation,29
+studied,29
+stylization,29
+sufficient,29
+superiority method,29
+technology,29
+tensor,29
+text embeddings,29
+thanks,29
+total,29
+trainable,29
+training set,29
+transferability,29
+true,29
+validated,29
+world model,29
+’ ability,29
+3d hand,28
+3d semantic,28
+additionally introduce,28
+additionally propose,28
+automated,28
+available recent,28
+b,28
+burden,28
+cad,28
+challenging due,28
+code model available,28
+come,28
+compute,28
+controlled,28
+currently,28
+customized,28
+data generation,28
+decompose,28
+dynamic range,28
+edits,28
+eliminate,28
+encounter,28
+excellent,28
+feature extractor,28
+fused,28
+gaussian splatting 3dgs,28
+gpt-4v,28
+guiding,28
+incomplete,28
+inconsistent,28
+large vision-language model,28
+latent representation,28
+learning approach,28
+literature,28
+mamba,28
+manually,28
+model achieves,28
+model sam,28
+multi-view 3d,28
+non-rigid,28
+operate,28
+page available,28
+pathology,28
+planner,28
+principle,28
+project page available,28
+quantized,28
+regarding,28
+remote,28
+road,28
+robotics,28
+segment anything model,28
+source domain,28
+spherical,28
+splatting 3dgs,28
+surprisingly,28
+synthetic image,28
+target object,28
+targeted,28
+thermal,28
+transfer learning,28
+unsupervised domain,28
+visual information,28
+visual prompt,28
+web,28
+3d geometry,27
+3d segmentation,27
+abstract,27
+accessible,27
+active learning,27
+adapts,27
+address propose,27
+adjust,27
+approach achieves,27
+articulated,27
+attention module,27
+benchmark dataset,27
+camouflaged object,27
+candidate,27
+character,27
+class-incremental,27
+criterion,27
+customization,27
+deformable,27
+demonstrate superior performance,27
+distinctive,27
+exemplar,27
+existing state-of-the-art method,27
+expressive,27
+facial expression,27
+far,27
+frequently,27
+generate high-quality,27
+hdr,27
+hindering,27
+image enhancement,27
+imagenet-1k,27
+imagery,27
+intervention,27
+intuitive,27
+key insight,27
+knowledge transfer,27
+lane,27
+last,27
+locally,27
+model learn,27
+model specifically,27
+multiple datasets,27
+network architecture,27
+neural rendering,27
+reach,27
+recall,27
+referred,27
+refining,27
+relighting,27
+retaining,27
+scan,27
+segmenting,27
+share,27
+spatial temporal,27
+spiking,27
+split,27
+start,27
+stronger,27
+supervised learning,27
+temporal information,27
+textured,27
+u-net,27
+vertex,27
+weak,27
+whose,27
+3d mesh,26
+3d occupancy,26
+adversarial robustness,26
+affordance,26
+autoencoders,26
+basic,26
+better performance,26
+brain,26
+cnns,26
+comprehensively,26
+considered,26
+constructed,26
+controlnet,26
+corresponding author,26
+cover,26
+determine,26
+different modality,26
+disease,26
+distill,26
+doe require,26
+enforce,26
+equipped,26
+estimator,26
+excel,26
+exposure,26
+extensive experimental result,26
+feed-forward,26
+image 3d,26
+image representation,26
+implicitly,26
+instance-level,26
+interact,26
+interpretability,26
+kind,26
+language model mllms,26
+latter,26
+longer,26
+machine learning,26
+minimize,26
+model mllms,26
+multi-object,26
+multimodal model,26
+name,26
+necessary,26
+occupancy prediction,26
+offline,26
+partially,26
+photo,26
+plan,26
+pose significant,26
+predefined,26
+propose novel approach,26
+quality assessment,26
+recent method,26
+restricted,26
+rethinking,26
+sampling strategy,26
+satellite,26
+segmentation method,26
+selecting,26
+sentence,26
+shortcut,26
+text encoder,26
+text-to-image t2i,26
+theory,26
+thoroughly,26
+top,26
+transferring,26
+try-on,26
+vanilla,26
+various datasets,26
+versatility,26
+video diffusion,26
+visual data,26
+visual question,26
+visualization,26
+vital,26
+weather condition,26
+achieves state-of-the-art result,25
+acquiring,25
+act,25
+adversarial training,25
+affect,25
+alongside,25
+also introduce,25
+ap,25
+arises,25
+avoiding,25
+back,25
+bird ’,25
+black-box,25
+blending,25
+class-agnostic,25
+clothing,25
+complement,25
+consistently outperforms,25
+contextual information,25
+creative,25
+ct,25
+data-driven,25
+define,25
+discriminative feature,25
+distinguish,25
+domain-specific,25
+due limited,25
+embed,25
+encompassing,25
+encourage,25
+establishes,25
+experimentally,25
+future research,25
+gradually,25
+hidden,25
+hinders,25
+ignore,25
+image encoder,25
+in-distribution,25
+include,25
+isp,25
+lacking,25
+large-scale dataset,25
+lift,25
+linguistic,25
+long video,25
+method effectively,25
+mining,25
+model clip,25
+model propose,25
+neural implicit,25
+often struggle,25
+overlooked,25
+panoptic segmentation,25
+performed,25
+personalization,25
+platform,25
+propose novel framework,25
+recurrent,25
+removing,25
+rendering speed,25
+runtime,25
+sampled,25
+scene reconstruction,25
+semantic feature,25
+simultaneous,25
+soft,25
+text-driven,25
+text-to-video,25
+training inference,25
+training method,25
+underwater,25
+unpaired,25
+utility,25
+visibility,25
+warping,25
+work focus,25
+ad,24
+address issue introduce,24
+advancing,24
+anything model sam,24
+assignment,24
+attribution,24
+cell,24
+challenging problem,24
+clinical,24
+compressed,24
+compromising,24
+constructing,24
+coupled,24
+data however,24
+decision-making,24
+demonstrate effectiveness proposed,24
+demonstrate method achieves,24
+done,24
+eliminates,24
+face recognition,24
+furthermore introduce,24
+furthermore propose,24
+heuristic,24
+image video,24
+indoor scene,24
+innovation,24
+keeping,24
+key idea,24
+limitation propose,24
+method also,24
+method named,24
+method struggle,24
+might,24
+mitigates,24
+model size,24
+monocular video,24
+multiple object,24
+necessitates,24
+pascal,24
+people,24
+prevalent,24
+protocol,24
+pseudo-label,24
+relevance,24
+remains challenge,24
+retain,24
+rl,24
+sdf,24
+sgg,24
+short-term,24
+significantly enhances,24
+taking,24
+text-to-3d generation,24
+tree,24
+unsupervised domain adaptation,24
+various downstream,24
+visual reasoning,24
+waymo,24
+yielding,24
+absolute,23
+acquire,23
+add,23
+address introduce,23
+addressed,23
+also show,23
+approach outperforms,23
+assessing,23
+backdoor attack,23
+basis,23
+challenge due,23
+challenge introduce,23
+cityscape,23
+code available recent,23
+commonly used,23
+compare,23
+crop,23
+dataset distillation,23
+deep learning model,23
+denoising diffusion,23
+depend,23
+detected,23
+discrimination,23
+disentangle,23
+dnn,23
+environmental,23
+etc,23
+evidence,23
+exhibiting,23
+experiment three,23
+extension,23
+eye,23
+first introduce,23
+flop,23
+followed,23
+framework named,23
+fusion module,23
+g,23
+generating high-quality,23
+generation quality,23
+globally,23
+hd,23
+high computational,23
+high quality,23
+however due,23
+illustrate,23
+implicit neural representation,23
+interacting,23
+internal,23
+interval,23
+landmark,23
+learning ssl,23
+lidar point cloud,23
+mae,23
+mainstream,23
+malicious,23
+method called,23
+meticulously,23
+mixed,23
+modal,23
+model often,23
+model shown,23
+multi-layer,23
+multi-person,23
+nearly,23
+necessity,23
+neural field,23
+node,23
+optimization process,23
+par,23
+pretrained model,23
+production,23
+prompt tuning,23
+prone,23
+propose efficient,23
+propose novel method,23
+proposing,23
+recovering,23
+reid,23
+reliability,23
+remarkable performance,23
+reverse,23
+rigorous,23
+saliency,23
+scene flow,23
+self-supervision,23
+separation,23
+skill,23
+spike,23
+synchronization,23
+synthetic dataset,23
+talking head,23
+temporal action,23
+text-based,23
+though,23
+three key,23
+threshold,23
+training model,23
+training sample,23
+transformer vit,23
+turn,23
+unconditional,23
+updating,23
+user study,23
+varied,23
+vision transformer vit,23
+visual question answering,23
+visual textual,23
+vl,23
+voxel,23
+vulnerable,23
+—,23
+2d diffusion,22
+3d data,22
+accordingly,22
+adversarial example,22
+already,22
+approach leverage,22
+approximate,22
+approximately,22
+asymmetric,22
+autonomous vehicle,22
+begin,22
+bound,22
+classic,22
+click,22
+comparing,22
+compatibility,22
+compatible,22
+computational complexity,22
+concurrently,22
+coverage,22
+daily,22
+ddim,22
+dealing,22
+deep learning-based,22
+defined,22
+despite significant,22
+dg,22
+dino,22
+domain-invariant,22
+downstream application,22
+encourages,22
+experiment various,22
+explores,22
+extensive experiment validate,22
+faithfully,22
+feature fusion,22
+fit,22
+garnered,22
+growing,22
+high-resolution image,22
+hour,22
+huge,22
+ill-posed,22
+imbalance,22
+improved performance,22
+improves performance,22
+incorporated,22
+inductive,22
+introduction,22
+large model,22
+large number,22
+layer-wise,22
+lifting,22
+likely,22
+maneuver,22
+method designed,22
+method large,22
+method ’,22
+mismatch,22
+mostly,22
+multiple benchmark,22
+norm,22
+others,22
+performance various,22
+post-training,22
+predictor,22
+prior method,22
+prioritize,22
+prompt-based,22
+quantify,22
+reconstruction method,22
+referring expression,22
+reflect,22
+replace,22
+saving,22
+self-distillation,22
+server,22
+shortcoming,22
+show approach,22
+show effectiveness,22
+signed,22
+significantly improve,22
+skeleton-based,22
+smoothness,22
+sota performance,22
+source-free,22
+sparse-view,22
+subspace,22
+supervised method,22
+swapping,22
+synthetic real,22
+theoretically,22
+transformer architecture,22
+unrealistic,22
+vad,22
+vision language model,22
+voc,22
+winograd,22
+×,22
+’ effectiveness,22
+’ performance,22
+3d content,21
+3d human pose,21
+6d,21
+ade20k,21
+adopts,21
+aforementioned,21
+always,21
+array,21
+artistic,21
+assist,21
+assume,21
+attributed,21
+autoregressive,21
+av,21
+available 3d,21
+averaging,21
+baseline method,21
+believe,21
+benchmark datasets demonstrate,21
+blurred,21
+bundle,21
+calibrated,21
+category discovery,21
+challenging benchmark,21
+clue,21
+collaboration,21
+collecting,21
+compress,21
+continuity,21
+dedicated,21
+dehazing,21
+demonstrate efficacy,21
+demonstrates superior,21
+densely,21
+deploying,21
+desirable,21
+different datasets,21
+diffusion transformer,21
+diverse datasets,21
+divide,21
+emergence,21
+existing datasets,21
+experiment show method,21
+faithful,21
+family,21
+finetuning,21
+fusing,21
+gait recognition,21
+greater,21
+hardware,21
+however approach,21
+iii,21
+indoor outdoor,21
+inevitably,21
+key challenge,21
+learning strategy,21
+link,21
+medical image segmentation,21
+method achieving,21
+method outperforms existing,21
+mitigation,21
+mode,21
+model approach,21
+model like,21
+monocular depth estimation,21
+mri,21
+near,21
+nearest,21
+negative prompt,21
+noisy label,21
+nv,21
+offset,21
+optimal transport,21
+overcoming,21
+overlap,21
+paper introduces novel,21
+paper present novel,21
+perceive,21
+performance state-of-the-art,21
+pose challenge,21
+predictive,21
+preventing,21
+proper,21
+proven,21
+receptive,21
+receptive field,21
+salient,21
+satisfactory,21
+scene editing,21
+scene-level,21
+selectively,21
+sfm,21
+signed distance,21
+significantly reduces,21
+sound,21
+speedup,21
+strong baseline,21
+strong performance,21
+stylized,21
+sub-optimal,21
+synchronized,21
+test time,21
+text-image,21
+text-to-motion,21
+textual prompt,21
+ultimately,21
+underscore,21
+video object,21
+visual content,21
+widespread,21
+2d-3d,20
+3d visual,20
+achieve state-of-the-art performance,20
+additional training,20
+affine,20
+aid,20
+analyzing,20
+behind,20
+benchmark show,20
+cache,20
+camera motion,20
+car,20
+challenge paper,20
+characterized,20
+class-incremental learning,20
+cloud registration,20
+code available paper,20
+compensation,20
+complicated,20
+computed,20
+contrastive loss,20
+corrupted,20
+crucial role,20
+data collection,20
+differential,20
+distilled,20
+due high,20
+effective approach,20
+effective method,20
+exocentric,20
+experimentation,20
+extreme,20
+fact,20
+fails,20
+feature aggregation,20
+figure,20
+follow,20
+former,20
+foundational,20
+full-body,20
+fully supervised,20
+generate image,20
+ha gained,20
+ha made,20
+ha recently,20
+harnessing,20
+hd map,20
+heatmap,20
+histogram,20
+history,20
+hypothesis,20
+image generated,20
+image reconstruction,20
+image retrieval,20
+impressive performance,20
+increased,20
+increasing attention,20
+indicating,20
+instruction tuning,20
+interference,20
+issue propose novel,20
+key component,20
+latent feature,20
+learning process,20
+masked image,20
+matting,20
+method consistently,20
+method primarily,20
+method proposed,20
+mim,20
+model extensive,20
+model outperforms,20
+model-agnostic,20
+motion prediction,20
+multimodal learning,20
+necessitating,20
+neglect,20
+nuscenes dataset,20
+object pose estimation,20
+one-step,20
+order magnitude,20
+outperforms baseline,20
+point cloud registration,20
+pose significant challenge,20
+produced,20
+propose method,20
+proposed method achieves,20
+qa,20
+quantity,20
+randomly,20
+ranging,20
+recipe,20
+restore,20
+scene generation,20
+security,20
+segmentation performance,20
+self-training,20
+serving,20
+social,20
+source data,20
+spatial information,20
+specifically introduce,20
+stand,20
+state-of-the-art model,20
+surrounding,20
+tested,20
+third,20
+thorough,20
+training image,20
+transformer model,20
+unifying,20
+unlike previous,20
+unstable,20
+updated,20
+user ’,20
+various benchmark,20
+vast,20
+verification,20
+video object segmentation,20
+virtual try-on,20
+visual concept,20
+visual token,20
+3d asset,19
+3d space,19
+adaptation method,19
+adapted,19
+adjusts,19
+animatable,19
+applies,19
+attracted,19
+benchmark including,19
+budget,19
+c,19
+carefully designed,19
+causing,19
+classical,19
+cod,19
+code data available,19
+coefficient,19
+created,19
+data training,19
+datasets demonstrate effectiveness,19
+decoupling,19
+degraded,19
+detection performance,19
+discriminator,19
+drawback,19
+drawing,19
+egocentric video,19
+enhance model,19
+equal contribution,19
+erasure,19
+exchange,19
+existing 3d,19
+existing method often,19
+feature alignment,19
+feature learning,19
+flexibly,19
+format,19
+formation,19
+given image,19
+global local,19
+ha achieved,19
+hand pose,19
+high dynamic,19
+high dynamic range,19
+high temporal,19
+hinder,19
+hindered,19
+hsi,19
+ignoring,19
+image datasets,19
+inductive bias,19
+intelligence,19
+intersection,19
+inverse rendering,19
+investigation,19
+language description,19
+large-scale datasets,19
+least,19
+lidar-based,19
+low-frequency,19
+medical imaging,19
+method extensive,19
+method focus,19
+method suffer,19
+model address,19
+model produce,19
+mot,19
+motion synthesis,19
+multi-modality,19
+neglecting,19
+neural architecture,19
+object category,19
+objective function,19
+open-ended,19
+outperforming existing,19
+overcomes,19
+pioneering,19
+play crucial,19
+play crucial role,19
+pool,19
+pretrained diffusion,19
+private,19
+produce high-quality,19
+product,19
+propose first,19
+propose simple yet,19
+psnr,19
+query image,19
+received,19
+refer,19
+remaining,19
+researcher,19
+respective,19
+revisit,19
+run,19
+safety-critical,19
+sampling process,19
+scene text,19
+sharp,19
+shown remarkable,19
+side,19
+significant attention,19
+single-view,19
+source model,19
+source target,19
+splitting,19
+stereo matching,19
+success rate,19
+successful,19
+supporting,19
+surpasses existing,19
+systematically,19
+tackle challenge propose,19
+temporal resolution,19
+train model,19
+under-explored,19
+uniform,19
+upsampling,19
+v,19
+video diffusion model,19
+vision foundation,19
+vision foundation model,19
+visual input,19
+visual-language,19
+vsr,19
+w,19
+wavelet,19
+whereas,19
+within image,19
+3d detector,18
+ability generate,18
+achieved remarkable,18
+across three,18
+actor,18
+address gap,18
+adjusting,18
+aesthetic,18
+also demonstrate,18
+appealing,18
+artificial,18
+asynchronous,18
+augmenting,18
+available present,18
+available project,18
+avenue,18
+benchmark code available,18
+best knowledge first,18
+bev feature,18
+boost performance,18
+building upon,18
+camera-based,18
+category-level,18
+central,18
+changing,18
+cloud completion,18
+coarse-grained,18
+code pre-trained,18
+codebook,18
+comparative,18
+compelling,18
+complex scene,18
+conduct experiment,18
+consideration,18
+consistency loss,18
+convolutional neural,18
+convolutional neural network,18
+cost volume,18
+cross-dataset,18
+curate,18
+decomposing,18
+deepfake,18
+demonstrates superior performance,18
+depth completion,18
+despite recent,18
+diagnosis,18
+driving scenario,18
+dynamic 3d,18
+dynamic object,18
+emotional,18
+encodes,18
+encountered,18
+ensemble,18
+estimation method,18
+evaluate method,18
+evaluation demonstrate,18
+expand,18
+expansion,18
+fr,18
+fscil,18
+functional,18
+gap propose,18
+gaussian mixture,18
+generalist,18
+graph-based,18
+ha demonstrated,18
+harmful,18
+heavy,18
+high-dimensional,18
+higher-resolution,18
+however previous,18
+human-centric,18
+image captioning,18
+image model,18
+image-to-image,18
+imbalanced,18
+including image,18
+incorrect,18
+inferring,18
+inject,18
+insertion,18
+intensive,18
+interface,18
+interpret,18
+introduce novel framework,18
+large pre-trained,18
+learning-based method,18
+lighting condition,18
+masked autoencoders,18
+maximizing,18
+memory consumption,18
+message,18
+method outperforms state-of-the-art,18
+method usually,18
+method various,18
+mixing,18
+model code available,18
+model downstream,18
+model significantly,18
+model ’ ability,18
+motion capture,18
+multi-frame,18
+multi-step,18
+mutual information,18
+neuron,18
+nuanced,18
+nucleus,18
+object image,18
+object tracking,18
+obstacle,18
+operator,18
+opportunity,18
+p,18
+pairwise,18
+panorama,18
+paper aim,18
+participant,18
+patient,18
+placement,18
+positive negative,18
+prevailing,18
+procedural,18
+proficiency,18
+protection,18
+purely,18
+question-answering,18
+rationale,18
+re-identification,18
+reasonable,18
+regular,18
+regularize,18
+remote sensing,18
+respect,18
+result demonstrate method,18
+rule,18
+sense,18
+shown promising,18
+simulate,18
+single-stage,18
+sl,18
+sparse view,18
+spatial feature,18
+specified,18
+spurious correlation,18
+standard benchmark,18
+stem,18
+stitching,18
+systematic,18
+taxonomy,18
+theoretical analysis,18
+time step,18
+transferable,18
+unified model,18
+urban scene,18
+vectorized,18
+video datasets,18
+video-based,18
+video-language,18
+workflow,18
+zero,18
+zero-shot classification,18
+’ capability,18
+3d feature,17
+abundant,17
+accelerating,17
+accommodate,17
+achieves competitive,17
+acquired,17
+addition propose,17
+adopting,17
+aggregating,17
+ambiguous,17
+annotated data,17
+application however,17
+architecture search,17
+attention-based,17
+authentic,17
+cnn,17
+cognitive,17
+compromise,17
+confirm,17
+consistency across,17
+covariance,17
+current state-of-the-art method,17
+data code,17
+dataset code available,17
+deployed,17
+disentangling,17
+distillation sampling,17
+distilling,17
+document,17
+edge device,17
+editing method,17
+encoder-decoder,17
+erasing,17
+excessive,17
+execution,17
+expected,17
+experiment across,17
+experiment demonstrate proposed,17
+extends,17
+extensive experimentation,17
+fill,17
+framework called,17
+generalization performance,17
+generalizing,17
+generation ha,17
+get,17
+gt,17
+high computational cost,17
+human annotation,17
+human preference,17
+human-object,17
+hyperspectral,17
+identified,17
+image diffusion,17
+image input,17
+indicates,17
+instability,17
+instructional,17
+interesting,17
+keep,17
+label noise,17
+large multimodal,17
+latents,17
+layout generation,17
+learner,17
+learning 3d,17
+learning paradigm,17
+led,17
+lens,17
+locate,17
+majority,17
+model also,17
+modulation,17
+monitoring,17
+motion model,17
+multi-class,17
+multi-view video,17
+neighboring,17
+onto,17
+optimization problem,17
+original model,17
+outdoor scene,17
+outperforms prior,17
+outstanding,17
+overlapping,17
+part-based,17
+pascal voc,17
+pedestrian,17
+performance gap,17
+photon,17
+physic,17
+physically,17
+point cloud completion,17
+popularity,17
+pre-trained text-to-image,17
+pre-trained vision-language,17
+pretrained diffusion model,17
+promising performance,17
+proposed model,17
+proposes novel,17
+public benchmark,17
+quantitatively qualitatively,17
+recognized,17
+refined,17
+rendering method,17
+research ha,17
+restoration method,17
+result various,17
+revealing,17
+robustly,17
+route,17
+rppg,17
+scarce,17
+scene geometry,17
+score distillation sampling,17
+scoring,17
+segmentation result,17
+self-supervised learning ssl,17
+shifting,17
+show model,17
+significance,17
+solve problem,17
+sophisticated,17
+spatial relationship,17
+srgb,17
+static scene,17
+suggest,17
+supervise,17
+surpasses state-of-the-art,17
+target data,17
+temporal grounding,17
+thereby enhancing,17
+timestep,17
+traditional method,17
+trend,17
+triplane,17
+unseen object,17
+v2,17
+vae,17
+various application,17
+video data,17
+video representation,17
+∗,17
+2d diffusion model,16
+3d-gs,16
+achieves superior performance,16
+actual,16
+adversarial perturbation,16
+alleviates,16
+attains,16
+beat,16
+beneficial,16
+better generalization,16
+blind image,16
+brdf,16
+bundle adjustment,16
+camera view,16
+characterize,16
+classification accuracy,16
+code available present,16
+code found,16
+code pre-trained model,16
+comparable performance,16
+competitor,16
+completely,16
+comprehensive experiment demonstrate,16
+confusion,16
+controller,16
+corruption,16
+da,16
+dataset show,16
+datasets different,16
+datasets validate,16
+decouple,16
+decoupled,16
+demo,16
+demonstrate effectiveness approach,16
+demonstrate method outperforms,16
+demonstrating effectiveness,16
+diffusion model generate,16
+display,16
+distance function,16
+effectively address,16
+embodied agent,16
+emerged promising,16
+emphasize,16
+empirical result,16
+enhance performance,16
+equivariant,16
+existing model,16
+existing technique,16
+f,16
+feasible,16
+feature 3d,16
+field nerfs,16
+first design,16
+fully-supervised,16
+game,16
+generative adversarial,16
+give,16
+graph generation,16
+graph neural,16
+high-performance,16
+high-speed,16
+hpe,16
+image content,16
+image pair,16
+image-to-video,16
+in-context learning,16
+in-depth,16
+individually,16
+input video,16
+introduce novel approach,16
+invariance,16
+isolated,16
+labor-intensive,16
+largest,16
+likelihood,16
+local global,16
+long-tail,16
+low-light image,16
+low-rank adaptation,16
+made publicly,16
+map construction,16
+masked token,16
+massive,16
+meet,16
+merely,16
+method demonstrates,16
+method large margin,16
+method produce,16
+method propose,16
+model image,16
+model learning,16
+modelling,16
+moreover propose,16
+multi-camera,16
+multi-modal large,16
+multi-modal large language,16
+nerf-based,16
+network dnns,16
+neural network dnns,16
+object instance,16
+object interaction,16
+odometry,16
+optimization-based,16
+orthogonal,16
+outside,16
+overcome challenge,16
+overlooking,16
+per-pixel,16
+performance code,16
+performance however,16
+point-wise,16
+posse,16
+post-training quantization,16
+pre-trained vision-language model,16
+pretext,16
+previous state-of-the-art method,16
+promote,16
+propose adaptive,16
+pseudo-labeling,16
+ptq,16
+quantization error,16
+radiance field nerfs,16
+rapidly,16
+recent approach,16
+representation 3d,16
+result show method,16
+scannet,16
+scene graph generation,16
+search space,16
+selects,16
+semantic consistency,16
+seven,16
+shape generation,16
+show proposed method,16
+single-image,16
+slot,16
+solved,16
+specifically design,16
+street,16
+strengthen,16
+stride,16
+structure-from-motion,16
+sufficiently,16
+surgical,16
+target image,16
+temporally consistent,16
+therefore propose,16
+threat,16
+training efficiency,16
+turbulence,16
+unauthorized,16
+uncover,16
+unify,16
+unseen domain,16
+validate method,16
+various scenario,16
+vlp,16
+widely adopted,16
+work proposes,16
+would,16
+’ superiority,16
+3d perception,15
+abstraction,15
+accelerate,15
+accomplish,15
+accumulation,15
+achieving state-of-the-art performance,15
+action detection,15
+actively,15
+adaptable,15
+address problem propose,15
+adoption,15
+alleviating,15
+annotator,15
+assistant,15
+associate,15
+avoids,15
+backward,15
+balancing,15
+bayesian,15
+benefiting,15
+bi-directional,15
+break,15
+bridging gap,15
+built upon,15
+cam,15
+cascade,15
+chain,15
+closed-set,15
+competing,15
+concretely,15
+conditional diffusion,15
+constrain,15
+control signal,15
+crowd counting,15
+day,15
+definition,15
+delivers,15
+delve,15
+descriptive,15
+detection benchmark,15
+detection segmentation,15
+determining,15
+deterministic,15
+detr,15
+different scale,15
+different view,15
+directional,15
+distinguishing,15
+dominant,15
+due inherent,15
+eliminating need,15
+empowering,15
+enabled,15
+encouraging,15
+engineering,15
+equally,15
+equation,15
+evaluation across,15
+examine,15
+exclusively,15
+experiment demonstrate superiority,15
+extensive ablation,15
+eye view,15
+fairness,15
+feature extracted,15
+feature matching,15
+finetune,15
+flow-based,15
+fmri,15
+force,15
+formidable,15
+frame interpolation,15
+gaze estimation,15
+generate realistic,15
+generative modeling,15
+geometric prior,15
+gesture,15
+global feature,15
+graph neural network,15
+handwritten,15
+hierarchy,15
+human mesh,15
+ideal,15
+image dataset,15
+image diffusion model,15
+image token,15
+image-text alignment,15
+image-text pair,15
+impractical,15
+input data,15
+inspection,15
+intelligent,15
+iqa,15
+irregular,15
+issue present,15
+keypoint detection,15
+kinematic,15
+large multimodal model,15
+large-scale scene,15
+latent code,15
+learnable parameter,15
+learning ha,15
+limitation introduce,15
+little,15
+long-tailed,15
+magnification,15
+major challenge,15
+meta-learning,15
+method 3d,15
+method address,15
+method directly,15
+method generating,15
+method learns,15
+method project,15
+method show,15
+method shown,15
+method still,15
+microscopy,15
+model capable,15
+model data,15
+model exhibit,15
+model human,15
+model robust,15
+model video,15
+model weight,15
+model work,15
+modified,15
+modifying,15
+moreover introduce,15
+moving object,15
+multi-stage,15
+must,15
+n,15
+narrow,15
+negative sample,15
+novel category,15
+object recognition,15
+object ’,15
+often fail,15
+one-shot,15
+open-vocabulary 3d,15
+open-vocabulary semantic,15
+outperforms sota,15
+paper first,15
+paper focus,15
+parameter-efficient fine-tuning,15
+parameterization,15
+part-level,15
+pas,15
+pave,15
+pave way,15
+perceptual quality,15
+performance method,15
+performance paper,15
+performance significantly,15
+poorly,15
+posing,15
+post-processing,15
+present significant,15
+presenting,15
+prior art,15
+propose unified,15
+proposed method outperforms,15
+proximity,15
+pure,15
+quality generated,15
+quantification,15
+quantum,15
+quickly,15
+rarely,15
+real synthetic,15
+real-world data,15
+reasoning ability,15
+relational,15
+remarkable success,15
+remedy,15
+respectively code,15
+responsible,15
+rgb-d,15
+right,15
+rolling,15
+sacrificing,15
+safe,15
+sampler,15
+scratch,15
+searching,15
+semantic-aware,15
+several benchmark,15
+severely,15
+show method achieves,15
+shutter,15
+significantly outperforms existing,15
+singular,15
+small object,15
+spanning,15
+special,15
+specular,15
+speech,15
+spiking neural,15
+spiking neural network,15
+stored,15
+strong generalization,15
+suggesting,15
+superior performance compared,15
+superiority approach,15
+surpasses previous,15
+surrogate,15
+susceptible,15
+synergy,15
+synthetic datasets,15
+table,15
+tackle issue propose,15
+taken,15
+test set,15
+three benchmark,15
+training cost,15
+training dataset,15
+training datasets,15
+training framework,15
+tri-plane,15
+trojan,15
+tuning-free,15
+unifies,15
+unlike existing,15
+unsatisfactory,15
+unstructured,15
+unsupervised learning,15
+view-dependent,15
+visual recognition,15
+whole slide,15
+wide variety,15
+zero-shot image,15
+“ ”,15
+†,15
+3d motion,14
+3d semantic segmentation,14
+achieve goal,14
+achieves best,14
+achieves better,14
+achieves comparable,14
+achieving state-of-the-art result,14
+adversarial network,14
+also achieves,14
+appear,14
+approach first,14
+attacker,14
+available introduce,14
+available project page,14
+backpropagation,14
+baseline model,14
+biological,14
+bitrate,14
+brightness,14
+brings,14
+cd,14
+cifar-10,14
+click prompt,14
+collapse,14
+compromised,14
+concentrate,14
+connectivity,14
+contemporary,14
+correlated,14
+cross-attention mechanism,14
+data privacy,14
+dataset demonstrate,14
+decomposed,14
+deficiency,14
+demonstrate model,14
+demonstrate significant,14
+dependence,14
+design novel,14
+dexterous,14
+dialogue,14
+discovered,14
+distillation method,14
+domain adaptive,14
+due scarcity,14
+editability,14
+effectiveness efficiency,14
+enables u,14
+evaluate effectiveness,14
+evolution,14
+evolutionary,14
+evolving,14
+exist,14
+fa,14
+false negative,14
+favorable,14
+focal,14
+footprint,14
+frame rate,14
+frame-based,14
+general-purpose,14
+generative adversarial network,14
+geo-localization,14
+geometrically,14
+geometry texture,14
+global model,14
+hand-object interaction,14
+high accuracy,14
+higher accuracy,14
+human evaluation,14
+hundred,14
+i.e,14
+image captured,14
+image modeling,14
+image prior,14
+image-to-image translation,14
+imperceptible,14
+implicit surface,14
+inadequate,14
+information image,14
+infrared image,14
+inter-class,14
+invisible,14
+irrelevant,14
+landscape,14
+large amount,14
+large-scale 3d,14
+largely unexplored,14
+larger model,14
+latest,14
+lengthy,14
+main challenge,14
+manual annotation,14
+masked autoencoder,14
+masking strategy,14
+mathematical,14
+maximum,14
+meaning,14
+memory-efficient,14
+method either,14
+method generate,14
+method require,14
+method significantly outperforms,14
+minimization,14
+minute,14
+model update,14
+motion sequence,14
+multi-dimensional,14
+multi-head,14
+multi-task learning,14
+multiscale,14
+naive,14
+nearest neighbor,14
+network training,14
+neuromorphic,14
+non-trivial,14
+numerical,14
+object query,14
+object removal,14
+object within,14
+often lead,14
+operating,14
+optimization strategy,14
+perception model,14
+petl,14
+poisoning,14
+portion,14
+positional encoding,14
+positioning,14
+possibility,14
+posterior,14
+practicality,14
+prediction model,14
+primarily focus,14
+probe,14
+progression,14
+project available,14
+projected,14
+raindrop,14
+rec,14
+recently proposed,14
+reconstructs,14
+remains largely,14
+rendered image,14
+replay,14
+resource-constrained,14
+ri,14
+rolling shutter,14
+sampling step,14
+satellite image,14
+selection strategy,14
+semantic segmentation model,14
+short video,14
+significantly improved,14
+significantly outperforming,14
+significantly outperforms state-of-the-art,14
+significantly reducing,14
+snapshot,14
+spatial-spectral,14
+state-of-the-art technique,14
+stemming,14
+store,14
+streaming,14
+style transfer,14
+suffering,14
+supported,14
+suppression,14
+synthetic real-world datasets,14
+tackling,14
+target model,14
+teacher ’,14
+technical,14
+ten,14
+test data,14
+texturing,14
+thus propose,14
+tof,14
+training phase,14
+training pipeline,14
+training scheme,14
+tremendous,14
+trivial,14
+undesirable,14
+uniformly,14
+unimodal,14
+unlabelled,14
+uv,14
+video deblurring,14
+video model,14
+video segmentation,14
+viewing,14
+vision-based,14
+visual condition,14
+visual cue,14
+voxels,14
+webpage,14
+well-known,14
+widely-used,14
+work introduces,14
+wsi,14
+’ superior,14
+∼,14
+2d segmentation,13
+3d detection,13
+3d pose,13
+6dof,13
+accelerates,13
+adaptive sampling,13
+aerial image,13
+aggregated,13
+all-in-one,13
+alleviate issue,13
+alone,13
+animating,13
+appeal,13
+application paper,13
+approach allows,13
+approach called,13
+approach effectively,13
+approach named,13
+approach significantly outperforms,13
+arrangement,13
+assembly,13
+available propose,13
+bandwidth,13
+bank,13
+benchmark demonstrate effectiveness,13
+bird ’ eye,13
+bit,13
+body shape,13
+calculate,13
+calculation,13
+capability large,13
+cascaded,13
+challenge posed,13
+challenge propose novel,13
+challenge work,13
+classify,13
+closed-loop,13
+code datasets,13
+codec,13
+collaborative perception,13
+compared existing method,13
+competitive result,13
+complex real-world,13
+comprehend,13
+comprehensive understanding,13
+computational burden,13
+connected,13
+constant,13
+content-aware,13
+count,13
+cross-modal alignment,13
+dance,13
+data-free,13
+dataset comprising,13
+datasets model,13
+decomposes,13
+decrease,13
+deepfake detection,13
+defense method,13
+demonstrate superiority method,13
+denoising diffusion model,13
+denoising step,13
+densification,13
+depends,13
+depth information,13
+describes,13
+detection model,13
+diffusion model shown,13
+distance field,13
+elastic,13
+eliminates need,13
+encounter challenge,13
+endeavor,13
+enforcing,13
+enough,13
+exists,13
+expanding,13
+experiment show proposed,13
+experimental evaluation,13
+exploited,13
+extensive experiment across,13
+extensive experiment various,13
+failing,13
+fed,13
+few-shot learning,13
+fine-tuning method,13
+flow estimation,13
+foster,13
+fragment,13
+framework effectively,13
+framework leverage,13
+gan-based,13
+gap introduce,13
+gated,13
+generalize well,13
+generation framework,13
+generation pipeline,13
+geometric consistency,13
+geometric information,13
+global-local,13
+gnn,13
+gpus,13
+growth,13
+ha attracted,13
+ha garnered,13
+hard negative,13
+head avatar,13
+head pose,13
+high fidelity,13
+hint,13
+histopathology,13
+human avatar,13
+human-object interaction,13
+image quality assessment,13
+immersive,13
+improve generalization,13
+in-distribution id,13
+in-domain,13
+inefficient,13
+influenced,13
+information bottleneck,13
+insert,13
+intermediate feature,13
+interpretation,13
+intra-class,13
+introduce first,13
+investigated,13
+lane graph,13
+language video,13
+language-based,13
+lastly,13
+ldm,13
+learning objective,13
+leveraged,13
+life,13
+logits,13
+lost,13
+made publicly available,13
+made significant,13
+manipulating,13
+method allows,13
+method extensive experiment,13
+method fail,13
+method however,13
+method limited,13
+method mainly,13
+method source,13
+method source code,13
+mi,13
+mine,13
+mirror,13
+missing modality,13
+mitigate issue,13
+model achieves state-of-the-art,13
+model extensive experiment,13
+model lvlms,13
+model made,13
+model proposed,13
+model show,13
+model visual,13
+model-based,13
+module designed,13
+move,13
+multi-modal model,13
+multiple image,13
+multiple view,13
+na,13
+naively,13
+negligible,13
+network trained,13
+neural representation inr,13
+non-linear,13
+normalized,13
+novel-view,13
+object motion,13
+object-aware,13
+often rely,13
+ood data,13
+ood sample,13
+open-sourced,13
+open-vocabulary segmentation,13
+open-vocabulary semantic segmentation,13
+owing,13
+parametric model,13
+partition,13
+peft,13
+perceiving,13
+perceptron,13
+performance gain,13
+plug-and-play module,13
+poor performance,13
+posture,13
+prediction network,13
+previous study,13
+previously unseen,13
+propose framework,13
+pyramid,13
+rare,13
+real-world image,13
+realistic image,13
+recent progress,13
+reconstruction model,13
+reducing number,13
+relationship object,13
+representation inr,13
+result three,13
+scanpath,13
+scenario code,13
+self-supervised method,13
+semantic image,13
+semantic space,13
+show method outperforms,13
+show superior,13
+show superiority,13
+sign language video,13
+significant margin,13
+significantly enhance,13
+skeletal,13
+slide image,13
+softmax,13
+solves,13
+source target domain,13
+state-of-the-art method code,13
+still face,13
+still struggle,13
+subpopulation,13
+substantial improvement,13
+superior result,13
+superiority proposed,13
+supervised semantic,13
+supervised semantic segmentation,13
+surgery,13
+surpass,13
+symmetric,13
+symmetry,13
+tag,13
+tends,13
+term accuracy,13
+three datasets,13
+timestamps,13
+trace,13
+training paradigm,13
+transformer block,13
+transformer decoder,13
+transparent,13
+uda method,13
+unconstrained,13
+underexplored,13
+unrelated,13
+upper,13
+validate approach,13
+validating,13
+various image,13
+visit,13
+visual representation learning,13
+visual understanding,13
+weakly supervised semantic,13
+weighted,13
+well-designed,13
+whole slide image,13
+whole-body,13
+witnessed,13
+work address,13
+work aim,13
+world knowledge,13
+zero-shot capability,13
+’ eye,13
+∗ equal,13
+3d annotation,12
+3d avatar,12
+3d scene representation,12
+3d visual grounding,12
+abnormal,12
+accumulated,12
+accurate 3d,12
+across image,12
+across wide,12
+action localization,12
+action segmentation,12
+adaptation uda,12
+adaption,12
+agnostic,12
+almost,12
+angular,12
+annotation cost,12
+approach achieves state-of-the-art,12
+approach across,12
+approach code,12
+approach ha,12
+approach rely,12
+aqa,12
+ar/vr,12
+arising,12
+assistance,12
+attempted,12
+attention map,12
+au,12
+augmentation method,12
+away,12
+bag,12
+biomedical,12
+brdfs,12
+bring,12
+camouflaged object detection,12
+capability however,12
+cast,12
+centerline,12
+challenge present,12
+city,12
+class-specific,12
+cluttered,12
+codecs,12
+collision,12
+combinatorial,12
+compared baseline,12
+compared state-of-the-art method,12
+composite,12
+compressing,12
+conducting,12
+conflicting,12
+consecutive,12
+convex,12
+convolution operation,12
+convolutional network,12
+crafted,12
+cross-task,12
+current approach,12
+curriculum,12
+data model,12
+data point,12
+data sample,12
+dataset called,12
+datasets demonstrate method,12
+datasets demonstrates,12
+decoded,12
+delivering,12
+denoised,12
+dense 3d,12
+despite significant progress,12
+detection transformer,12
+differ,12
+different domain,12
+different object,12
+differentiable rendering,12
+discovering,12
+displacement,12
+diverse set,12
+domain adaptation uda,12
+dramatically,12
+drive,12
+driver,12
+driving scene,12
+dsa,12
+due difficulty,12
+dynamic human,12
+ease,12
+editing 3d,12
+efficient effective,12
+ego,12
+eight,12
+emergent,12
+emphasis,12
+empowers,12
+energy-based,12
+equilibrium,12
+estimation model,12
+exact,12
+executable,12
+exemplar-free,12
+experiment demonstrate approach,12
+experiment four,12
+experiment multiple,12
+exploitation,12
+extensive ablation study,12
+extent,12
+extrapolation,12
+eye view bev,12
+fair,12
+fake,12
+feasibility,12
+feature field,12
+fewer parameter,12
+field view,12
+fill gap,12
+fine-tuned model,12
+fine-tunes,12
+first large-scale,12
+first stage,12
+fixation,12
+formidable challenge,12
+fourier,12
+gaussian representation,12
+generating realistic,12
+generation approach,12
+generation editing,12
+go,12
+ha emerged promising,12
+ha received,12
+hair,12
+hand image,12
+hd map construction,12
+heatmaps,12
+heterogeneity,12
+high temporal resolution,12
+high-definition,12
+high-level vision,12
+highly efficient,12
+image also,12
+image analysis,12
+image collection,12
+image ha,12
+image matching,12
+image space,12
+image translation,12
+induce,12
+induced,12
+inference phase,12
+inference process,12
+information across,12
+information exchange,12
+information input,12
+information within,12
+initialize,12
+input view,12
+inspiration,12
+instruction generation,12
+instructional video,12
+integrity,12
+language-image,12
+large vision,12
+layered,12
+leakage,12
+learnable prompt,12
+leaving,12
+like clip,12
+limited number,12
+line segment,12
+lmm,12
+local region,12
+logit,12
+loop,12
+low-cost,12
+low-light image enhancement,12
+mainly focus,12
+maintaining high,12
+manage,12
+management,12
+manipulate,12
+marking,12
+markov,12
+maximize,12
+medium,12
+memorization,12
+memory usage,12
+merge,12
+method state-of-the-art,12
+method termed,12
+method use,12
+mimic,12
+mobile device,12
+model across,12
+model better,12
+model dataset,12
+model generating,12
+model method,12
+model object,12
+model prediction,12
+model publicly,12
+model ’ performance,12
+motion diffusion,12
+motion magnification,12
+multi-granularity,12
+multimodal llm,12
+necessitate,12
+needed,12
+neural implicit surface,12
+nighttime,12
+nlos,12
+nonetheless,12
+nonverbal,12
+normalizing,12
+object counting,12
+object generation,12
+object shape,12
+obtains,12
+often suffer,12
+one-stage,12
+outpainting,12
+outperforming state-of-the-art,12
+ovd,12
+paper explore,12
+patch-level,12
+per-frame,12
+performance model,12
+performance proposed,12
+place recognition,12
+planar,12
+pre-defined,12
+precise control,12
+present first,12
+present method,12
+present novel method,12
+prevents,12
+problematic,12
+process diffusion,12
+project webpage,12
+prompt however,12
+properly,12
+propose model,12
+propose use,12
+proving,12
+push,12
+quadratic,12
+quantitative experiment,12
+rain,12
+raise,12
+re-training,12
+readily available,12
+real-world scene,12
+realize,12
+reasoning capability,12
+record,12
+recorded,12
+recording,12
+reducing computational,12
+regularization term,12
+remarkable capability,12
+reprojection,12
+resilience,12
+restoring,12
+revealed,12
+sample quality,12
+scattering,12
+scene completion,12
+scene however,12
+schedule,12
+seamlessly integrated,12
+secure,12
+segment object,12
+self-attention mechanism,12
+semantic alignment,12
+semantic understanding,12
+sfod,12
+show outperforms,12
+signed distance function,12
+significant performance improvement,12
+simplicity,12
+simplifies,12
+skip,12
+smoothing,12
+soup,12
+source video,12
+specifically model,12
+starting,12
+state-of-the-art performance across,12
+static dynamic,12
+structural information,12
+study propose,12
+study show,12
+superpixels,12
+switching,12
+text generation,12
+text-to-image generative,12
+textual visual,12
+texture generation,12
+texture map,12
+time faster,12
+timesteps,12
+tiny object,12
+top-k,12
+tradeoff,12
+traditionally,12
+transformed,12
+transformer vits,12
+transmission,12
+unbiased,12
+unet,12
+unique challenge,12
+unlabeled target,12
+unprecedented,12
+user intention,12
+user-specified,12
+valuable insight,12
+variability,12
+video super-resolution,12
+video temporal,12
+view bev,12
+view image,12
+vision transformer vits,12
+vision-and-language,12
+visual encoder,12
+visual localization,12
+visual text,12
+vpr,12
+vr,12
+waymo open,12
+work ha,12
+work propose novel,12
+work take,12
+wsis,12
+zero-shot generalization,12
+zero-shot learning,12
+zero-shot performance,12
+’ eye view,12
+’ superior performance,12
+” “,12
+∗ equal contribution,12
+3d editing,11
+3d generative,11
+3d human motion,11
+3d occupancy prediction,11
+3d scene understanding,11
+accuracy efficiency,11
+achieve superior,11
+achieved great,11
+achieved state-of-the-art,11
+achieves competitive performance,11
+achieves sota,11
+across datasets,11
+across modality,11
+across range,11
+across several,11
+action understanding,11
+address challenge introduce,11
+address limitation propose,11
+adjacent frame,11
+agent ’,11
+allows model,11
+also present,11
+altering,11
+anomaly segmentation,11
+answer question,11
+approach employ,11
+approach enables,11
+approach involves,11
+approach often,11
+approach typically,11
+approach utilizes,11
+approximates,11
+artist,11
+assigns,11
+attack method,11
+attention due,11
+audio visual,11
+available neural,11
+backbone network,11
+bird ’ s-eye-view,11
+blur kernel,11
+building block,11
+camera model,11
+camera trajectory,11
+careful,11
+certified,11
+challenging datasets,11
+challenging scenario,11
+choose,11
+cifar-100,11
+cil,11
+classification model,11
+cloth,11
+cloud sequence,11
+code made,11
+como,11
+company,11
+compensate,11
+compressive,11
+concise,11
+conjunction,11
+consist,11
+constraining,11
+content creation,11
+context information,11
+contrary,11
+contributes,11
+conversion,11
+correlate,11
+cost-effective,11
+data across,11
+data address,11
+data extensive,11
+decouples,11
+deep generative,11
+defending,11
+degradation type,11
+demanding,11
+dense captioning,11
+designer,11
+disagreement,11
+discus,11
+distant,11
+distorted,11
+drift,11
+earlier,11
+effective framework,11
+ego4d,11
+emerge,11
+empower,11
+encompasses,11
+engine,11
+enhancement module,11
+enhances model,11
+enhances performance,11
+enrich,11
+entail,11
+entanglement,11
+entropy coding,11
+erroneous,11
+essentially,11
+evaluate proposed,11
+exhaustive,11
+existing video,11
+experiment several,11
+experiment synthetic,11
+explain,11
+explainable,11
+expressiveness,11
+extensive experiment three,11
+face significant,11
+false positive,11
+feature different,11
+feature image,11
+federated learning fl,11
+fer,11
+fine detail,11
+fraction,11
+framework enables,11
+framework specifically,11
+fundamentally,11
+generality,11
+generate 3d,11
+generated data,11
+generating 3d,11
+generating image,11
+geometric structure,11
+geometry appearance,11
+global context,11
+global motion,11
+gnns,11
+great progress,11
+group-wise,11
+grouping,11
+guide model,11
+ha significantly,11
+hand motion,11
+hash,11
+heavily rely,11
+high-confidence,11
+high-frequency detail,11
+human action,11
+human head,11
+human image,11
+id ood,11
+image denoising,11
+image different,11
+image extensive,11
+image method,11
+image specifically,11
+image within,11
+imperative,11
+implemented,11
+impressive result,11
+improve model,11
+improve quality,11
+improvement compared,11
+improves model,11
+imu,11
+inaccuracy,11
+indirect,11
+industry,11
+inference cost,11
+inferior,11
+inside,11
+interleaved,11
+introduce simple,11
+inversion attack,11
+issue paper,11
+joint optimization,11
+k,11
+language instruction,11
+large motion,11
+large scale,11
+later,11
+ldms,11
+learning fl,11
+learning setting,11
+lidar semantic,11
+lidar semantic segmentation,11
+light source,11
+limitation existing,11
+lip,11
+low-bit,11
+low-quality,11
+manifest,11
+markedly,11
+masked image modeling,11
+mesh reconstruction,11
+metadata,11
+method achieved,11
+method compared,11
+method employ,11
+method enables,11
+method face,11
+method model,11
+method offer,11
+method recent,11
+method surpasses,11
+method work,11
+mil,11
+minimum,11
+mixture model,11
+model called,11
+model demonstrate,11
+model design,11
+model effectively,11
+model enable,11
+model enhance,11
+model leverage,11
+model model,11
+model paper,11
+model publicly available,11
+model recently,11
+modify,11
+monocular 3d,11
+motion estimation,11
+mt,11
+multi-resolution,11
+multiple instance,11
+multiple model,11
+network parameter,11
+novel object,11
+novel pipeline,11
+object scene,11
+occurs,11
+often lack,11
+often require,11
+often result,11
+optimization objective,11
+outperforms current,11
+outperforms existing state-of-the-art,11
+outperforms previous method,11
+outperforms previous state-of-the-art,11
+overall performance,11
+paired data,11
+pcl,11
+per-scene,11
+performance 3d,11
+performance across various,11
+performance address,11
+performance drop,11
+performance previous,11
+person re-identification,11
+personalized image,11
+photograph,11
+photography,11
+photometric stereo,11
+please,11
+plug-in,11
+point cloud sequence,11
+point set,11
+population,11
+pre-trained model available,11
+pre-training method,11
+present novel approach,11
+present significant challenge,11
+primarily due,11
+prior approach,11
+prior information,11
+privacy-preserving,11
+probing,11
+prof,11
+promoting,11
+prompt visual,11
+propose dynamic,11
+propose learn,11
+qualitatively quantitatively,11
+quality compared,11
+quantifying,11
+radiology,11
+rank,11
+rasterization,11
+rate-distortion,11
+recent effort,11
+recent research,11
+recent state-of-the-art,11
+recognition system,11
+recovered,11
+recovers,11
+rectify,11
+reflecting,11
+region-based,11
+region-level,11
+regularized,11
+regularizing,11
+relationship among,11
+relaxation,11
+reliably,11
+representation propose,11
+representation space,11
+representation video,11
+restricting,11
+result across,11
+result code,11
+result extensive,11
+result show proposed,11
+retrieve,11
+revisiting,11
+rgbd,11
+rough,11
+s-eye-view,11
+s-eye-view bev,11
+sample selection,11
+scanning,11
+scene object,11
+screen,11
+second propose,11
+second stage,11
+seed,11
+seen unseen,11
+segmentation 3d,11
+segmentation benchmark,11
+selector,11
+semantic segmentation method,11
+separating,11
+service,11
+set image,11
+shading,11
+shape completion,11
+show significant,11
+similarly,11
+simpler,11
+simplify,11
+skip connection,11
+small number,11
+small set,11
+source-free domain,11
+specialist,11
+specifically method,11
+specify,11
+sport,11
+stable diffusion model,11
+stain,11
+state-of-the-art sota performance,11
+step-by-step,11
+student network,11
+substitute,11
+surface normal,11
+surprising,11
+synthetic real data,11
+t2i diffusion,11
+t2i diffusion model,11
+tabular,11
+take advantage,11
+teacher-student,11
+text input,11
+text query,11
+text rendering,11
+text segmentation,11
+textured mesh,11
+thermal infrared,11
+top-1,11
+topic,11
+training objective,11
+transfer knowledge,11
+transferred,11
+transforms,11
+treating,11
+truly,11
+try,11
+uav,11
+ultrasound,11
+uncertainty-aware,11
+unlike prior,11
+upper bound,11
+various domain,11
+various type,11
+verify effectiveness,11
+viable,11
+video content,11
+video question,11
+video result,11
+virtual reality,11
+visual instruction,11
+visual perception,11
+visual place,11
+visual place recognition,11
+weighting,11
+work first,11
+yet challenging,11
+’ s-eye-view,11
+’ s-eye-view bev,11
+1.0,10
+1.5,10
+2d model,10
+3d domain,10
+3d environment,10
+3d facial,10
+3d garment,10
+3d hand pose,10
+3d scene editing,10
+3d talking,10
+3d vision-language,10
+ability perform,10
+accessed,10
+achieved remarkable success,10
+achieves significant,10
+achieving superior,10
+across multiple datasets,10
+action anticipation,10
+added,10
+addition introduce,10
+additional computational,10
+aes,10
+agent attention,10
+aim generate,10
+aim learn,10
+allocation,10
+allows user,10
+also design,10
+alternating,10
+annotating,10
+anomalous,10
+application including,10
+approach 3d,10
+approach address,10
+approach also,10
+approach demonstrates,10
+approach focus,10
+approach proposed,10
+approach termed,10
+articulated object,10
+asr,10
+assigned,10
+atmospheric,10
+attention recent,10
+augmentation technique,10
+auroc,10
+available existing,10
+available text-to-image,10
+blurring,10
+bottom-up,10
+breakthrough,10
+brought,10
+camera parameter,10
+capable generating,10
+cape,10
+capitalizes,10
+cardiac,10
+categorical,10
+celeba,10
+centroid,10
+cf,10
+chain-of-thought,10
+challenging condition,10
+cifar10,10
+cifar100,10
+circumvent,10
+classification segmentation,10
+clearly,10
+closer,10
+cloud data,10
+cloud segmentation,10
+coined,10
+common sense,10
+complementary information,10
+computation cost,10
+computationally efficient,10
+conceptual,10
+confirms,10
+considerably,10
+content style,10
+continuously,10
+contributing,10
+controllable generation,10
+coordinate system,10
+copyright,10
+corner,10
+correctness,10
+counter,10
+cut,10
+cv,10
+cycle,10
+data propose,10
+data stream,10
+dataset benchmark,10
+dataset includes,10
+dataset model,10
+datasets also,10
+datasets demonstrate proposed,10
+ddpm,10
+deep generative model,10
+deep network,10
+deeper,10
+demonstrate achieves,10
+demonstrate superiority approach,10
+demonstrated impressive,10
+demonstrates effectiveness,10
+denoiser,10
+depth prediction,10
+descent,10
+despite success,10
+detects,10
+develop novel,10
+different data,10
+different model,10
+differently,10
+diffusion inversion,10
+diffusion model ha,10
+diffusion model ’,10
+dilemma,10
+distillation kd,10
+distractors,10
+divergence,10
+divided,10
+domain-adaptive,10
+double,10
+draw,10
+drawn,10
+dropout,10
+dual-level,10
+dual-modal,10
+dual-path,10
+dynamic prompt,10
+earth,10
+easier,10
+effectively capture,10
+effectively handle,10
+egocentric action,10
+emerges,10
+enables model,10
+encompass,10
+end-to-end framework,10
+enforces,10
+enhancing robustness,10
+entangled,10
+entirely,10
+entropy model,10
+epic-kitchens,10
+epoch,10
+evaluate model,10
+evaluate performance,10
+evaluates,10
+evaluation show,10
+everyday,10
+exhibit strong,10
+existing algorithm,10
+existing benchmark,10
+experiment demonstrate superior,10
+experiment five,10
+experiment validate effectiveness,10
+explicitly model,10
+extensive result,10
+feature volume,10
+few-shot image,10
+few-step,10
+film,10
+fine-grained detail,10
+fine-grained feature,10
+fmri signal,10
+foreground object,10
+formulated,10
+frame-level,10
+freeze,10
+gaining,10
+gaussian primitive,10
+generalization across,10
+generalizes well,10
+generation ability,10
+generation capability,10
+generative prior,10
+geometry-aware,10
+gpu memory,10
+graph convolutional,10
+graph structure,10
+great success,10
+hamper,10
+hand reconstruction,10
+handwriting,10
+height,10
+high performance,10
+high-precision,10
+highly effective,10
+holistic understanding,10
+however existing approach,10
+however many,10
+however often,10
+however real-world,10
+hr,10
+human activity,10
+human behavior,10
+human grasp,10
+human motion generation,10
+human motion synthesis,10
+human-scene,10
+hyperparameter,10
+identical,10
+image data,10
+image dehazing,10
+image despite,10
+image given,10
+image manipulation,10
+image patch,10
+image pixel,10
+image propose,10
+image significantly,10
+image style,10
+image ’,10
+image-to-3d,10
+image-to-text,10
+implicit concept,10
+imposed,10
+improvement existing,10
+inability,10
+industrial anomaly,10
+inefficiency,10
+inferred,10
+information object,10
+inherent challenge,10
+instance learning,10
+instant,10
+intended,10
+invertible,10
+isolation,10
+keyframe,10
+knowledge distillation kd,10
+learned knowledge,10
+learning semantic,10
+limited data,10
+linear attention,10
+liquid,10
+locality,10
+localizing,10
+locating,10
+logic,10
+lot,10
+machine unlearning,10
+magenta,10
+many existing,10
+marginal,10
+marine,10
+memory bank,10
+mesh-based,10
+method across various,10
+method different,10
+method exhibit,10
+method first,10
+method ha,10
+method relying,10
+method several,10
+method tend,10
+method us,10
+minimizes,10
+mix,10
+model demonstrated,10
+model demonstrates,10
+model different,10
+model enabling,10
+model experiment,10
+model feature,10
+model furthermore,10
+model inversion,10
+model lmms,10
+model pre-trained,10
+model previous,10
+model various,10
+motion appearance,10
+motivates,10
+ms-coco,10
+mse,10
+multi-agent,10
+multi-modal prompt,10
+multi-objective,10
+multi-subject,10
+multi-view consistency,10
+nd,10
+neighborhood,10
+nerf model,10
+network learn,10
+network snns,10
+neural network snns,10
+night,10
+noc,10
+noise prediction,10
+noticeable,10
+novel 3d,10
+novel dataset,10
+novel loss,10
+novel self-supervised,10
+number parameter,10
+object interest,10
+object localization,10
+object reconstruction,10
+offer promising,10
+omni-directional,10
+omni-directional image,10
+one-step diffusion,10
+optimization method,10
+ordering,10
+oriented,10
+out-of-distribution detection,10
+paper proposes novel,10
+paper study,10
+parameterized,10
+paving,10
+perform well,10
+performance downstream,10
+performance three,10
+persistent,10
+point cloud data,10
+point cloud segmentation,10
+pooling,10
+pose shape,10
+practical deployment,10
+prediction planning,10
+predominant,10
+principled,10
+process diffusion model,10
+processed,10
+prohibitive,10
+prominent,10
+promising solution,10
+prompt alignment,10
+prompt generation,10
+promptable,10
+propagate,10
+propose effective,10
+propose innovative,10
+prune,10
+pushing,10
+qualitative quantitative experiment,10
+quantitative evaluation,10
+query-based,10
+raw image,10
+re-id,10
+real dataset,10
+realistic human,10
+recognition model,10
+reconstruction loss,10
+rectification,10
+reflected,10
+reflective,10
+regardless,10
+region interest,10
+regional,10
+relative pose,10
+relightable,10
+replacing,10
+report generation,10
+repository,10
+respectively code available,10
+restored,10
+restricts,10
+result compared,10
+result demonstrate effectiveness,10
+result demonstrate proposed,10
+result indicate,10
+resulting model,10
+resulting significant,10
+reward function,10
+richer,10
+routing,10
+salient object,10
+sampling method,10
+satisfactory performance,10
+scanned,10
+scenario code available,10
+script,10
+segmentation framework,10
+self-supervised approach,10
+semantic label,10
+semantic prior,10
+semantic representation,10
+semi-supervised 3d,10
+setting code,10
+shed,10
+shoe,10
+show superior performance,10
+shown promising result,10
+significant computational,10
+significantly advanced,10
+significantly enhancing,10
+sky,10
+slider,10
+small amount,10
+solving inverse,10
+source code publicly,10
+spatial domain,10
+spatial-frequency,10
+spoken,10
+standardized,10
+state-of-the-art method term,10
+storing,10
+str,10
+strict,10
+study introduce,10
+style feature,10
+subtle difference,10
+suggests,10
+suited,10
+suppress,10
+surveillance,10
+synthesis method,10
+synthesizes,10
+t2v,10
+tad,10
+tail,10
+targeting,10
+teacher student,10
+temporal action segmentation,10
+temporal change,10
+temporal context,10
+temporal localization,10
+text embedding,10
+text modality,10
+text-to-image generative model,10
+three different,10
+three public,10
+tight,10
+tightly,10
+top-1 accuracy,10
+trainable parameter,10
+trained synthetic,10
+training approach,10
+training diffusion,10
+training testing,10
+training video,10
+transparency,10
+triplet,10
+tta method,10
+two-stage training,10
+two-step,10
+typographic,10
+unavailable,10
+uncalibrated,10
+uncertain,10
+unexplored paper,10
+unfortunately,10
+union,10
+universality,10
+unlabeled target domain,10
+unlocking,10
+usability,10
+validate efficacy,10
+variational autoencoder,10
+vfms,10
+video anomaly,10
+video anomaly detection,10
+video clip,10
+video dataset,10
+video given,10
+video however,10
+video motion,10
+video question answering,10
+video sequence,10
+video temporal grounding,10
+video-level,10
+video-text retrieval,10
+vision application,10
+vision encoder,10
+vision-language model lvlms,10
+vision-language pre-training,10
+visual model,10
+visual scene,10
+visual-language model,10
+vl model,10
+vlp model,10
+vqa model,10
+walk,10
+white-box,10
+yet effective approach,10
+’ attention,10
+’ output,10
+0.5,9
+10×,9
+2d mask,9
+2×,9
+360°,9
+3d dense,9
+3d dense captioning,9
+3d image,9
+3d information,9
+3d instance,9
+3d instance segmentation,9
+3d object detector,9
+3d surface,9
+3d talking head,9
+3d vision,9
+3dmm,9
+4d generation,9
+6-dof,9
+6d object,9
+6d object pose,9
+6d pose,9
+absent,9
+accommodating,9
+accuracy robustness,9
+achievement,9
+across domain,9
+across variety,9
+action quality,9
+action representation,9
+activation map,9
+activity recognition,9
+additionally design,9
+address challenging,9
+addressing issue,9
+adversarial network gans,9
+adversarial prompt,9
+adversarially,9
+adverse condition,9
+affected,9
+affecting,9
+aim address,9
+aim predict,9
+aim segment,9
+alignment loss,9
+also outperforms,9
+alternate,9
+ambient,9
+among multiple,9
+anatomy,9
+and/or,9
+annotate,9
+answering vqa,9
+anti-spoofing,9
+apparel,9
+appearance geometry,9
+approach generating,9
+approach ’,9
+arbitrary object,9
+arbitrary view,9
+argoverse,9
+arise,9
+assign,9
+assigning,9
+assisted,9
+assuming,9
+atomic,9
+attention layer,9
+attention score,9
+auc,9
+augments,9
+authenticity,9
+auxiliary network,9
+avatar generation,9
+average precision,9
+become increasingly,9
+blend,9
+blurry image,9
+broad range,9
+buffer,9
+calculated,9
+calibration method,9
+captioner,9
+category-level object,9
+centered,9
+cider,9
+cir,9
+classification performance,9
+classifying,9
+clip ha,9
+clothed,9
+cognition,9
+combat,9
+command,9
+commercial,9
+compared prior,9
+competing method,9
+complemented,9
+comprehensive benchmark,9
+computational demand,9
+concept bottleneck,9
+conditional diffusion model,9
+conditional generation,9
+confirming,9
+consistency among,9
+consistency model,9
+consistency video,9
+consistent 3d,9
+consistently improves,9
+content generation,9
+conventional method,9
+converge,9
+conversation,9
+conversational,9
+core component,9
+correctly,9
+corrects,9
+crafting,9
+creates,9
+critical challenge,9
+cross-entropy,9
+crowded,9
+current model,9
+cutting-edge,9
+data approach,9
+data diversity,9
+data paper,9
+data recent,9
+data structure,9
+dataset comprises,9
+dataset method,9
+dataset publicly,9
+datasets however,9
+datasets result,9
+date,9
+db,9
+decision boundary,9
+deconvolution,9
+deep feature,9
+deformation field,9
+deforming,9
+degrade,9
+demonstrate framework,9
+demonstrate state-of-the-art,9
+demonstrating superior,9
+demonstration,9
+depicting,9
+deraining,9
+describing,9
+designed address,9
+detection dataset,9
+detection datasets,9
+detection framework,9
+detr-like,9
+deviation,9
+devised,9
+differs,9
+diminishes,9
+discontinuity,9
+diverse 3d,9
+diverse range,9
+diverse scenario,9
+downsampling,9
+drag,9
+drastically,9
+drawing inspiration,9
+drone,9
+dwt,9
+edited image,9
+effectively reduces,9
+effectiveness framework,9
+effectiveness superiority,9
+efficacy approach,9
+efficacy method,9
+efficient training,9
+emphasizing,9
+empirical study,9
+end-to-end autonomous,9
+end-to-end autonomous driving,9
+engagement,9
+enhance model ’,9
+enhance robustness,9
+enhancing performance,9
+essence,9
+exhibit remarkable,9
+exhibited,9
+existence,9
+experiment verify,9
+exposure time,9
+expression recognition,9
+extensively studied,9
+extrinsic,9
+face anti-spoofing,9
+face image,9
+faced,9
+facial image,9
+facial motion,9
+facilitated,9
+fast high-quality,9
+feature distribution,9
+feature propagation,9
+feature within,9
+feature-level,9
+feed,9
+ffhq,9
+fg,9
+fig,9
+finally propose,9
+fine-grained action,9
+fine-tuning strategy,9
+first construct,9
+first employ,9
+four benchmark,9
+framework allows,9
+freedom,9
+frequency regularization,9
+fully exploit,9
+functionality,9
+gained significant,9
+gather,9
+gathering,9
+gaussian distribution,9
+gaussian mixture model,9
+generalization method,9
+generalized category,9
+generalized category discovery,9
+generation however,9
+generative process,9
+generic object,9
+geolocalization,9
+geometric constraint,9
+geometric distortion,9
+geometric feature,9
+gradient-based,9
+graph convolutional network,9
+guide diffusion,9
+ha proven,9
+ha widely,9
+harmonic,9
+headset,9
+heart,9
+high efficiency,9
+high-fidelity 3d,9
+highlighting potential,9
+homogeneous,9
+hotspot,9
+however current method,9
+however existing work,9
+however model,9
+human generation,9
+human-annotated,9
+hyperbolic,9
+hyperspectral image,9
+ill-posed problem,9
+image address,9
+image caption,9
+image code,9
+image composition,9
+image domain,9
+image formation,9
+image prompt,9
+image region,9
+image show,9
+image target,9
+image understanding,9
+image-text retrieval,9
+impacting,9
+implementing,9
+impose,9
+in-depth analysis,9
+inappropriate,9
+incurring,9
+inference efficiency,9
+inference stage,9
+initializing,9
+initiate,9
+innovative approach,9
+instance mask,9
+instruction following,9
+instruction-following,9
+interactive segmentation,9
+intermediate layer,9
+interpreting,9
+intuition,9
+intuitively,9
+inverting,9
+investigates,9
+involved,9
+ir,9
+jpeg,9
+kd method,9
+key contribution,9
+l,9
+labelled,9
+laborious,9
+language model mllm,9
+language processing,9
+language vision,9
+language-driven,9
+language-guided,9
+language-image pre-training,9
+laplacian,9
+large pre-trained model,9
+large-scale image,9
+large-scale pre-trained,9
+ldr,9
+leap,9
+learning module,9
+learning rl,9
+learning scenario,9
+learning scheme,9
+learnt,9
+lego,9
+letter,9
+leverage diffusion,9
+leverage pre-trained,9
+lidar data,9
+limited training,9
+linear probing,9
+linearly,9
+linked,9
+llm-based,9
+lnl,9
+local structure,9
+long-range dependency,9
+long-term temporal,9
+lookup,9
+loss proposed,9
+low-dimensional,9
+low-light condition,9
+low-resolution image,9
+made available,9
+magnetic,9
+many computer,9
+many computer vision,9
+masked video,9
+measuring,9
+memory footprint,9
+memory-based,9
+method able,9
+method aim,9
+method approach,9
+method code released,9
+method easily,9
+method estimate,9
+method evaluated,9
+method four,9
+method image,9
+method learn,9
+method like,9
+method moreover,9
+method paper,9
+method particularly,9
+method provide,9
+method three,9
+method train,9
+method utilize,9
+minimal solver,9
+minority,9
+misaligned,9
+mislead,9
+mixup,9
+mmbench,9
+model achieving,9
+model allows,9
+model designed,9
+model dynamic,9
+model evaluation,9
+model focus,9
+model generates,9
+model given,9
+model learns,9
+model limited,9
+model may,9
+model mllm,9
+model predict,9
+model real-world,9
+model released,9
+model result,9
+model scene,9
+model still,9
+model temporal,9
+model text,9
+model vlm,9
+modifies,9
+motion complexity,9
+motion diffusion model,9
+motion forecasting,9
+movie,9
+mr,9
+multi-dimensional data,9
+multi-layer perceptron,9
+multi-modal feature,9
+multi-view consistent,9
+multi-view stereo,9
+multiple instance learning,9
+multiple modality,9
+multiview,9
+natural language processing,9
+need manual,9
+network gans,9
+neural architecture search,9
+neural surface,9
+none,9
+normalizing flow,9
+noteworthy,9
+novel image,9
+novel module,9
+objaverse,9
+object 3d,9
+object detection method,9
+object feature,9
+object geometry,9
+object however,9
+object-centric representation,9
+object-wise,9
+observing,9
+often focus,9
+often overlook,9
+on-the-fly,9
+one-step diffusion model,9
+open-set object,9
+open-vocabulary detection,9
+open-vocabulary object,9
+operational,9
+opposed,9
+out-of-domain,9
+outperform state-of-the-art,9
+outperforming previous,9
+outperforms state-of-the-art approach,9
+overcome limitation propose,9
+overfitting issue,9
+paper develop,9
+paper show,9
+paper tackle,9
+pareto,9
+pathmmu,9
+pathway,9
+pe,9
+performance efficiency,9
+performance extensive,9
+performance image,9
+performance several,9
+persist,9
+perturbed,9
+physics-based,9
+plugin,9
+point tracking,9
+poisoned,9
+polygonal,9
+polygonal mesh,9
+post-hoc,9
+power consumption,9
+powerful tool,9
+practical scenario,9
+pre-trained foundation,9
+pre-training clip,9
+predicate,9
+prediction performance,9
+preferred,9
+present challenge,9
+present simple,9
+previous sota,9
+previously learned,9
+problem introduce,9
+problem propose novel,9
+process propose,9
+processor,9
+professional,9
+progress ha,9
+propose 3d,9
+protect,9
+pruned,9
+pruning method,9
+qualitative evaluation,9
+query selection,9
+question answering vqa,9
+quite,9
+r image,9
+radial,9
+raised,9
+reader,9
+reading,9
+recognition method,9
+reconstructing 3d,9
+reconstruction novel,9
+reconstruction novel view,9
+reconstruction performance,9
+regulate,9
+reinforcement learning rl,9
+relative depth,9
+release code,9
+remains largely unexplored,9
+remains open,9
+remarkable progress,9
+reported,9
+representation across,9
+representation method,9
+reproduce,9
+resampling,9
+resnet,9
+resonance,9
+respond,9
+rgb-t,9
+robotic manipulation,9
+robust representation,9
+rtx,9
+sample training,9
+save,9
+scanpath prediction,9
+scanpaths,9
+scenario paper,9
+scene information,9
+scene model,9
+scene propose,9
+scene-specific,9
+scope,9
+sdxl,9
+seamless integration,9
+seamlessly integrates,9
+segmentation datasets,9
+segmentation depth,9
+self-driving,9
+self-supervised manner,9
+semantic occupancy,9
+semi-supervised method,9
+separated,9
+sequentially,9
+several baseline,9
+sfda,9
+shed light,9
+show promising,9
+significant interest,9
+significantly better,9
+simple effective,9
+simplified,9
+single-photon,9
+single-shot,9
+single-step,9
+small subset,9
+smartphones,9
+sol,9
+solid,9
+solving inverse problem,9
+source image,9
+space model,9
+sparse point,9
+speaker,9
+specialist model,9
+splat,9
+spot,9
+square,9
+stack,9
+state-of-the-art sota method,9
+strategy enables,9
+street view,9
+study address,9
+subject-driven,9
+subjective,9
+suboptimal performance,9
+substantial computational,9
+suite,9
+summarize,9
+superiority proposed method,9
+supplement,9
+supplementary,9
+surface representation,9
+surge,9
+surroundings,9
+synthesized image,9
+tackle challenging,9
+tackled,9
+tailor,9
+talking face,9
+tampering,9
+temperature,9
+temporal action localization,9
+temporal feature,9
+text representation,9
+text-to-image synthesis,9
+text-to-image t2i diffusion,9
+text-to-image t2i model,9
+text-to-motion generation,9
+textual input,9
+texture information,9
+thresholding,9
+token pruning,9
+training stage,9
+transformer-based architecture,9
+transformer-based method,9
+transformer-based model,9
+transforming,9
+transient,9
+triangle,9
+tumor,9
+udc,9
+ui,9
+uncertainty quantification,9
+unified representation,9
+uniquely,9
+universal framework,9
+unlabeled image,9
+unreliable,9
+unsafe,9
+unsupervised 3d,9
+unsupervised representation,9
+unveiling,9
+used training,9
+various 3d,9
+verified,9
+vfi,9
+video action,9
+video depth,9
+video image,9
+video retrieval,9
+view-consistent,9
+vision-language alignment,9
+vision-language model clip,9
+visual language,9
+visual modality,9
+visual prompting,9
+visual signal,9
+vo,9
+vs.,9
+w.r.t,9
+well-trained,9
+winograd convolution,9
+winograd transformation,9
+within video,9
+work done,9
+working,9
+worth,9
+wrinkle,9
+yet effective method,9
+zero-shot transfer,9
+’ feature,9
+’ generalization,9
+’ robustness,9
+† corresponding,9
+† corresponding author,9
+2d feature,8
+3d box,8
+3d datasets,8
+3d generative model,8
+3d hand-object,8
+3d supervision,8
+3d understanding,8
+3d world,8
+3d-consistent,8
+3dgs ha,8
+4d head,8
+ability model,8
+achieve better,8
+achieve comparable,8
+achieve competitive,8
+achieve higher,8
+achieves high,8
+achieves performance,8
+achieves real-time,8
+achieves remarkable,8
+achieves sota performance,8
+across different datasets,8
+across multiple benchmark,8
+across various datasets,8
+across various domain,8
+across view,8
+across wide range,8
+action quality assessment,8
+activate,8
+adaptation tta,8
+address challenge paper,8
+addressing challenge,8
+adept,8
+adeptly,8
+adhering,8
+adjusted,8
+advent,8
+adversarial sample,8
+adversary,8
+adverse weather condition,8
+adversely,8
+affective,8
+aggregation module,8
+aim adapt,8
+aim identify,8
+aim improve,8
+aim reconstruct,8
+albedo,8
+algorithmic,8
+allocate,8
+also significantly,8
+among different,8
+amplify,8
+anchor point,8
+animated,8
+annotation company,8
+anomaly detection method,8
+aperture,8
+approach designed,8
+approach generate,8
+approach learn,8
+approach offer,8
+approach primarily,8
+articulation,8
+artificial intelligence,8
+ask,8
+autonomously,8
+available datasets,8
+available large,8
+available recent advancement,8
+available training,8
+available work,8
+ax,8
+barrier,8
+base model,8
+behavioral,8
+bell,8
+bell whistle,8
+benchmark result,8
+better result,8
+bi-level,8
+bid,8
+blue,8
+bnns,8
+bone,8
+bottleneck model,8
+bounded,8
+bridge domain,8
+bridge domain gap,8
+broad spectrum,8
+cad model,8
+camera calibration,8
+camera viewpoint,8
+canonical space,8
+capability generate,8
+carla,8
+cat,8
+catastrophic overfitting,8
+category-agnostic,8
+cbms,8
+cell tracking,8
+chat,8
+chest,8
+class-conditional,8
+classifier-free,8
+classifier-free guidance,8
+clearer,8
+clip-based,8
+closest,8
+clothed human,8
+cloud generation,8
+cloud understanding,8
+code available 3d,8
+code available introduce,8
+code available neural,8
+code available propose,8
+code trained,8
+coin,8
+compared conventional,8
+compared current,8
+compared previous method,8
+compared previous state-of-the-art,8
+complete point,8
+completing,8
+complex dynamic,8
+complex scenario,8
+compose,8
+compositional generalization,8
+compositionality,8
+comprehensive experimental,8
+compression method,8
+compressive imaging,8
+computer vision robotics,8
+condensation,8
+conditional control,8
+conduct comprehensive,8
+connecting,8
+consequence,8
+considerable attention,8
+consistency learning,8
+consistency regularization,8
+consistently improve,8
+contained,8
+context-aware,8
+contextualized,8
+contour,8
+contrasting,8
+contrastive language-image,8
+conversely,8
+converting,8
+cooperative,8
+core idea,8
+cornerstone,8
+corresponding image,8
+counterfactual explanation,8
+crg,8
+cross attention,8
+cross-frame,8
+cross-view geo-localization,8
+crowdsourced,8
+csr,8
+current frame,8
+curvilinear,8
+curvilinear object,8
+custom,8
+czsl,8
+data annotation,8
+data ha,8
+data introduce,8
+data often,8
+data source,8
+data used,8
+data-efficient,8
+dataset also,8
+dataset containing,8
+dataset contains,8
+dataset named,8
+dataset publicly available,8
+dataset released,8
+datasets achieving,8
+datasets address,8
+datasets demonstrate superior,8
+datasets demonstrate superiority,8
+datasets method,8
+datasets respectively,8
+datasets validate effectiveness,8
+datasets work,8
+debiasing,8
+deblur,8
+deblurring method,8
+deep learning method,8
+defining,8
+degree freedom,8
+demonstrate method significantly,8
+demonstrated remarkable,8
+dependent,8
+depending,8
+depth-aware,8
+detailed description,8
+detection tracking,8
+detrimental,8
+dictionary,8
+different camera,8
+different image,8
+different type,8
+diffusion framework,8
+diffusion model dm,8
+diffusion model extensive,8
+diffusion-based method,8
+diode,8
+discriminability,8
+disentangled representation,8
+disparate,8
+distillation framework,8
+distributional,8
+diversification,8
+domain however,8
+domain-agnostic,8
+dragging,8
+driving datasets,8
+driving system,8
+dual-branch,8
+due complex,8
+eeg,8
+effectively mitigates,8
+efficient framework,8
+egocentric view,8
+embeds,8
+emphasizes,8
+empty,8
+encoder ’,8
+energy-efficient,8
+enhancer,8
+enhancing model,8
+euclidean,8
+evaluate approach,8
+evaluation protocol,8
+even though,8
+evidenced,8
+excellent performance,8
+excelling,8
+exhibit significant,8
+existing methodology,8
+existing metric,8
+existing study,8
+experiment ablation,8
+experiment benchmark,8
+experiment demonstrated,8
+experiment public,8
+express,8
+extensive experiment five,8
+extensive experiment several,8
+extensive qualitative,8
+face video,8
+facial attribute,8
+facilitate training,8
+facing,8
+faster convergence,8
+faster inference,8
+favorably,8
+feature correspondence,8
+feature learned,8
+feature propose,8
+few-shot object,8
+few-shot object detection,8
+finding reveal,8
+fine-grained control,8
+fine-grained semantic,8
+fine-grained visual,8
+first work,8
+firstly propose,8
+fisher,8
+flaw,8
+flickr30k,8
+flipping,8
+floor,8
+floor plan,8
+forest,8
+forgetting old,8
+forming,8
+formulates,8
+formulating,8
+forward pas,8
+frame video,8
+frame-wise,8
+framework termed,8
+free-form,8
+frequency domain,8
+frequent,8
+fundamental problem,8
+future work,8
+gaming,8
+gas,8
+gaussian noise,8
+gaussian parameter,8
+gcd,8
+generalize unseen,8
+generate video,8
+generated content,8
+generating high-fidelity,8
+generation 3d,8
+generation diffusion,8
+generation module,8
+generative image,8
+geographic,8
+geometric detail,8
+geometry material,8
+geometry scene,8
+good performance,8
+gpt-4,8
+gradient descent,8
+great potential,8
+grit,8
+ground truth data,8
+ground view,8
+group activity,8
+guaranteed,8
+ha explored,8
+ha led,8
+ha proposed,8
+ha yet,8
+hairstyle,8
+hand pose estimation,8
+hand-crafted,8
+handwritten text,8
+head model,8
+heat,8
+high cost,8
+high frequency,8
+high resolution,8
+high-frequency information,8
+high-quality rendering,8
+high-resolution 3d,8
+high-resolution token,8
+higher-resolution image,8
+highlighted,8
+hinge,8
+holographic,8
+however performance,8
+however still,8
+human annotator,8
+human camera,8
+human face,8
+human feedback,8
+human perception,8
+human visual,8
+human-computer,8
+id data,8
+image animation,8
+image approach,8
+image classifier,8
+image embedding,8
+image extensive experiment,8
+image inpainting,8
+image object,8
+image paper,8
+image processing,8
+image real,8
+image registration,8
+image resolution,8
+image set,8
+image stylization,8
+image text description,8
+image text prompt,8
+image training,8
+imaging modality,8
+implication,8
+implicit field,8
+improvement across,8
+improvement state-of-the-art,8
+in-the-wild video,8
+incorporation,8
+incrementally,8
+index,8
+industrial anomaly detection,8
+inference latency,8
+infers,8
+infinite,8
+information flow,8
+information interaction,8
+information loss,8
+ingredient,8
+injected,8
+injecting,8
+input feature,8
+insect,8
+inserting,8
+inspired recent,8
+interestingly,8
+interprets,8
+intra-modal,8
+introduce feature,8
+introduce innovative,8
+issue introduce novel,8
+item,8
+kinematics,8
+kitti-360,8
+knowledge base,8
+label correlation,8
+labeled sample,8
+labeled unlabeled,8
+labelled data,8
+large datasets,8
+large-scale benchmark,8
+large-scale vision,8
+large-scale vision-language,8
+largely unexplored paper,8
+latent context,8
+learned representation,8
+learning algorithm,8
+learning cl,8
+learning code,8
+learning problem,8
+learning representation,8
+learning specifically,8
+leverage diffusion model,8
+leverage temporal,8
+leveraging pre-trained,8
+lidar camera,8
+limitation current,8
+limitation propose novel,8
+limited training data,8
+llava-1.5,8
+llm generate,8
+local detail,8
+logo,8
+magnetic resonance,8
+main component,8
+margin code,8
+mean-teacher,8
+measured,8
+mechanical,8
+memory cost,8
+merit,8
+mesh recovery,8
+method achieves superior,8
+method capable,8
+method developed,8
+method doe,8
+method dubbed,8
+method enhance,8
+method especially,8
+method human,8
+method improves,8
+method integrates,8
+method make,8
+method method,8
+method often struggle,8
+method outperforms previous,8
+method significantly improves,8
+method successfully,8
+method yield,8
+mi attack,8
+missed,8
+mixture expert,8
+ml,8
+modality-specific,8
+model achieved,8
+model benchmark,8
+model complex,8
+model compression,8
+model datasets,8
+model despite,8
+model dm,8
+model due,8
+model evaluate,8
+model even,8
+model existing,8
+model experimental,8
+model fine-tuning,8
+model first,8
+model generalization,8
+model introduce,8
+model named,8
+model present,8
+model provide,8
+model real,8
+model robustness,8
+model struggle,8
+model utilizing,8
+model ’ capability,8
+modeled,8
+moreover method,8
+motion control,8
+motion data,8
+motion planning,8
+motion representation,8
+motion-blurred,8
+motion-language,8
+motivated propose,8
+multi-sensor,8
+multifaceted,8
+multimodal model lmms,8
+multiple benchmark datasets,8
+multiple camera,8
+narration,8
+narrative,8
+natural scene,8
+navigating,8
+nearby,8
+negative label,8
+negative pair,8
+negatively,8
+nerf method,8
+network design,8
+network ’,8
+neural scene,8
+neuronal,8
+noise model,8
+normal image,8
+normalization layer,8
+notable improvement,8
+novel adaptive,8
+novel concept,8
+novel data,8
+novel framework called,8
+novel model,8
+novel technique,8
+novel video,8
+novelty,8
+obfuscation,8
+object discovery,8
+often exhibit,8
+often fall,8
+often fall short,8
+often overlooked,8
+often produce,8
+omnidirectional,8
+online video,8
+open-domain,8
+open-set domain,8
+open-vocabulary object detection,8
+opening,8
+optimization framework,8
+ordinal,8
+outperforms current state-of-the-art,8
+outperforms recent,8
+outperforms sota method,8
+ov,8
+pac,8
+paper contains,8
+paper explores,8
+parameter efficiency,8
+paramount,8
+patch-based,8
+patch-wise,8
+paving way,8
+percentage,8
+performance code available,8
+performance compared state-of-the-art,8
+performance state-of-the-art method,8
+persists,8
+personal,8
+perspective distortion,8
+phrase,8
+pixel-level annotation,8
+point annotation,8
+point cloud generation,8
+point cloud understanding,8
+point-level,8
+popular benchmark,8
+pose sequence,8
+positional information,8
+potential application,8
+pre-train,8
+pre-trained foundation model,8
+pre-training framework,8
+preceding,8
+preserved,8
+prior research,8
+probability distribution,8
+process extensive,8
+programming,8
+projective,8
+prompt-driven,8
+propagating,8
+propose leverage,8
+provide comprehensive,8
+psf,8
+put,8
+quadruped,8
+qualitative result,8
+quality diversity,8
+quantitative qualitative evaluation,8
+quantitative result,8
+quantized model,8
+querying,8
+random walk,8
+ranking-based,8
+rasterized,8
+reaching,8
+real application,8
+real datasets,8
+real-world video,8
+realistic 3d,8
+reasoning process,8
+recent year however,8
+recently 3d,8
+reconstruction accuracy,8
+referring image,8
+referring image segmentation,8
+reflectance,8
+regarded,8
+regime,8
+region image,8
+registration method,8
+regularizer,8
+relying solely,8
+remains unexplored,8
+repetitive,8
+representation ha,8
+representation learned,8
+require extensive,8
+research area,8
+research community,8
+research direction,8
+resolving,8
+restoration network,8
+restriction,8
+result extensive experiment,8
+result multiple,8
+result validate,8
+revision,8
+revolutionized,8
+reward model,8
+rgb video,8
+rich-resource,8
+rigorously,8
+rise,8
+robust generalization,8
+robust performance,8
+roi,8
+root,8
+rotated,8
+running,8
+sam ’,8
+scenario address,8
+scenario including,8
+scene dynamic,8
+scene image,8
+scod,8
+see project,8
+seen significant,8
+segmentation aim,8
+self-supervised model,8
+self-supervised representation,8
+semantic diversity,8
+semantic knowledge,8
+semantic mask,8
+shallow,8
+shape variation,8
+show improvement,8
+shown great,8
+shown impressive,8
+siamese,8
+signed distance field,8
+significant advance,8
+significantly fewer,8
+significantly outperforms previous,8
+simplification,8
+site,8
+skeleton-based action,8
+skeleton-based action recognition,8
+slice,8
+slot attention,8
+slow inference,8
+smoke,8
+smoother,8
+smpl,8
+smpl-x,8
+snn,8
+source prompt,8
+source-free domain adaptation,8
+space diffusion,8
+space enabling,8
+space-time,8
+sparse depth,8
+sparse input,8
+spatial consistency,8
+specially,8
+speed-up,8
+sphere,8
+splatting 3dgs ha,8
+ssl method,8
+state space,8
+state-of-the-arts,8
+story,8
+straightforward yet,8
+strategic,8
+strategically,8
+strategy proposed,8
+street-view,8
+structure-from-motion sfm,8
+style image,8
+subtitle,8
+summarization,8
+summary,8
+super-resolution sr,8
+superior performance state-of-the-art,8
+suppressing,8
+surface rendering,8
+surpasses current,8
+surpassing existing,8
+symbol,8
+symbolic,8
+synthesis 3d,8
+synthesis nv,8
+tackle problem propose,8
+target detection,8
+teacher network,8
+technically,8
+template matching,8
+temporal cue,8
+temporal reasoning,8
+test domain,8
+test-time adaptation tta,8
+text-conditioned,8
+text-guided image,8
+text-video,8
+thin,8
+think,8
+thought,8
+thousand,8
+three type,8
+time-varying,8
+tomography,8
+top-down,8
+topology awareness,8
+traffic scenario,8
+train diffusion,8
+training diffusion model,8
+training distribution,8
+training however,8
+training procedure,8
+training rendering,8
+training-free approach,8
+transformation matrix,8
+translate,8
+trustworthy,8
+truth data,8
+tune,8
+tuned,8
+typically rely,8
+typically require,8
+underperform,8
+understanding human,8
+undesired,8
+unfolding,8
+uni-modal,8
+unified anomaly,8
+unlabeled sample,8
+unleash,8
+unleashing,8
+unordered,8
+unposed,8
+unsigned,8
+unsigned distance,8
+unsupervised video,8
+untrimmed,8
+unwanted,8
+user-provided,8
+validate effectiveness proposed,8
+validation set,8
+various challenging,8
+various model,8
+various scene,8
+various setting,8
+various vision,8
+versa,8
+vice,8
+vice versa,8
+video denoising,8
+video frame interpolation,8
+video pair,8
+video quality,8
+video recognition,8
+video segment,8
+video transformer,8
+view synthesis nv,8
+visa,8
+vision graphic,8
+vision robotics,8
+vision-language model vlm,8
+visual appearance,8
+visual instruction tuning,8
+visual slam,8
+visually grounded,8
+vos,8
+voxel-based,8
+vsd,8
+watermarking method,8
+weakness,8
+wherein,8
+whistle,8
+wider,8
+work focused,8
+work introduce novel,8
+work study,8
+work tackle,8
+year however,8
+yielded,8
+’ capacity,8
+’ state-of-the-art,8
+-based,7
+100k,7
+1d,7
+2d foundation,7
+2d foundation model,7
+2d segmentation model,7
+2d-to-3d,7
+3d consistency,7
+3d gaussian representation,7
+3d hand reconstruction,7
+3d label,7
+3d medical,7
+3d object recognition,7
+3d shape generation,7
+3d structure,7
+3d textured,7
+3d-aware image,7
+3d-vl,7
+4d radar,7
+6-dof grasp,7
+6d pose estimation,7
+accelerated,7
+accessing,7
+accumulate,7
+accuracy extensive,7
+accurate efficient,7
+accurate pose,7
+accurate segmentation,7
+achieve accurate,7
+achieve high-quality,7
+achieve propose,7
+achieve state-of-the-art result,7
+achieve superior performance,7
+achieved great success,7
+achieves significant improvement,7
+achieves strong,7
+acoustic,7
+across diverse datasets,7
+across entire,7
+across five,7
+across four,7
+across time,7
+ad3,7
+adaptation approach,7
+additionally employ,7
+additionally present,7
+address issue present,7
+address limitation introduce,7
+adversarial defense,7
+advertising,7
+age,7
+agricultural,7
+ai-generated,7
+aided,7
+aiding,7
+akin,7
+aligning visual,7
+all-in-one image,7
+all-in-one image restoration,7
+allowing user,7
+also demonstrates,7
+also enables,7
+also exhibit,7
+also offer,7
+amortized,7
+analysis demonstrates,7
+analysis propose,7
+analysis show,7
+analytical,7
+animate,7
+apl,7
+appearance change,7
+appearance editing,7
+appearance feature,7
+appears,7
+application address,7
+application autonomous,7
+application computer,7
+application computer vision,7
+application propose,7
+application work,7
+approach code available,7
+approach estimate,7
+approach image,7
+approach improves,7
+approach integrates,7
+approach introduces,7
+approach project,7
+approach show,7
+arbitrary number,7
+artistic style,7
+ass performance,7
+attack success,7
+attack success rate,7
+attain,7
+attention recent year,7
+attribution method,7
+audio-driven,7
+augmentation strategy,7
+augmented reality,7
+auto-regressive,7
+autodir,7
+available diffusion,7
+available diffusion model,7
+available multimodal,7
+available paper present,7
+available recently,7
+back-propagation,7
+baseline across,7
+benchmark method,7
+benchmark validate,7
+better align,7
+bev representation,7
+bi-level optimization,7
+bilateral,7
+billion,7
+blazebvd,7
+breaking,7
+breast,7
+bridge gap propose,7
+brightness change,7
+bringing,7
+broader range,7
+calculating,7
+camera image,7
+camera movement,7
+camera ’,7
+canvas,7
+capability large language,7
+carry,7
+cascading,7
+category-agnostic pose,7
+caustic,7
+cellular,7
+centralized,7
+cephalometric,7
+cephalometric landmark,7
+challenge achieving,7
+challenge arises,7
+challenge existing,7
+challenged,7
+character-level,7
+checkpoint,7
+chunk,7
+city-scale,7
+claim,7
+class-wise,7
+classification object,7
+cleo,7
+cluster assignment,7
+cmd,7
+coco dataset,7
+coco-stuff,7
+code available existing,7
+code available large,7
+code available text-to-image,7
+code made publicly,7
+code trained model,7
+collaboratively,7
+colored,7
+coma,7
+compactness,7
+compared method,7
+compared recent,7
+compared sota,7
+comparison existing,7
+comparison state-of-the-art,7
+complete point cloud,7
+complex 3d,7
+compositing,7
+compression rate,7
+computational requirement,7
+computer graphic,7
+computes,7
+concatenation,7
+concept bottleneck model,7
+concept erasure,7
+condensed,7
+conditioning diffusion,7
+confidence map,7
+consistent across,7
+consistently achieves,7
+content image,7
+continual learning cl,7
+continually,7
+continuous-time,7
+contrast previous,7
+contrastive objective,7
+contrastive regularization,7
+contributed,7
+converted,7
+coordination,7
+corpus,7
+correspond,7
+correspondence across,7
+correspondence learning,7
+corrupted image,7
+cost associated,7
+cost inference,7
+cot,7
+covered,7
+creativity,7
+crime-scene,7
+critical role,7
+cross-attention module,7
+cup,7
+current state,7
+curvature,7
+curve,7
+daily life,7
+dal,7
+dar,7
+data acquisition,7
+data also,7
+data domain,7
+data existing,7
+data extensive experiment,7
+data representation,7
+data scarcity,7
+data selection,7
+data set,7
+dataset designed,7
+dataset image,7
+dataset propose,7
+datasets experimental,7
+datasets experimental result,7
+datasets paper,7
+datasets show proposed,7
+ddim inversion,7
+debiased,7
+defensive,7
+defocus,7
+deform,7
+degradation caused,7
+delay,7
+deliberately,7
+demonstrate advantage,7
+demonstrate improvement,7
+demonstrate performance,7
+demonstrate significant improvement,7
+demonstrated effectiveness,7
+demonstrated strong,7
+demonstrates potential,7
+demonstrates significant,7
+demonstrates state-of-the-art,7
+demonstrates strong,7
+denoted,7
+deploy,7
+depth prior,7
+described,7
+design choice,7
+desmoking,7
+desnowing,7
+detection approach,7
+detection ha,7
+determined,7
+deviate,7
+deviating,7
+diagnostic,7
+dialog,7
+different benchmark,7
+different granularity,7
+different previous,7
+different scenario,7
+different scene,7
+diffuser,7
+diffusion model achieve,7
+diffusion model trained,7
+diffusion xl,7
+diffusion-generated,7
+dinov2,7
+directed,7
+discard,7
+discarding,7
+discovers,7
+discrete diffusion,7
+discrete diffusion model,7
+disjoint,7
+distance function sdf,7
+distance-based,7
+distilling knowledge,7
+distills,7
+distribution alignment,7
+dit,7
+diverse application,7
+diverse object,7
+diverse real-world,7
+diversity generated,7
+domain data,7
+domain paper,7
+dominated,7
+dtl,7
+dtu,7
+dual-stream,7
+due absence,7
+dynamic environment,7
+dynamic video,7
+dynamically adjusts,7
+editing approach,7
+editing capability,7
+editing model,7
+editor,7
+effective strategy,7
+effectively mitigate,7
+effectiveness proposed approach,7
+efficiency effectiveness,7
+efficient model,7
+elevates,7
+emotion recognition,7
+empirical evaluation,7
+empirically show,7
+empowered,7
+enable model,7
+enables generation,7
+enabling generation,7
+enabling model,7
+enabling precise,7
+end-to-end training,7
+enhanced performance,7
+enormous,7
+entaugment,7
+entire scene,7
+equip,7
+equivariance,7
+error accumulation,7
+error reduction,7
+estimation object,7
+evaluation benchmark,7
+evaluation demonstrates,7
+evaluation result,7
+even better,7
+evolve,7
+exceeding,7
+execute,7
+executing,7
+exhibit superior,7
+existing method either,7
+existing method struggle,7
+exit,7
+expectation,7
+experiment demonstrating,7
+experiment nuscenes,7
+experiment standard,7
+expertise,7
+explanation method,7
+expression comprehension,7
+expressivity,7
+extensive analysis,7
+extensive empirical,7
+extensive experiment ablation,7
+extensive experiment four,7
+extensive experiment multiple,7
+extensive experiment verify,7
+f1,7
+face recognition system,7
+face significant challenge,7
+facial animation,7
+facial detail,7
+factorization,7
+factorized,7
+failed,7
+faithfulness,7
+fastv,7
+fat,7
+feature additionally,7
+feature distillation,7
+feature enhancement,7
+feature grid,7
+feature interaction,7
+feature thereby,7
+feature-based,7
+few-shot class-incremental,7
+few-shot class-incremental learning,7
+few-shot segmentation,7
+finally demonstrate,7
+fine-grained classification,7
+finetuned,7
+first attempt,7
+first dataset,7
+first method,7
+first step,7
+flexible robot,7
+floorplan,7
+flow matching,7
+focus solely,7
+forgery augmentation,7
+forget,7
+four public,7
+framework integrates,7
+framework significantly,7
+framework tailored,7
+framework video,7
+frequency-aware,7
+full fine-tuning,7
+fully supervised method,7
+function sdf,7
+functional map,7
+fundamental matrix,7
+furthermore show,7
+future frame,7
+gained increasing,7
+gained popularity,7
+gained significant attention,7
+gap image,7
+garnered significant,7
+gaussian point,7
+gaussian splat,7
+generalist model,7
+generalizable 3d,7
+generate diverse,7
+generate high-fidelity,7
+generate high-quality image,7
+generate object,7
+generatect,7
+generated text,7
+generation benchmark,7
+generation code,7
+generation diffusion model,7
+generation high-quality,7
+generation specifically,7
+generation work,7
+generative ai,7
+generative diffusion,7
+genome,7
+given 3d,7
+given prompt,7
+global scene,7
+glyph,7
+gps,7
+gpsformer,7
+grant,7
+grasp generation,7
+great challenge,7
+grid-based,7
+ground image,7
+grouped,7
+guide generation,7
+guideline,7
+ha long,7
+hand mesh,7
+hand-held,7
+handle diverse,7
+hard sample,7
+hdr image,7
+head synthesis,7
+heavily relies,7
+hiding,7
+high-definition hd,7
+high-definition hd map,7
+high-quality scene,7
+higher resolution,7
+highest,7
+highly desirable,7
+highway,7
+histopathology image,7
+homepage,7
+homography,7
+however application,7
+however directly,7
+however lack,7
+however traditional,7
+human expert,7
+human intervention,7
+human mesh recovery,7
+human skeleton,7
+human3.6m,7
+hurdle,7
+hyperparameter tuning,7
+hyperparameters,7
+identity preservation,7
+il,7
+image achieve,7
+image corresponding,7
+image degradation,7
+image existing,7
+image first,7
+image high,7
+image highly,7
+image human,7
+image introduce,7
+image leverage,7
+image leveraging,7
+image modality,7
+image modeling mim,7
+image obtain,7
+image often,7
+image recognition,7
+image signal,7
+image transformation,7
+imagenet dataset,7
+imagenet datasets,7
+imitation,7
+immense,7
+impeded,7
+impedes,7
+impeding,7
+implementation available,7
+implicit encoding,7
+implicit function,7
+improve accuracy,7
+inadvertently,7
+incorrectly,7
+incremental semantic,7
+incremental semantic segmentation,7
+incurs,7
+indexing,7
+ineffective,7
+inference extensive,7
+information address,7
+information paper,7
+information sharing,7
+inherent ambiguity,7
+inherited,7
+input however,7
+input modality,7
+input output,7
+input prompt,7
+insight introduce,7
+inspired human,7
+integral,7
+intent,7
+inter-image,7
+interaction among,7
+interaction hotspot,7
+interaction mechanism,7
+interaction module,7
+interaction object,7
+intricacy,7
+intricate detail,7
+introduce large-scale,7
+introduce method,7
+inverted,7
+investigating,7
+ip,7
+issue often,7
+iterative refinement,7
+jailbreak,7
+kdpror,7
+key design,7
+keypoint-based,7
+knowledge first work,7
+knowledge source,7
+l2,7
+label-efficient,7
+labeled source,7
+language prompt,7
+large image,7
+large multi-modal,7
+large multi-modal model,7
+lead significant,7
+learn representation,7
+learned image,7
+learning benchmark,7
+learning diffusion,7
+learning however,7
+learning noisy,7
+learning unified,7
+learning-based approach,7
+left,7
+lesion,7
+leveraging large,7
+lidar-camera,7
+limitation introduce novel,7
+limitation present,7
+limited availability,7
+limiting applicability,7
+linking,7
+lipschitz,7
+llff,7
+load,7
+local context,7
+local information,7
+local-to-global,7
+located,7
+long sequence,7
+long-standing,7
+looking,7
+lookupvit,7
+loss enhance,7
+lvis,7
+lvlm,7
+machine learning model,7
+made significant progress,7
+magnetic resonance imaging,7
+makeup,7
+many downstream,7
+mask decoder,7
+masked video modeling,7
+masking ratio,7
+matching method,7
+math,7
+memory efficiency,7
+memory overhead,7
+merges,7
+message passing,7
+method accuracy,7
+method additionally,7
+method benchmark,7
+method commonly,7
+method consistently outperforms,7
+method dataset,7
+method demonstrate,7
+method diverse,7
+method domain,7
+method fall,7
+method fall short,7
+method involves,7
+method significant,7
+method specifically,7
+method used,7
+minimalist,7
+modality alignment,7
+modality gap,7
+modality-agnostic,7
+model adaptation,7
+model aim,7
+model automatically,7
+model capture,7
+model complexity,7
+model efficiently,7
+model employ,7
+model enables,7
+model excel,7
+model extract,7
+model handle,7
+model identify,7
+model including,7
+model like clip,7
+model merging,7
+model moreover,7
+model motion,7
+model notably,7
+model perform,7
+model preserving,7
+model project,7
+model require,7
+model requires,7
+model segment,7
+model semantic,7
+model simultaneously,7
+model specific,7
+model structure,7
+model synthesize,7
+model tailored,7
+model typically,7
+model understand,7
+model unsupervised,7
+modeling capability,7
+modeling mim,7
+modular,7
+module pre-trained,7
+module proposed,7
+monocular 3d object,7
+moreover design,7
+moreover show,7
+motion dataset,7
+motion guidance,7
+motion pattern,7
+motion-guided,7
+mri reconstruction,7
+multi-object tracking,7
+multi-view 3d object,7
+multi-view data,7
+multi-view diffusion,7
+multimodal benchmark,7
+multimodal input,7
+multiple frame,7
+multiple scale,7
+multiple subject,7
+multispectral,7
+mutual distance,7
+mv,7
+natural language description,7
+naturalness,7
+navigate,7
+nerf representation,7
+network model,7
+network structure,7
+network-based,7
+neural feature,7
+newly introduced,7
+nic,7
+nine,7
+noise schedule,7
+noise source,7
+nominal,7
+non-lambertian,7
+non-local,7
+nonlinear,7
+notion,7
+novel efficient,7
+novel hierarchical,7
+novel loss function,7
+novel perspective,7
+novel training,7
+novel unified,7
+novel-view synthesis,7
+nuance,7
+nuplan,7
+object address,7
+object appearance,7
+object attribute,7
+object background,7
+object inpainting,7
+object relationship,7
+object understanding,7
+object video,7
+occ,7
+occur,7
+offensive,7
+onset,7
+opacity,7
+open dataset,7
+open world,7
+option,7
+ordinal regression,7
+origin,7
+original data,7
+originating,7
+orthographic,7
+ossl,7
+otherwise,7
+out-of-distribution ood detection,7
+outperforms baseline method,7
+outstanding performance,7
+over-smoothing,7
+overcome issue,7
+overcome limitation introduce,7
+overcome problem,7
+overfit,7
+pair-wise,7
+panoptic scene,7
+panoptic scene graph,7
+paper conduct,7
+paper investigate,7
+parameterize,7
+passing,7
+past future,7
+patch feature,7
+pay,7
+pbr,7
+penetration,7
+perceptron mlp,7
+perceptually,7
+perform extensive,7
+performance across diverse,7
+performance due,7
+performance enhancement,7
+performance even,7
+performance nuscenes,7
+performance recent,7
+performance zero-shot,7
+performs favorably,7
+personalized text-to-image,7
+pertinent,7
+phone,7
+pinpoint,7
+pivotal role,7
+placed,7
+pointwise,7
+polarization,7
+polyp,7
+poor generalization,7
+position embedding,7
+positive pair,7
+positive sample,7
+post-training quantization ptq,7
+posterior sampling,7
+potential solution,7
+pre-trained clip,7
+pre-trained image,7
+pre-trained knowledge,7
+pre-trained text-to-image diffusion,7
+pre-training strategy,7
+predict future,7
+prediction method,7
+prediction module,7
+preserving original,7
+previous frame,7
+prior 3d,7
+prior state-of-the-art,7
+prioritizing,7
+privacy concern,7
+problem computer,7
+problem computer vision,7
+problem present,7
+produce image,7
+producing high-quality,7
+program,7
+progress ha made,7
+projector,7
+promising direction,7
+prompt engineering,7
+prompt pool,7
+pronounced,7
+propose contrastive,7
+propose end-to-end,7
+prototype-based,7
+prototypical,7
+prove,7
+proven effective,7
+provide detailed,7
+provide insight,7
+pseudo-candidate,7
+pseudo-candidate set,7
+published,7
+pursuit,7
+q,7
+qualitative experiment,7
+qualitative quantitative result,7
+quality consistency,7
+quality efficiency,7
+quality generated image,7
+quality image,7
+quantization ptq,7
+radar-based,7
+radiology report,7
+range image,7
+rate-distortion performance,7
+raw data,7
+real-life,7
+real-world synthetic,7
+recent success,7
+recently 3d gaussian,7
+reconstruction 3d,7
+reconstruction generation,7
+reconstruction process,7
+reduce number,7
+referring expression comprehension,7
+refers,7
+refinement module,7
+regress,7
+reinforce,7
+relation prediction,7
+relatively unexplored,7
+rely heavily,7
+remains formidable,7
+remains formidable challenge,7
+rendering capability,7
+rendering however,7
+rendering loss,7
+rendering process,7
+rendering-based,7
+repeated,7
+replicate,7
+representation allows,7
+representation learning framework,7
+representation learning method,7
+representation neural,7
+representation present,7
+resonance imaging,7
+resource-efficient,7
+resource-intensive,7
+respectively extensive,7
+restoration model,7
+result method,7
+result significant,7
+result state-of-the-art,7
+retains,7
+retrieval model,7
+retrieved,7
+retrieving,7
+rgb-t semantic,7
+rgb-t semantic segmentation,7
+richness,7
+rigid transformation,7
+robot manipulation,7
+robot pose,7
+roof,7
+rope,7
+rotating,7
+round,7
+safeguard,7
+satisfy,7
+scalar,7
+scale ambiguity,7
+scarcity labeled,7
+scenario extensive,7
+scenario involving,7
+scene 3d,7
+scene paper,7
+scene resulting,7
+scene synthesis,7
+scene ’,7
+se,7
+second introduce,7
+segment target,7
+segmentation classification,7
+segmentation depth estimation,7
+segmentation object,7
+self-adaptive,7
+self-attention layer,7
+self-supervised monocular,7
+self-supervised representation learning,7
+self-supervised video,7
+semantic correspondence,7
+semantic guidance,7
+semantically meaningful,7
+semantickitti,7
+separable,7
+separate model,7
+sequence length,7
+setting code available,7
+several recent,7
+severity,7
+shape information,7
+shape matching,7
+shape model,7
+shapenet,7
+show promise,7
+show superiority method,7
+shown promise,7
+signature,7
+significant challenge due,7
+significantly improve performance,7
+significantly reduced,7
+silent,7
+similarity score,7
+simplifying,7
+singular value,7
+sketch-based,7
+sld,7
+slightly,7
+smaller model,7
+smart,7
+snapshot compressive,7
+snippet,7
+software,7
+sometimes,7
+sot,7
+space attention,7
+space pre-trained,7
+span,7
+sparked,7
+sparse 3d,7
+sparse multi-view,7
+sparsely,7
+sparsification,7
+spatial relation,7
+specifically tailored,7
+spectral imaging,7
+spotting,7
+spread,7
+spurious bias,7
+srgb domain,7
+ss,7
+sta,7
+state-of-the-art 3d,7
+state-of-the-art accuracy,7
+state-of-the-art baseline,7
+stereo image,7
+stimulus,7
+strongly,7
+structure motion,7
+structure point,7
+structure point cloud,7
+student-teacher,7
+study introduces,7
+style content,7
+sub-tasks,7
+superior performance existing,7
+superiority state-of-the-art,7
+supervised approach,7
+supervision signal,7
+surpassing baseline,7
+surpassing state-of-the-art,7
+surprisingly simple,7
+synthesis however,7
+synthesis quality,7
+tailored specific,7
+take account,7
+target region,7
+task-relevant,7
+tbd,7
+teaching,7
+technique enables,7
+temporal alignment,7
+temporal dimension,7
+temporal domain,7
+temporal dynamic,7
+temporal modeling,7
+temporal variation,7
+text content,7
+text detection,7
+text guidance,7
+text-to-video diffusion,7
+text-to-video diffusion model,7
+textual feature,7
+textual instruction,7
+textural,7
+texture detail,7
+texture synthesis,7
+thereby facilitating,7
+three benchmark datasets,7
+three main,7
+ticket,7
+today,7
+tracking point,7
+trade,7
+train diffusion model,7
+trained end-to-end,7
+training code,7
+training evaluation,7
+training fine-tuning,7
+training paper,7
+training trajectory,7
+training view,7
+trait,7
+translating,7
+translator,7
+treatment,7
+udf,7
+ultra-high-resolution,7
+unable,7
+unannotated,7
+unclear,7
+unconditional generation,7
+uncovering,7
+understanding 3d,7
+understanding complex,7
+uni3dl,7
+unified 3d,7
+unified anomaly detection,7
+uniformity,7
+uniprocessor,7
+unknown object,7
+unlabeled video,7
+unlearned,7
+unlike previous method,7
+unlock,7
+unmasked,7
+unrolled,7
+unsupervised representation learning,7
+unveil,7
+used benchmark,7
+used datasets,7
+used various,7
+user control,7
+user interaction,7
+user-friendly,7
+uvad,7
+validate proposed,7
+validity,7
+vary,7
+varying degree,7
+velocity,7
+vfm,7
+video 3d,7
+video benchmark,7
+video compression,7
+video domain,7
+video due,7
+video generation model,7
+video modeling,7
+video reconstruction,7
+video stitching,7
+visible-infrared,7
+vision encoders,7
+vision-language representation,7
+vision-language understanding,7
+vision-text,7
+visual object,7
+voc coco,7
+volumetric representation,7
+warp,7
+waymo open dataset,7
+weak-to-strong,7
+wearing,7
+weight distribution,7
+well-lit,7
+wildlife,7
+within scene,7
+within unified,7
+work design,7
+work explore,7
+work investigate,7
+work show,7
+work typically,7
+work use,7
+xl,7
+zero-shot manner,7
+zero-shot object,7
+’ adaptability,7
+’ potential,7
+’ visual,7
+→,7
+2.8,6
+2d box,6
+2d data,6
+2d semantic,6
+2d skeleton,6
+360◦,6
+3d backbone,6
+3d computer,6
+3d computer vision,6
+3d human avatar,6
+3d open-vocabulary,6
+3d scene reconstruction,6
+3d semantic occupancy,6
+3d volume,6
+3dfg-pifu,6
+4d dynamic,6
+6-dof grasp detection,6
+ability across,6
+ability however,6
+ability identify,6
+ability understand,6
+abundance,6
+accommodates,6
+accompanied,6
+accuracy also,6
+accuracy compared,6
+accuracy extensive experiment,6
+accuracy improvement,6
+accurately reflect,6
+achieve performance,6
+achieve remarkable,6
+achieve satisfactory,6
+achieve significant,6
+achieved impressive,6
+achieved state-of-the-art performance,6
+achieves average,6
+achieves improvement,6
+achieves promising,6
+achieves state-of-the-art sota,6
+achieving better,6
+achieving high-quality,6
+across frame,6
+across varying,6
+across video,6
+action label,6
+action scene,6
+activation function,6
+active learning method,6
+ad3 score,6
+adalog,6
+adaptation mechanism,6
+adaptive feature,6
+additional computational cost,6
+address aforementioned,6
+address introduce novel,6
+address issue paper,6
+address propose novel,6
+ade,6
+adequately,6
+advance field,6
+advancement diffusion,6
+advancement diffusion model,6
+advancement text-to-image,6
+adversarial patch,6
+adversarially robust,6
+advertising image,6
+advocate,6
+ae,6
+affine transformation,6
+affinity,6
+affirming,6
+affordance grounding,6
+affordances,6
+aforementioned issue,6
+ai system,6
+aim detect,6
+aim enhance,6
+aim localize,6
+aimed enhancing,6
+al,6
+alignment image,6
+alignment model,6
+alignment module,6
+alignment text,6
+alignzeg,6
+all_papers.txt,6
+all_papers.txt decode_tex_noligatures.sh,6
+all_papers.txt decode_tex_noligatures.sh decode_tex_noligatures.sh~,6
+also find,6
+also ha,6
+also observe,6
+also propose novel,6
+also provide,6
+also provides,6
+although method,6
+amd,6
+amount training,6
+amplified,6
+analysis existing,6
+analysis reveals,6
+analysis-by-synthesis,6
+anatomical,6
+anchor query,6
+anchored,6
+animation generation,6
+appearance information,6
+application autonomous driving,6
+applied various,6
+approach allows u,6
+approach doe,6
+approach extensive,6
+approach generates,6
+approach model,6
+approach outperforms existing,6
+approach outperforms previous,6
+approach require,6
+approach suffer,6
+ar,6
+arbitrary topology,6
+architecture design,6
+artistic text,6
+assumed,6
+atmospheric turbulence,6
+atomic action,6
+attaining,6
+attention ha,6
+attention transformer,6
+audio video,6
+autoeval-video,6
+automating,6
+automation,6
+autonomous driving system,6
+available image,6
+available point,6
+available point cloud,6
+available real-world,6
+available recent advance,6
+available vision,6
+average improvement,6
+averaged,6
+axial,6
+backdoor defense,6
+backlit,6
+bamm,6
+base novel,6
+baseline future,6
+batch size,6
+bayesnet,6
+becoming,6
+belonging,6
+benchmark evaluation,6
+benign,6
+bensmot,6
+best method,6
+best performance,6
+best result,6
+better feature,6
+bev perception,6
+beyond training,6
+bias mitigation,6
+bin,6
+binary image,6
+binding,6
+body motion,6
+body pose,6
+bolster,6
+boosting performance,6
+box annotation,6
+brain-id,6
+bridge gap introduce,6
+burst,6
+bypassing,6
+camera pose estimation,6
+camera-only,6
+camouflage,6
+capability pre-trained,6
+capitalizing,6
+capture fine-grained,6
+care,6
+case study,6
+caspl,6
+cassi,6
+casual,6
+categorized,6
+category-level object pose,6
+category-specific,6
+challenge address,6
+challenge data,6
+challenge first,6
+challenge handling,6
+challenge including,6
+challenge lie,6
+challenge paper propose,6
+challenge previous,6
+challenging existing,6
+chamfer,6
+chamfer distance,6
+characterizing,6
+chest x-ray,6
+cic,6
+circumstance,6
+clarity,6
+classification object detection,6
+classification semantic,6
+classification semantic segmentation,6
+closed,6
+clothes,6
+cloud density,6
+cluster discrimination,6
+cnn-based,6
+co-training,6
+code available diffusion,6
+code available work,6
+code datasets available,6
+code demo,6
+code pretrained,6
+code pretrained model,6
+code video,6
+cognitive process,6
+cohesive,6
+combined existing,6
+compact representation,6
+comparable accuracy,6
+comparable superior,6
+compile,6
+complex visual,6
+composing,6
+comprehensive experiment show,6
+comprehensive framework,6
+comprehensive study,6
+comprises three,6
+computation overhead,6
+computationally intensive,6
+computer vision application,6
+computer vision graphic,6
+concentration,6
+condition diffusion,6
+conditional distribution,6
+conducted across,6
+conducted extensive,6
+confidence score,6
+conformal,6
+confronted,6
+consensus,6
+consistency module,6
+consistently outperforms state-of-the-art,6
+constrains,6
+content consistency,6
+context learning,6
+context token,6
+contextually,6
+continue,6
+continues,6
+contrast propose,6
+contrastive learning framework,6
+control condition,6
+control image,6
+controllable image,6
+conventionally,6
+convergence speed,6
+convnets,6
+convolutional layer,6
+corresponds,6
+cosine,6
+cosod,6
+cost address,6
+cost code,6
+cost paper,6
+creator,6
+crisp,6
+critical issue,6
+critically,6
+cross-attention map,6
+cross-dataset generalization,6
+cross-domain few-shot,6
+cross-entropy loss,6
+cross-modal knowledge,6
+cross-modal learning,6
+cross-modal retrieval,6
+cross-model,6
+crowd localization,6
+cumbersome,6
+data augmentation method,6
+data bias,6
+data due,6
+data enables,6
+data experiment,6
+data generated,6
+data generation pipeline,6
+data heterogeneity,6
+data image,6
+data thereby,6
+data thus,6
+dataset bias,6
+dataset compared,6
+dataset demonstrates,6
+datasets available,6
+datasets demonstrate approach,6
+datasets experiment,6
+datasets extensive,6
+datasets imagenet,6
+datasets like,6
+datasets project,6
+datasets result demonstrate,6
+datasets show method,6
+ddms,6
+decade,6
+decline,6
+decode,6
+decode_tex.sh,6
+decode_tex.sh decode_tex.sh~,6
+decode_tex.sh decode_tex.sh~ eccv_abstracts.csv,6
+decode_tex.sh~,6
+decode_tex.sh~ eccv_abstracts.csv,6
+decode_tex.sh~ eccv_abstracts.csv eccv_abstracts_good.csv,6
+decode_tex_noligatures.sh,6
+decode_tex_noligatures.sh decode_tex_noligatures.sh~,6
+decode_tex_noligatures.sh decode_tex_noligatures.sh~ decode_tex.sh,6
+decode_tex_noligatures.sh~,6
+decode_tex_noligatures.sh~ decode_tex.sh,6
+decode_tex_noligatures.sh~ decode_tex.sh decode_tex.sh~,6
+deep image,6
+deep unfolding,6
+deep-learning,6
+defect inspection,6
+defective,6
+defense mechanism,6
+defines,6
+defocus blur,6
+degeneration,6
+deliver,6
+demoiréing,6
+demonstrate effectiveness superiority,6
+demonstrate method ’,6
+demonstrate potential,6
+demonstrated promising,6
+denoising network,6
+dense feature,6
+departing,6
+depicted,6
+depth network,6
+depth-guided,6
+deriving,6
+design decision,6
+design first,6
+designed enhance,6
+designed evaluate,6
+designed generate,6
+designed improve,6
+designed leverage,6
+despite promising,6
+despite recent advance,6
+despite significant advancement,6
+detection code,6
+detection leveraging,6
+determines,6
+develops,6
+diffender,6
+different region,6
+different setting,6
+different video,6
+diffsurf,6
+diffumatting,6
+diffusion method,6
+diffusion model 3d,6
+diffusion model generating,6
+diffusion model however,6
+diffusion model ldms,6
+diffusion model significantly,6
+diffusion network,6
+diffusion probabilistic,6
+diffusion sampling,6
+diffusion video,6
+digital human,6
+diminish,6
+directing,6
+directly applying,6
+discern,6
+discriminative model,6
+discriminative representation,6
+disentangles,6
+disrupt,6
+distillation approach,6
+distinction,6
+distribution however,6
+distribution propose,6
+distribution target,6
+distribution-aware,6
+disturbance,6
+diverse camera,6
+diverse domain,6
+diverse input,6
+diverse realistic,6
+diverse text,6
+diverse user,6
+dolfin,6
+domain generalized,6
+domain-incremental,6
+domain-invariant feature,6
+domainnet,6
+downstream datasets,6
+dragvideo,6
+drastic,6
+dreammesh,6
+dualdn,6
+due ability,6
+due challenge,6
+due data,6
+due domain,6
+duplication,6
+dynamic neural,6
+eccv.csv,6
+eccv.csv eccv.csv~,6
+eccv.csv eccv.csv~ eccv_new.csv,6
+eccv.csv~,6
+eccv.csv~ eccv_new.csv,6
+eccv.csv~ eccv_new.csv generate_list.sh,6
+eccv_abstracts.csv,6
+eccv_abstracts.csv eccv_abstracts_good.csv,6
+eccv_abstracts.csv eccv_abstracts_good.csv eccv.csv,6
+eccv_abstracts_good.csv,6
+eccv_abstracts_good.csv eccv.csv,6
+eccv_abstracts_good.csv eccv.csv eccv.csv~,6
+eccv_new.csv,6
+eccv_new.csv generate_list.sh,6
+eccv_new.csv generate_list.sh generate_list.sh~,6
+ecma,6
+economic,6
+ed,6
+editing framework,6
+effective 3d,6
+effective learning,6
+effective training,6
+effectively exploit,6
+effectively model,6
+effectiveness code,6
+efficacy proposed,6
+efficient 3d,6
+efficient accurate,6
+efficient approach,6
+efficient image,6
+efficient solution,6
+egocentric action recognition,6
+egocentric image,6
+eis,6
+elevating,6
+embodied ai,6
+emerged powerful,6
+enabling efficient,6
+encapsulates,6
+encapsulating,6
+encoder decoder,6
+encoder-decoder architecture,6
+end-to-end approach,6
+endows,6
+english,6
+enhance accuracy,6
+enhance feature,6
+enhance generalization,6
+enhance quality,6
+enhance representation,6
+enhances model ’,6
+enhancing accuracy,6
+enhancing generalization,6
+enjoy,6
+enjoys,6
+enriched,6
+enriches,6
+entire image,6
+environment paper,6
+epipolar,6
+equirectangular,6
+equivalent,6
+era,6
+established benchmark,6
+estimate camera,6
+estimation network,6
+evaluate robustness,6
+evaluation framework,6
+everything,6
+evident,6
+evolves,6
+exceptional performance,6
+existing diffusion,6
+existing method mainly,6
+existing method usually,6
+existing motion,6
+existing neural,6
+existing semi-supervised,6
+existing solution,6
+existing work focus,6
+expense,6
+experiment ablation study,6
+experiment challenging,6
+experiment different,6
+experiment including,6
+experiment three benchmark,6
+experiment various benchmark,6
+experimental analysis,6
+experimental result validate,6
+experimental result various,6
+experimental validation,6
+expert model,6
+explore potential,6
+exponentially,6
+expression segmentation,6
+extensive qualitative quantitative,6
+extensive quantitative,6
+extensive quantitative qualitative,6
+extensive testing,6
+external knowledge,6
+extra computational,6
+faba,6
+face identification,6
+face limitation,6
+facial appearance,6
+fairly,6
+falling,6
+fast inference,6
+fast training,6
+faster inference speed,6
+feature across,6
+feature augmentation,6
+feature disentanglement,6
+feature extensive,6
+feature however,6
+feature input,6
+feature statistic,6
+feature training,6
+fedra,6
+few-shot action,6
+few-shot action recognition,6
+few-shot view,6
+few-shot view synthesis,6
+fg feature,6
+field 3d,6
+field ha,6
+finally introduce,6
+finding indicate,6
+finding propose,6
+fine-tuning approach,6
+first approach,6
+first establish,6
+first use,6
+first-order,6
+first-person,6
+fisheye,6
+fixed-point,6
+flip,6
+fmri-to-image,6
+focal length,6
+foggy,6
+follows,6
+food,6
+forecast,6
+foreground background,6
+forensic,6
+formalism,6
+fostering,6
+found project,6
+four datasets,6
+fractal,6
+framework 3d,6
+framework achieves,6
+framework also,6
+framework consists,6
+framework utilizes,6
+freezing,6
+frepolad,6
+frossl,6
+frosting,6
+full model,6
+fully leverage,6
+fundamental challenge,6
+furthermore design,6
+furthermore proposed,6
+fusion 3d,6
+fusion method,6
+g-nerf,6
+gad,6
+gained increasing attention,6
+gamut,6
+gap human,6
+gap present,6
+gap propose novel,6
+gate,6
+gaussian splatting 3d-gs,6
+gaze object,6
+gaze target,6
+gemini,6
+gen.sh,6
+gen.sh gen.sh~,6
+gen.sh gen.sh~ howto,6
+gen.sh~,6
+gen.sh~ howto,6
+gen.sh~ howto howto~,6
+general framework,6
+general image,6
+general object,6
+generalizable neural,6
+generalization dg,6
+generate motion,6
+generate pseudo-labels,6
+generate_list.sh,6
+generate_list.sh generate_list.sh~,6
+generate_list.sh generate_list.sh~ generate_overview.sh,6
+generate_list.sh~,6
+generate_list.sh~ generate_overview.sh,6
+generate_list.sh~ generate_overview.sh gen.sh,6
+generate_overview.sh,6
+generate_overview.sh gen.sh,6
+generate_overview.sh gen.sh gen.sh~,6
+generated 3d,6
+generated sample,6
+generates high-quality,6
+generating video,6
+generation also,6
+generation image,6
+generation performance,6
+generation text,6
+generative capability,6
+geographical,6
+geometrical,6
+gfe,6
+gflops,6
+gia,6
+git,6
+given query,6
+given sparse,6
+glass,6
+glimpse,6
+global representation,6
+global semantics,6
+goal-oriented,6
+google,6
+gradient conflict,6
+grasp detection,6
+great promise,6
+groma,6
+ground-level,6
+gtn,6
+guidance method,6
+guide learning,6
+ha achieved remarkable,6
+ha also,6
+ha extensively,6
+ha gained increasing,6
+haloquest,6
+hampered,6
+hand object,6
+hand-held object,6
+hard positive,6
+hardly,6
+harm,6
+hcp,6
+hdr imaging,6
+head pose estimation,6
+heterogeneous graph,6
+heterogeneous model,6
+hierarchically,6
+high degree,6
+high temporal variation,6
+high-performing,6
+high-quality motion,6
+high-quality sample,6
+high-quality training,6
+high-quality video,6
+higher performance,6
+higher quality,6
+highly correlated,6
+hmer,6
+holistically,6
+homography estimation,6
+hope work,6
+however achieving,6
+however effectively,6
+however inherent,6
+however prior,6
+however recent,6
+howto,6
+howto howto~,6
+howto howto~ pdflist,6
+howto~,6
+howto~ pdflist,6
+howto~ pdflist pdflist.copied,6
+human intention,6
+human model,6
+human motion prediction,6
+human trajectory,6
+human-computer interaction,6
+human-like,6
+human-scene interaction,6
+hypothesize,6
+illuminant,6
+image acquisition,6
+image annotated,6
+image challenging,6
+image classification semantic,6
+image conditioned,6
+image contain,6
+image depth,6
+image detail,6
+image distribution,6
+image editing method,6
+image embeddings,6
+image encoders,6
+image generation model,6
+image generation process,6
+image however existing,6
+image latent,6
+image matting,6
+image multiple,6
+image pre-training,6
+image recent,6
+image rendering,6
+image restoration method,6
+image scale,6
+image scene,6
+image visual,6
+image watermarking,6
+image wsi,6
+image-caption,6
+image-to-video adaptation,6
+imitate,6
+immense potential,6
+impede,6
+imperfect,6
+implicit model,6
+imposes,6
+impressively,6
+improve robustness,6
+improvement accuracy,6
+improves state-of-the-art,6
+in-air,6
+in-context example,6
+inaccurate reconstruction,6
+including image classification,6
+including video,6
+incompatible,6
+incur,6
+independence,6
+indicate method,6
+indoor outdoor scene,6
+inevitable,6
+inference step,6
+information gain,6
+information video,6
+informed,6
+infrastructure,6
+inhibition,6
+initial point,6
+injection,6
+inner,6
+inner-instance,6
+innovatively,6
+input gradient,6
+input text,6
+instance-wise,6
+instant-ngp,6
+instruction-guided,6
+intelligent system,6
+intensity frame,6
+inter-modal,6
+interfusion,6
+internet,6
+intractable,6
+intriguing,6
+introduce dataset,6
+introduce effective,6
+introduce efficient,6
+introduce simple yet,6
+introduce temporal,6
+introduces additional,6
+introduces novel approach,6
+inversion method,6
+involving multiple,6
+isolate,6
+isps,6
+issue first,6
+joint feature,6
+jointly learn,6
+key innovation,6
+key motion,6
+know,6
+knowledge learning,6
+knowledge pre-trained,6
+koa,6
+label mapping,6
+label space,6
+label-free,6
+labor,6
+language model vlms,6
+language-image pre-training clip,6
+large scene,6
+large vision language,6
+large vision model,6
+large-scale vision model,6
+latent context information,6
+latent noise,6
+ldr image,6
+leading method,6
+leading performance,6
+leading significant,6
+learn better,6
+learned feature,6
+learned model,6
+learned prompt,6
+learning code available,6
+learning effectively,6
+learning robust,6
+learning technique,6
+learning typically,6
+leverage large,6
+lidar sensor,6
+light-weight,6
+lightweight module,6
+limb,6
+limitation traditional,6
+limited diversity,6
+limited due,6
+limited performance,6
+limited set,6
+linear complexity,6
+listener,6
+llava,6
+llie,6
+ln,6
+local action,6
+local descriptor,6
+local geometric,6
+local image,6
+local pattern,6
+localize object,6
+long training,6
+long-clip,6
+long-form,6
+long-form video,6
+long-horizon,6
+loose,6
+loras,6
+low-bit quantization,6
+low-confidence,6
+low-light video,6
+low-precision,6
+m-rbcr,6
+m2,6
+mainly due,6
+make following,6
+make prediction,6
+make use,6
+making difficult,6
+managing,6
+manufacturing,6
+map element,6
+marching,6
+margin code available,6
+mark,6
+marking significant,6
+mass,6
+matcher,6
+matching module,6
+material property,6
+mathematical expression,6
+maximal,6
+mean teacher,6
+memory requirement,6
+mesh model,6
+method achieve state-of-the-art,6
+method achieving state-of-the-art,6
+method datasets,6
+method demonstrated,6
+method demonstrating,6
+method excels,6
+method existing,6
+method furthermore,6
+method heavily,6
+method learning,6
+method leveraging,6
+method producing,6
+method project page,6
+method reduce,6
+method remarkably,6
+method synthetic,6
+method tackle,6
+method tailored,6
+method training,6
+method utilizes,6
+method video,6
+method well,6
+method widely,6
+meticulous,6
+metric depth,6
+metric learning,6
+mfsr,6
+mind,6
+minimal computational,6
+misleading,6
+mismatched,6
+miss,6
+misuse,6
+mitigate catastrophic,6
+mitigate catastrophic forgetting,6
+ml-semreg,6
+modality-invariant,6
+model able,6
+model accuracy,6
+model addition,6
+model additional,6
+model autonomous,6
+model become,6
+model built,6
+model compared,6
+model construct,6
+model directly,6
+model domain,6
+model e.g.,6
+model efficient,6
+model face,6
+model facilitate,6
+model finally,6
+model found,6
+model generalize,6
+model ha shown,6
+model incorporates,6
+model key,6
+model ldms,6
+model leveraging,6
+model make,6
+model multiple,6
+model offer,6
+model outperforms existing,6
+model output,6
+model pre-training,6
+model project page,6
+model prompt,6
+model recent,6
+model recognize,6
+model reducing,6
+model self-supervised,6
+model successfully,6
+model teacher,6
+model tend,6
+model term,6
+model trained synthetic,6
+model uncertainty,6
+model understanding,6
+model unified,6
+model use,6
+model utility,6
+model within,6
+model work propose,6
+model ’ generalization,6
+model ’ robustness,6
+modeling approach,6
+module design,6
+module generate,6
+module introduced,6
+module leverage,6
+module specifically,6
+mono,6
+motion customization,6
+motion information,6
+motion scene,6
+motion trajectory,6
+motivates u,6
+motivation,6
+much better,6
+much faster,6
+multi-camera system,6
+multi-layer perceptron mlp,6
+multi-layered,6
+multi-scene,6
+multi-view crowd,6
+multi-view diffusion model,6
+multimodal reasoning,6
+multiple datasets demonstrate,6
+multiple degradation,6
+multiple object tracking,6
+multiplexed,6
+music,6
+mutually,6
+nephi,6
+nerf-based method,6
+nested,6
+network achieve,6
+network cnn,6
+network cnns,6
+network propose,6
+neural deformation,6
+neural implicit representation,6
+neural network cnn,6
+neural network cnns,6
+neural scene representation,6
+neural surface reconstruction,6
+neural video,6
+nfes,6
+night-time,6
+noise distribution,6
+noisy image,6
+non-line-of-sight,6
+non-parametric,6
+non-rigid motion,6
+non-robust,6
+normal feature,6
+notable advancement,6
+notable progress,6
+note,6
+novel approach called,6
+novel attention,6
+novel diffusion-based,6
+novel feature,6
+novel fine-tuning,6
+novel methodology,6
+novel paradigm,6
+novel problem,6
+nuscenes benchmark,6
+oat,6
+object across,6
+object classification,6
+object dynamic,6
+object human,6
+object insertion,6
+object model,6
+object often,6
+object point,6
+object-oriented,6
+observation propose,6
+observer,6
+occgen,6
+occlusion-aware,6
+octopus,6
+ode,6
+on-par,6
+one-class,6
+onevos,6
+ongoing,6
+online vectorized,6
+open problem,6
+open-set object detection,6
+optimization algorithm,6
+optimization technique,6
+optimizer,6
+organization,6
+organize,6
+oriented object,6
+original dataset,6
+outperformed,6
+overly,6
+pair image,6
+paired training,6
+panofree,6
+paper delve,6
+paper propose method,6
+paper propose simple,6
+parametric head,6
+parametric head model,6
+pareidolia,6
+parrot,6
+part-aware,6
+partitioning,6
+pascal voc coco,6
+patch attack,6
+paved,6
+pdflist,6
+pdflist pdflist.copied,6
+pdflist pdflist.copied rcs,6
+pdflist.copied,6
+pdflist.copied rcs,6
+pdflist.copied rcs snippet.html,6
+penalty,6
+per-scene optimization,6
+perceived,6
+perception ability,6
+performance across different,6
+performance benchmark,6
+performance challenging,6
+performance comparable,6
+performance compared existing,6
+performance current,6
+performance generalization,6
+performance moreover,6
+performance multiple,6
+performance paper propose,6
+performance project,6
+performance specifically,6
+performance standard,6
+performance term,6
+performance wide,6
+performance work,6
+performant,6
+performs par,6
+period,6
+permutation,6
+personalized text-to-image generation,6
+pest,6
+photo-realistic image,6
+photorealistic 3d,6
+physical dynamic,6
+physical property,6
+physical world,6
+physically-based,6
+physiological,6
+pioneer,6
+pixel embeddings,6
+pixel space,6
+pixel value,6
+plasticity,6
+please visit,6
+png,6
+poison,6
+policy network,6
+pose annotation,6
+pose code,6
+pose distribution,6
+pose estimator,6
+pose information,6
+positive negative sample,6
+potent,6
+practically,6
+practitioner,6
+pre-trained 2d,6
+pre-trained backbone,6
+pre-trained large,6
+pre-trained large-scale,6
+pre-trained text-to-image model,6
+pre-trained vision,6
+pre-trained visual,6
+pre-training model,6
+prerequisite,6
+present efficient,6
+present novel framework,6
+pretrain,6
+previous art,6
+previous best,6
+previous method rely,6
+prioritizes,6
+probabilistic model,6
+problem work,6
+procedural video,6
+process achieve,6
+process extensive experiment,6
+process however,6
+process learning,6
+process model,6
+process specifically,6
+process thereby,6
+profound,6
+prohibitively,6
+prominence,6
+promising approach,6
+promising avenue,6
+prompt sam,6
+prompt specifically,6
+prompt-based continual,6
+prompt-based continual learning,6
+promptfusion,6
+proportion,6
+propose general,6
+propose motion,6
+propose neural,6
+proposed dataset,6
+proposed method significantly,6
+proposed technique,6
+proposing novel,6
+provide theoretical,6
+provide valuable,6
+proving effectiveness,6
+prowess,6
+psalm,6
+publicly available datasets,6
+quality code,6
+quantitative experiment demonstrate,6
+quantitative metric,6
+quantitative qualitative experiment,6
+quantization method,6
+query token,6
+question-answer,6
+race,6
+random masking,6
+range application,6
+ranking-based loss,6
+rap,6
+rcm,6
+rcs,6
+rcs snippet.html,6
+real scene,6
+real-time application,6
+real-world driving,6
+realized,6
+reasoner,6
+reasoning framework,6
+reasoning segmentation,6
+recent learning-based,6
+recently emerged,6
+recently gained,6
+recently neural,6
+recently shown,6
+recognition however,6
+reconstruct 3d,6
+reconstruction framework,6
+reconstruction ha,6
+reconstruction however,6
+reconstruction-based,6
+reconstructive,6
+red,6
+redesign,6
+reduces computational,6
+reduces training,6
+refcoco,6
+reference view,6
+referring expression segmentation,6
+reflects,6
+regard,6
+region within,6
+regularisation,6
+regulation,6
+relationship detection,6
+relaxing,6
+relied,6
+remains relatively,6
+remains under-explored,6
+removed,6
+rendering pipeline,6
+renowned,6
+repainting,6
+replacement,6
+representation achieve,6
+representation extensive,6
+representation scene,6
+representation unlabeled,6
+representational,6
+requires model,6
+research field,6
+residual connection,6
+resilient,6
+resolve issue,6
+resort,6
+resorting,6
+resource consumption,6
+resource requirement,6
+respectively extensive experiment,6
+response challenge,6
+response propose,6
+rest,6
+restrict,6
+result available,6
+result code available,6
+result demonstrate approach,6
+result demonstrate superiority,6
+result four,6
+result highlight,6
+result image,6
+result paper,6
+result several,6
+result synthetic,6
+rich knowledge,6
+rich representation,6
+rich semantic,6
+rich semantics,6
+risk overfitting,6
+robust classifier,6
+room-aware,6
+rt-pose,6
+rule-based,6
+sampling technique,6
+sbir,6
+scale arbitrary,6
+scannet200,6
+scarcity large-scale,6
+scatter,6
+scenario extensive experiment,6
+scenario limited,6
+scene code,6
+scene different,6
+scene due,6
+scene flow estimation,6
+scene motion,6
+scene project,6
+scene rendering,6
+scpnet,6
+scribbleprompt,6
+sdpt,6
+sea-raft,6
+second approach,6
+secret,6
+see project page,6
+segmentation accuracy,6
+segmentation annotation,6
+segmentation code,6
+segmentation ha,6
+segmentation however,6
+selection method,6
+self-distillation approach,6
+self-refinement,6
+self-supervised monocular depth,6
+self-supervised pre-training,6
+semantic ambiguity,6
+semantic concept,6
+semantic content,6
+semantic image synthesis,6
+semantic latent,6
+semantic map,6
+semantic meaning,6
+semantic occupancy prediction,6
+semantic scene,6
+semantic scene completion,6
+semi-supervised medical,6
+semi-supervised medical image,6
+semi-supervised semantic,6
+semi-supervised semantic segmentation,6
+sensor data,6
+sensor modality,6
+sensor noise,6
+sequence modeling,6
+sequence-to-sequence,6
+session,6
+set point,6
+several challenge,6
+several datasets,6
+several method,6
+sgg model,6
+shadow editing,6
+shake,6
+shape prior,6
+shape representation,6
+shape size,6
+sharper,6
+shift training,6
+shoeprints,6
+show effectiveness proposed,6
+show efficacy,6
+show great,6
+show method significantly,6
+showcase potential,6
+showed,6
+shown remarkable performance,6
+sight,6
+signal processing,6
+significant performance degradation,6
+significantly improves model,6
+significantly improves performance,6
+significantly outperforming existing,6
+significantly reduce,6
+significantly surpasses,6
+simple method,6
+simulating,6
+single-,6
+situated,6
+skinning,6
+slam system,6
+sledge,6
+slide-level,6
+sliding,6
+sliding window,6
+slow convergence,6
+slow inference speed,6
+small-scale,6
+smartphone,6
+snapshot compressive imaging,6
+snippet.html,6
+soon,6
+sorting,6
+sounding,6
+source code dataset,6
+source code released,6
+source knowledge,6
+sourced,6
+space diffusion model,6
+space time,6
+sparse feature,6
+sparsessp,6
+spatial context,6
+spatial layout,6
+spatial reasoning,6
+spatial resolution,6
+spatial-aware,6
+specie,6
+specific image,6
+specific information,6
+specific object,6
+specifically first design,6
+specifically first introduce,6
+specifically leverage,6
+spectral super-resolution,6
+speed fps,6
+spherical harmonic,6
+spike stream,6
+splatting 3d-gs,6
+splatting method,6
+spoken language,6
+spoken2sign,6
+sprite,6
+srdf,6
+ssim,6
+stable diffusion xl,6
+state-of-the-art method across,6
+state-of-the-art method source,6
+static image,6
+steer,6
+steganography,6
+still image,6
+still pose,6
+storage overhead,6
+strategy effectively,6
+strategy extensive,6
+strike,6
+strong generalization capability,6
+strong zero-shot,6
+structured representation,6
+style information,6
+subject-specific,6
+substantial margin,6
+substitute model,6
+successive,6
+suffer high,6
+suffer significant,6
+sun,6
+sup-nerf,6
+super,6
+super resolution,6
+superior accuracy,6
+superiority method state-of-the-art,6
+supervised manner,6
+supervision method,6
+supervision training,6
+supplementary material,6
+surpasses existing method,6
+surpasses state-of-the-art method,6
+surpassing previous,6
+swap,6
+synchronous,6
+synonymous,6
+synthesis ha,6
+synthesis scene,6
+t2i generation,6
+ta,6
+tabular data,6
+tailoring,6
+take step,6
+talking head synthesis,6
+taming,6
+target label,6
+target-aware,6
+task-agnostic,6
+teach,6
+temporal coherence,6
+temporal inconsistency,6
+tendency,6
+tensorial,6
+test-time optimization,6
+text token,6
+text-image pair,6
+text-to-3d method,6
+text-to-3d synthesis,6
+text-to-image t2i generation,6
+text-to-video generation,6
+textual inversion,6
+thereby leading,6
+thing,6
+third-person,6
+throughout training,6
+thus eliminating,6
+time complexity,6
+time memory,6
+time propose,6
+tiny imagenet,6
+token-based,6
+tokenizer,6
+tracking mot,6
+tracknerf,6
+traditional image,6
+trained large-scale,6
+training deep,6
+training experiment,6
+training propose,6
+training-free method,6
+trajectory interaction,6
+transformer learn,6
+translated,6
+triangular,6
+tuning method,6
+turbo,6
+turning,6
+two-phase,6
+typographic attack,6
+typography,6
+ua,6
+uap,6
+ubiquitous,6
+ultrasound image,6
+unchanged,6
+unconstrained image,6
+uncovers,6
+understanding capability,6
+understanding however,6
+understanding image,6
+uneven,6
+unification,6
+unitalker,6
+universally,6
+unlabelled data,6
+unlike previous work,6
+unlike prior work,6
+unnecessary,6
+unrestricted,6
+unseen scene,6
+unseen test,6
+unstable feature,6
+unsupervised manner,6
+untrimmed video,6
+user input,6
+user preference,6
+uv mapping,6
+valid,6
+validates,6
+various benchmark datasets,6
+various real-world,6
+vat,6
+vector representation,6
+vectorized map,6
+verb,6
+vi,6
+victim,6
+video action recognition,6
+video face,6
+video introduce,6
+video motion magnification,6
+video text,6
+video-language model,6
+videomamba,6
+videostudio,6
+view consistency,6
+viewed,6
+viewer,6
+vila,6
+vision method,6
+vision sensor,6
+vision-and-language model,6
+visit project,6
+visual attention,6
+visual attribute,6
+visual clue,6
+visual context,6
+visual genome,6
+visual language model,6
+visual observation,6
+visual odometry,6
+visual relationship,6
+visual tracking,6
+visually appealing,6
+vital role,6
+vllms,6
+vln,6
+wall,6
+watermarking framework,6
+wavelength,6
+way future,6
+weak supervision,6
+weather forecasting,6
+web-crawled,6
+web-scale,6
+well unseen,6
+well-aligned,6
+well-established,6
+wide spectrum,6
+wide-angle,6
+widely used benchmark,6
+widely used datasets,6
+wifi-based,6
+within latent,6
+work well,6
+worldwide,6
+worse,6
+worst-case,6
+writing,6
+wrong,6
+wsi classification,6
+yet often,6
+yield state-of-the-art,6
+youtube,6
+zero-shot few-shot,6
+zoom,6
+’ generalization ability,6
+’ reasoning,6
+’ representation,6
+’ understanding,6
+” module,6
